@@ -87,8 +87,11 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana TV
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFo5u4QTmLL1pdpYDVHxE25EIW_GYtjw89Q4NzPzGEtd0)/dm/3/x774s7s/s/live-3.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV" group-title="Peru", AMERICA TV
+#EXTINF:-1 tvg-id="AmericaTV" tvg-logo="https://th.bing.com/th/id/R.f8ca323be45e2c38c0741955a8727561?rik=rbkHOq%2bVLka3QQ&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogopedia%2fimages%2f2%2f2b%2fAmerica_tv-1-.png%2frevision%2flatest%3fcb%3d20110807021724&ehk=kc0kr%2ft%2fIvTddS9LQuan%2bm02K2cLirAgIHpDKD%2f6fhY%3d&risl=&pid=ImgRaw&r=0" group-title="Peru", AMERICA TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=KS3gRs5ISGjbpOxaMqF4i0KDZZWIieUe&sid=UuO5Uzl1NQWLw7IaMudtKOqWCY6ECtFs&pid=Fqvv1yhkQe6rrZHkWnNEZ1AHsBbXAJzQ&an=screen&at=web-app&av=v5.2.371&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1343x755&without_cookies=false&listenerid=&dnt=true&access_token=UdV6HrAoj9TgDEgbUZaaUYMxQotzfvxpQIam0wiktxvBKLrEwIzLt6CUhRUDdGCwtB9TYQoozZn
+
+#EXTINF:-1 tvg-id="Willax-tv" tvg-logo="https://th.bing.com/th/id/R.88486d291d8b128d2c0ee6c953eff792?rik=jbj%2b7BqBtA5nXg&pid=ImgRaw&r=0" group-title="Peru", Willax TV
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=DcTPX3JZopEHrzL3WpiDmbH-qCKVR81vMxQBAHJkIhZ9avncw6DLXuyMeypzEXbC&dmTs=572058&dmV1st=e714aa0e-34c1-43d8-881e-799bbb13ccdc
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Peru",PBO Digital (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
