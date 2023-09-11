@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="General",Esports Max [Not 24/7]
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet (360p)
