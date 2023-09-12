@@ -90,7 +90,7 @@ https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV (470p)
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ Noticias (720p)
+#EXTINF:-1 tvg-id="atvmas.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ Noticias (720p)
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV (720p)
@@ -102,10 +102,10 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana TV
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFo5u4QTmLL1pdpYDVHxE25EIW_GYtjw89Q4NzPzGEtd0)/dm/3/x774s7s/s/live-3.m3u8
 
-#EXTINF:-1 tvg-id="America-tv" tvg-logo="https://th.bing.com/th/id/OIP.5BDxmDTebI3kbs9CH3iOIgHaHg?pid=ImgDet&rs=1" group-title="Peru", AMERICA TV
+#EXTINF:-1 tvg-id="America.tv" tvg-logo="https://th.bing.com/th/id/OIP.5BDxmDTebI3kbs9CH3iOIgHaHg?pid=ImgDet&rs=1" group-title="Peru", AMERICA TV
 http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454794
 
-#EXTINF:-1 tvg-id="America-tv2" tvg-logo="https://th.bing.com/th/id/OIP.5BDxmDTebI3kbs9CH3iOIgHaHg?pid=ImgDet&rs=1" group-title="Peru", AMERICA TV
+#EXTINF:-1 tvg-id="America.tv2" tvg-logo="https://th.bing.com/th/id/OIP.5BDxmDTebI3kbs9CH3iOIgHaHg?pid=ImgDet&rs=1" group-title="Peru", AMERICA TV
 http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454793
 
 #EXTINF:-1 tvg-id="Willax-tv" tvg-logo="https://th.bing.com/th/id/R.88486d291d8b128d2c0ee6c953eff792?rik=jbj%2b7BqBtA5nXg&pid=ImgRaw&r=0" group-title="Peru", Willax TV
@@ -180,11 +180,11 @@ http://38.43.140.97:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-ID="Goltv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Sport",GolTV HD
 http://38.43.140.97:8000/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Sports" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Sport" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 group-title="Sports",|SP| DAZN LALIGA
+#EXTINF:-1 group-title="Sport",|SP| DAZN LALIGA
 http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/194257
 
-#EXTINF:-1 group-title="Sports",|ES| M. LALIGA
+#EXTINF:-1 group-title="Sport",|ES| M. LALIGA
 http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/127849
