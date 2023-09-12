@@ -3,11 +3,23 @@
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AnimaxRevival.cl" tvg-logo="https://animax.lat/assets/img/logo-512.png" group-title="Animation",Animax Revival (936p)
+https://streaming.zappix.live:3062/live/animaxlive.m3u8
+
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids (486p)
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animation",Xtrema Anime (360p)
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet (360p)
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="General",Mega TV (Arequipa) [Not 24/7]
 https://hls.servidor.stream/storage/megatv.m3u8
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español (576p)
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="General",Señal Perú TV (404p) [Not 24/7]
 https://livestream.perucast.com/hls/stream.m3u8
@@ -69,6 +81,9 @@ https://tv.portalexpress.es:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="VZTV.pe" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="Animation",VZ TV (720p)
 https://live.obslivestream.com/vztv/index.m3u8
 
+#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p)
 https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
 
@@ -88,7 +103,10 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFo5u4QTmLL1pdpYDVHxE25EIW_GYtjw89Q4NzPzGEtd0)/dm/3/x774s7s/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="America-tv" tvg-logo="https://th.bing.com/th/id/OIP.5BDxmDTebI3kbs9CH3iOIgHaHg?pid=ImgDet&rs=1" group-title="Peru", AMERICA TV
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=KS3gRs5ISGjbpOxaMqF4i0KDZZWIieUe&sid=Z1PeM0Flk3X5FEmtolsyxFYTjFGKYLJ8&pid=NWgJ9UqJTsj1l0CfFRKIeMUUknWusFXT&an=screen&at=web-app&av=v5.2.371&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1343x755&without_cookies=false&listenerid=&dnt=true&access_token=sig9Fkp5cjz2D3RiidP7VA9NmaGDJBqO6KCPDHH9svDZbrkrVkLT05uJE9EjDIFB3pOwPxbDOAS
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454794
+
+#EXTINF:-1 tvg-id="America-tv2" tvg-logo="https://th.bing.com/th/id/OIP.5BDxmDTebI3kbs9CH3iOIgHaHg?pid=ImgDet&rs=1" group-title="Peru", AMERICA TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454793
 
 #EXTINF:-1 tvg-id="Willax-tv" tvg-logo="https://th.bing.com/th/id/R.88486d291d8b128d2c0ee6c953eff792?rik=jbj%2b7BqBtA5nXg&pid=ImgRaw&r=0" group-title="Peru", Willax TV
 https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=DcTPX3JZopEHrzL3WpiDmbH-qCKVR81vMxQBAHJkIhZ9avncw6DLXuyMeypzEXbC&dmTs=572058&dmV1st=e714aa0e-34c1-43d8-881e-799bbb13ccdc
@@ -104,6 +122,9 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 
 #EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Music",Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" group-title="Music" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Music",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
@@ -158,3 +179,12 @@ http://38.43.140.97:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-ID="Goltv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Sport",GolTV HD
 http://38.43.140.97:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Sports" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
+#EXTINF:-1 group-title="Sports",|SP| DAZN LALIGA
+http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/194257
+
+#EXTINF:-1 group-title="Sports",|ES| M. LALIGA
+http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/127849
