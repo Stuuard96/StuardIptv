@@ -182,3 +182,6 @@ http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/194257
 
 #EXTINF:-1 group-title="Sport",M. LALIGA
 http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/127849
+
+#EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
+http://45.166.92.22:58001/play/a04d/index.m3u8
