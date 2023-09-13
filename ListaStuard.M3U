@@ -12,8 +12,26 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animation",Xtrema Anime (360p)
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids (360p)
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Animation",RadioInka (Abancay) (1080p)
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop (720p)
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeekFanpop2.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop 2 (720p)
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p)
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet (360p)
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="General",Mega TV (Arequipa)
 https://hls.servidor.stream/storage/megatv.m3u8
@@ -39,20 +57,11 @@ http://45.166.92.22:58001/play/a00q/index.m3u8
 #EXTINF:-1 tvg-ID="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="General",AXN
 http://45.166.92.22:58001/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-ID="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/History_HD_Logo.svg" group-title="General",HISTORY HD
-http://38.43.140.97:8000/play/a03k/index.m3u8
-
 #EXTINF:-1 tvg-ID="Warner-channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/280px-Warner_Channel_HD.svg.png" group-title="General",WARNER HD
 http://45.166.92.22:58001/play/a049/index.m3u8
 
-#EXTINF:-1 tvg-id="Hbo-hd" tvg-logo="https://th.bing.com/th/id/R.dfa90de31e1d22f1a939a75fe916f98b?rik=G67495qdkTz%2bMQ&pid=ImgRaw&r=0" group-title="General",HBO HD
-http://38.43.140.97:8000/play/a01h/index.m3u8
-
 #EXTINF:-1 tvg-id="Hbo2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="General",HBO 2
 http://38.43.140.97:8000/play/a043/index.m3u8
-
-#EXTINF:-1 tvg-id="Hbo-pop" tvg-logo="https://th.bing.com/th/id/OIP.Wws2yCtAapbB9Dclw6zJmwAAAA?pid=ImgDet&rs=1" group-title="General",HBO POP HD
-http://38.43.140.97:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-id="Hbo-plus" tvg-logo="https://1.bp.blogspot.com/-hbb2olvPtcs/YavslEKEx0I/AAAAAAAA-E4/gt3ERt1ckLkKpPke8_6dixkVqwg_yXXLACNcBGAsYHQ/w1200-h630-p-k-no-nu/HBO-plus-2019.png" group-title="General",HBO Plus
 http://38.43.140.97:8000/play/a044/index.m3u8
@@ -64,28 +73,13 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 http://45.166.92.22:58001/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="mastelevisionlive" tvg-logo="hhttps://th.bing.com/th/id/OIP.ggDiMNNa0O88DBNrKQD52gHaEK?pid=ImgDet&rs=1" group-title="General", Canal Telesistema
-https://video20.klm99.com:3621/live/mastelevisionlive.m3u8
+https://video20.klm99.com:3621/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="VZTV.pe" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="Animation",VZ TV (720p)
+#EXTINF:-1 tvg-id="VZTV.pe" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="General",VZ TV (720p)
 https://live.obslivestream.com/vztv/index.m3u8
 
-#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids (360p)
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Animation",Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
-
-#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Animation",RadioInka (Abancay) (1080p)
-https://tv.portalexpress.es:3175/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop (720p)
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeekFanpop2.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop 2 (720p)
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p)
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Music",Millenium 109 FM (Lamas)
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
@@ -138,22 +132,19 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV (480p)
 https://mediacp.us:8081/8002/index.m3u8
 
-#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Music",Millenium 109 FM (Lamas) (720p) [Not 24/7]
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-
 #EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Music",Radio Rutas del Perú (360p) [Not 24/7]
 https://tv.portalexpress.es:3731/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="Music",Top FM TV (Atalaya) (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="Music",Top FM TV (Atalaya) (240p)
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical Tarapoto (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical Tarapoto (480p)
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV (360p) 
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Music",TV Peruanísima (720p) [Not 24/7]
@@ -185,9 +176,6 @@ http://38.43.140.97:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-ID="Goltv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Sport",GolTV HD
 http://38.43.140.97:8000/play/a00s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Sport" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 #EXTINF:-1 group-title="Sport",DAZN LALIGA
 http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/194257
