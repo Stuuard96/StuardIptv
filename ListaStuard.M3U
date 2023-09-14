@@ -185,3 +185,6 @@ http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/127849
 
 #EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://www.freeiconspng.com/uploads/real-madrid-logo-png-8.png" group-title="Sport",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
