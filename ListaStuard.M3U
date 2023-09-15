@@ -556,10 +556,10 @@ https://i.mjh.nz/PlutoTV/60e45687313c5f0007bc8e94-alt.m3u8
 #EXTINF:-1 channel-id="pluto-61cd7b49543066000713b620" tvg-id="61cd7b49543066000713b620" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" tvg-chno="451" group-title="Pluto TV ES" , Pluto TV Historia
 https://i.mjh.nz/PlutoTV/61cd7b49543066000713b620-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" tvg-chno="455" group-title="Pluto TV ES + Lifestyle" , Pluto TV Documentales
+#EXTINF:-1 channel-id="pluto-61cd78920b90cb0007e28231" tvg-id="61cd78920b90cb0007e28231" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" tvg-chno="455" group-title="Pluto TV ES" , Pluto TV Documentales
 https://i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" tvg-chno="457" group-title="Pluto TV ES + Lifestyle" , Pluto TV Animales
+#EXTINF:-1 channel-id="pluto-600ae6a78d801e0007117d21" tvg-id="600ae6a78d801e0007117d21" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" tvg-chno="457" group-title="Pluto TV ES" , Pluto TV Animales
 https://i.mjh.nz/PlutoTV/600ae6a78d801e0007117d21-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" tvg-chno="600" group-title="Pluto TV ES" , VH1 Classics
