@@ -222,23 +222,8 @@ https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-600728952b1776000776526d" tvg-id="600728952b1776000776526d" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" tvg-chno="100" group-title="PlutoTV MX" , Paramount+ Presenta
 https://i.mjh.nz/PlutoTV/600728952b1776000776526d-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" tvg-chno="104" group-title="PlutoTV MX" , CSI: Miami
-https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" tvg-chno="108" group-title="PlutoTV MX" , NCIS
-https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5dcde1317578340009b751d0" tvg-id="5dcde1317578340009b751d0" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" tvg-chno="140" group-title="PlutoTV MX" , Pluto TV Series
 https://i.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-624f4d4a4321e200073f46e0" tvg-id="624f4d4a4321e200073f46e0" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" tvg-chno="146" group-title="PlutoTV MX" , The Night Shift
-https://i.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-620ac814864949000724fb77" tvg-id="620ac814864949000724fb77" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png" tvg-chno="153" group-title="PlutoTV MX" , Schitt's Creek
-https://i.mjh.nz/PlutoTV/620ac814864949000724fb77-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-619d56d9fa3070000709e3f7" tvg-id="619d56d9fa3070000709e3f7" tvg-logo="https://images.pluto.tv/channels/619d56d9fa3070000709e3f7/colorLogoPNG.png" tvg-chno="175" group-title="PlutoTV MX" , Younger
-https://i.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6185a9a88b2ce30007de5128" tvg-id="6185a9a88b2ce30007de5128" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png" tvg-chno="180" group-title="PlutoTV MX" , Pluto TV Dramas Coreanos
 https://i.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
@@ -258,86 +243,17 @@ https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 #EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" tvg-chno="211" group-title="PlutoTV MX" , Hechizada
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6487761d17f5e10008cbc000" tvg-id="6487761d17f5e10008cbc000" tvg-logo="https://images.pluto.tv/channels/6487761d17f5e10008cbc000/colorLogoPNG.png" tvg-chno="223" group-title="PlutoTV MX" , Los Ángeles de Charlie
-https://i.mjh.nz/PlutoTV/6487761d17f5e10008cbc000-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6489c45766e48500083cceb6" tvg-id="6489c45766e48500083cceb6" tvg-logo="https://images.pluto.tv/channels/6489c45766e48500083cceb6/colorLogoPNG.png" tvg-chno="231" group-title="PlutoTV MX" , Starsky & Hutch
-https://i.mjh.nz/PlutoTV/6489c45766e48500083cceb6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" tvg-chno="235" group-title="PlutoTV MX" , MacGyver
-https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63eb93a1c111bc0008fe6f5b" tvg-id="63eb93a1c111bc0008fe6f5b" tvg-logo="https://images.pluto.tv/channels/63eb93a1c111bc0008fe6f5b/colorLogoPNG.png" tvg-chno="250" group-title="PlutoTV MX" , Beverly Hills 90210
-https://i.mjh.nz/PlutoTV/63eb93a1c111bc0008fe6f5b-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6489c42e976ee90008547503" tvg-id="6489c42e976ee90008547503" tvg-logo="https://images.pluto.tv/channels/6489c42e976ee90008547503/colorLogoPNG.png" tvg-chno="253" group-title="PlutoTV MX" , Loco Por Ti
-https://i.mjh.nz/PlutoTV/6489c42e976ee90008547503-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" tvg-chno="259" group-title="PlutoTV MX" , Los Tres Chiflados
-https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62e017e44823db000726cd9a" tvg-id="62e017e44823db000726cd9a" tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" tvg-chno="261" group-title="PlutoTV MX" , The Ed Sullivan Show
-https://i.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-60142258a54aeb0007751c15" tvg-id="60142258a54aeb0007751c15" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" tvg-chno="265" group-title="PlutoTV MX" , Pluto TV Retro Cartoons
 https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" tvg-chno="278" group-title="PlutoTV MX" , Pluto TV Novelas
 https://i.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-604bdf4e6d0abc0007ba77ad" tvg-id="604bdf4e6d0abc0007ba77ad" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" tvg-chno="328" group-title="PlutoTV MX" , Sin Tetas No Hay Paraíso
-https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63211ba9cad976000794f988" tvg-id="63211ba9cad976000794f988" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png" tvg-chno="331" group-title="PlutoTV MX" , La Selección
-https://i.mjh.nz/PlutoTV/63211ba9cad976000794f988-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61f159209fcc3800076ed4a1" tvg-id="61f159209fcc3800076ed4a1" tvg-logo="https://images.pluto.tv/channels/61f159209fcc3800076ed4a1/colorLogoPNG.png" tvg-chno="367" group-title="PlutoTV MX" , Rock Story
-https://i.mjh.nz/PlutoTV/61f159209fcc3800076ed4a1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5dcde197f6591d0009839e04" tvg-id="5dcde197f6591d0009839e04" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" tvg-chno="380" group-title="PlutoTV MX" , Pluto TV Reality
-https://i.mjh.nz/PlutoTV/5dcde197f6591d0009839e04-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" tvg-chno="383" group-title="PlutoTV MX" , MTV Drag
-https://i.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5fab088b3279760007d4e4fd" tvg-id="5fab088b3279760007d4e4fd" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" tvg-chno="385" group-title="PlutoTV MX" , MTV Pluto TV
-https://i.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-chno="387" group-title="PlutoTV MX" , MTV Classic
-https://i.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" tvg-chno="389" group-title="PlutoTV MX" , MTV Shore
-https://i.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-638693db857364000781b471" tvg-id="638693db857364000781b471" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" tvg-chno="391" group-title="PlutoTV MX" , MTV Con Mi Ex
-https://i.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" tvg-chno="393" group-title="PlutoTV MX" , MTV Ridiculousness
-https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" tvg-chno="395" group-title="PlutoTV MX" , MTV Teen Mom
-https://i.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" tvg-chno="397" group-title="PlutoTV MX" , MTV Catfish
-https://i.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5dd6d935d000120009bc1132" tvg-id="5dd6d935d000120009bc1132" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png" tvg-chno="427" group-title="PlutoTV MX" , Pluto TV  Competencias
 https://i.mjh.nz/PlutoTV/5dd6d935d000120009bc1132-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5e46e64dc73db400094b5f0b" tvg-id="5e46e64dc73db400094b5f0b" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" tvg-chno="447" group-title="PlutoTV MX" , Minuto Para Ganar
-https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6099600015e88c0007ecda25" tvg-id="6099600015e88c0007ecda25" tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" tvg-chno="451" group-title="PlutoTV MX" , Boom
-https://i.mjh.nz/PlutoTV/6099600015e88c0007ecda25-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5ed6828192e8b3000743ef61" tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" tvg-chno="455" group-title="PlutoTV MX" , Wipe Out
-https://i.mjh.nz/PlutoTV/5ed6828192e8b3000743ef61-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" tvg-chno="477" group-title="PlutoTV MX" , Pluto TV Naturaleza
 https://i.mjh.nz/PlutoTV/5dd85eac039bba0009e86d1d-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f4fed840a2764000720d966" tvg-id="5f4fed840a2764000720d966" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" tvg-chno="480" group-title="PlutoTV MX" , Paisajes por Stingray
-https://i.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" tvg-chno="483" group-title="PlutoTV MX" , Pluto TV Animales
 https://i.mjh.nz/PlutoTV/5dd834c66fe2ca0009303b8d-alt.m3u8
@@ -347,18 +263,6 @@ https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" tvg-chno="489" group-title="PlutoTV MX" , Pluto TV Aventura
 https://i.mjh.nz/PlutoTV/5ddc266f80e3550009136843-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62154548a2be360007cb02f0" tvg-id="62154548a2be360007cb02f0" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" tvg-chno="492" group-title="PlutoTV MX" , Ice Pilots
-https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5dd6dc7480e3550009133d4a" tvg-id="5dd6dc7480e3550009133d4a" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" tvg-chno="500" group-title="PlutoTV MX" , Pluto TV Velocidad
-https://i.mjh.nz/PlutoTV/5dd6dc7480e3550009133d4a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5df265697ec3510009df1ef0" tvg-id="5df265697ec3510009df1ef0" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" tvg-chno="515" group-title="PlutoTV MX" , Pluto TV Vida Real
-https://i.mjh.nz/PlutoTV/5df265697ec3510009df1ef0-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6419ab7c9189ce000865a469" tvg-id="6419ab7c9189ce000865a469" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" tvg-chno="518" group-title="PlutoTV MX" , COPS
-https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f9992c685a2a80007fa414a" tvg-id="5f9992c685a2a80007fa414a" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" tvg-chno="521" group-title="PlutoTV MX" , Dog el cazarrecompensas
 https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
@@ -380,9 +284,6 @@ https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-645d1abbe1979c0008779d5a" tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" tvg-chno="552" group-title="PlutoTV MX" , Archivos Extraterrestres
 https://i.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63a084934734f30007457b2c" tvg-id="63a084934734f30007457b2c" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" tvg-chno="560" group-title="PlutoTV MX" , Smithsonian Channel Pluto TV
-https://i.mjh.nz/PlutoTV/63a084934734f30007457b2c-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" tvg-chno="563" group-title="PlutoTV MX" , Pluto TV Historia
 https://i.mjh.nz/PlutoTV/5de5758e1a30dc00094fcd6c-alt.m3u8
@@ -462,7 +363,6 @@ https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 #EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" tvg-chno="1485" group-title="PlutoTV MX" , Pluto TV Anime Kids
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
 
-
 #EXTINF:-1 channel-id="pluto-64a3f200f238ce0008d47247" tvg-id="64a3f200f238ce0008d47247" tvg-logo="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png" tvg-chno="40" group-title="Pluto TV ES" , Pluto TV True Crime
 https://i.mjh.nz/PlutoTV/64a3f200f238ce0008d47247-alt.m3u8
 
@@ -477,9 +377,6 @@ https://i.mjh.nz/PlutoTV/6245c03922d9d4000760d205-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63eb93cea995710008989e3a" tvg-id="63eb93cea995710008989e3a" tvg-logo="https://images.pluto.tv/channels/63eb93cea995710008989e3a/colorLogoPNG.png" tvg-chno="104" group-title="Pluto TV ES" , Los Ángeles de Charlie
 https://i.mjh.nz/PlutoTV/63eb93cea995710008989e3a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60f58f2278490000079bc47b" tvg-id="60f58f2278490000079bc47b" tvg-logo="https://images.pluto.tv/channels/60f58f2278490000079bc47b/colorLogoPNG.png" tvg-chno="106" group-title="Pluto TV ES" , La niñera
-https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-60b4c06717da110007ee1af6" tvg-id="60b4c06717da110007ee1af6" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png" tvg-chno="107" group-title="Pluto TV ES" , Pluto TV Telenovelas
 https://i.mjh.nz/PlutoTV/60b4c06717da110007ee1af6-alt.m3u8
