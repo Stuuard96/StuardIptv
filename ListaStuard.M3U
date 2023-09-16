@@ -102,7 +102,7 @@ https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Peru",Señal Perú TV (404p)
 https://livestream.perucast.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Peru",TV Peru 7 (480p)
+#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Peru",TV Peru 7
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
 
 #EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Music",Intuitiva TV
@@ -156,17 +156,14 @@ http://45.166.92.22:58001/play/a02m/index.m3u8
 #EXTINF:-1 tvg-ID="Fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Sport",FOX SPORTS 3 HD
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-ID="movistar-deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="Sport",Movistar Deportes HD
-http://38.43.140.97:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
+http://45.166.92.22:58001/play/a04d/index.m3u8
 
 #EXTINF:-1 group-title="Sport",DAZN LALIGA
 http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/194257
 
 #EXTINF:-1 group-title="Sport",M. LALIGA
 http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/127849
-
-#EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
-http://45.166.92.22:58001/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://www.freeiconspng.com/uploads/real-madrid-logo-png-8.png" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
