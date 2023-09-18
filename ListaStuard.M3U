@@ -3,7 +3,10 @@
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AnimaxRevival.cl" tvg-logo="https://animax.lat/assets/img/logo-512.png" group-title="Animation",Animax Revival (936p)
+#EXTINF:-1 tvg-id="animeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Animation", AnimeStation | AR
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimaxRevival.cl" tvg-logo="https://animax.lat/assets/img/logo-512.png" group-title="Animation",Animax Revival
 https://streaming.zappix.live:3062/live/animaxlive.m3u8
 
 #EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids (486p)
@@ -65,6 +68,18 @@ https://video20.klm99.com:3621/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="VZTV.pe" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="General",VZ TV (720p)
 https://live.obslivestream.com/vztv/index.m3u8
+
+#EXTINF:-1 tvg-id="planeta-tv" tvg-name="PlanetaTV Kids" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="General", PlanetaTV Kids | CL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="planeta-movie" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="General", PlanetaTV Movies | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+
+#EXTINF:-1 tvg-id="retro-plus" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="General", Retro Plus TV Señal 3 | CL
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1435" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="General", +Cine | CL
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Music",Millenium 109 FM (Lamas)
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
