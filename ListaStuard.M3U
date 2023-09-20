@@ -63,6 +63,9 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1 tvg-ID="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="General",CINECANAL SD
 http://45.166.92.22:58001/play/a02f/index.m3u8
 
+#EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="General",Central TV (Chosica) (614p)
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VZTV.pe" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="General",VZ TV (720p)
 https://live.obslivestream.com/vztv/index.m3u8
 
@@ -71,6 +74,9 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="planeta-movie" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="General", PlanetaTV Movies | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+
+#EXTINF:-1 tvg-id="vision-tv" tvg-logo="https://th.bing.com/th/id/R.f74c30d538e8edffbd54458a3065ea60?rik=W2TeUe6B%2bpBViw&pid=ImgRaw&r=0" group-title="General",Vision TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-id="retro-plus" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="General", Retro Plus TV Señal 3 | CL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
@@ -110,6 +116,9 @@ https://livestream.perucast.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Peru",TV Peru 
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
+
+#EXTINF:-1 tvg-id="unitelperu.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Peru",UNITEL PERÚ
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
 #EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Music",Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
@@ -153,6 +162,9 @@ https://ca2.inka.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="ESPNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN HD
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
+#EXTINF:-1 tvg-ID="ESPN-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 HD
+http://45.166.92.22:58001/play/a01i/index.m3u8
+
 #EXTINF:-1 tvg-ID="ESPN-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Sport",ESPN 3 HD
 http://45.166.92.22:58001/play/a01h/index.m3u8
 
@@ -170,3 +182,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" tvg-chno="800" group-title="Sport" , La Liga Premier | Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+
+#EXTINF:-1 tvg-id="gol-peru" tvg-logo="https://3.bp.blogspot.com/-mReXjLmsakc/WPLPLrxkbUI/AAAAAAAAAfE/bDtiGW4HomYjxYtR8LBoTsdOMqU99PBxACEw/s1600/golperu.png" group-title="Sport",GOL PERU (HD)
+http://45.166.92.22:58001/play/a04k/index.m3u8
