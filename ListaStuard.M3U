@@ -99,12 +99,6 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
-#EXTINF:-1 tvg-id="America.tv" tvg-logo="https://th.bing.com/th/id/OIP.5BDxmDTebI3kbs9CH3iOIgHaHg?pid=ImgDet&rs=1" group-title="Peru", AMERICA TV
-http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454794
-
-#EXTINF:-1 tvg-id="America.tv2" tvg-logo="https://th.bing.com/th/id/OIP.5BDxmDTebI3kbs9CH3iOIgHaHg?pid=ImgDet&rs=1" group-title="Peru", AMERICA TV
-http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454793
-
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Peru",PBO Digital (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
@@ -114,8 +108,8 @@ https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Peru",Señal Perú TV (404p)
 https://livestream.perucast.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Peru",TV Peru 7
-https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
+#EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Peru",TV Peru 
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
 
 #EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Music",Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
@@ -170,12 +164,6 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
-
-#EXTINF:-1 group-title="Sport",DAZN LALIGA
-http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/194257
-
-#EXTINF:-1 group-title="Sport",M. LALIGA
-http://p1.proiptv.co:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/127849
 
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://www.freeiconspng.com/uploads/real-madrid-logo-png-8.png" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
