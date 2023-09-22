@@ -27,6 +27,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p)
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 
+#EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="General", VariedTV | AR
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet (360p)
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
@@ -79,10 +82,16 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-id="retro-plus" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="General", Retro Plus TV Señal 3 | CL
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1435" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="General", +Cine | CL
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="cine-cl" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="General", +Cine | CL
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+
+#EXTINF:-1 tvg-id="prime-movie-cl" tvg-logo="https://cdn.m3u.cl/logo/1320_TV_PRIME_Movie.png" group-title="General", TV PRIME Movie | CL
+https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8
+
+#EXTINF:-1 tvg-id="mytime-spain" tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="General", MY TIME MOVIES 
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Music",Millenium 109 FM (Lamas)
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
@@ -159,6 +168,15 @@ https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bestcableperu.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Cable Cumbia (720p)
 https://ca2.inka.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
 
+#EXTIN:-1 tvg-ID="espn-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN ar
+http://181.78.8.90:16123/play/ch16?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
+#EXTINF:-1 tvg-ID="espn2-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 ar
+http://181.78.8.90:16123/play/ch17?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
+#EXTINF:-1 tvg-ID="espn3-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Sport",ESPN 3 ar
+http://181.78.8.90:16123/play/ch18?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
 #EXTINF:-1 tvg-ID="ESPNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN HD
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
@@ -171,8 +189,17 @@ http://45.166.92.22:58001/play/a01h/index.m3u8
 #EXTINF:-1 tvg-ID="ESPN-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Sport",ESPN 4 HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
-#EXTINF:-1 tvg-ID="Fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Sport",FOX SPORTS 3 HD
+#EXTINF:-1 tvg-ID="fox-sports" tvg-logo="https://th.bing.com/th/id/OIP.IWzN4UZLMlbvv__YxaTJegHaEb?pid=ImgDet&rs=1" group-title="Sport, FOX Sports HD 🇦🇷
+http://190.108.85.20:9999/play/a011
+
+#EXTINF:-1 tvg-ID="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Sport,Fox Sports 2 HD 🇦🇷
+http://190.61.43.117:45000/play/a01g
+
+#EXTINF:-1 tvg-ID="fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Sport",FOX SPORTS 3 HD
 http://45.166.92.22:58001/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-ID="direct-tv-sport" tvg-logo="https://th.bing.com/th/id/OIP.hsIL8F02z7zCQ4Sl01tTGQHaCi?pid=ImgDet&rs=1" group-title="Sport",DIRECTV SPORTS 🇦🇷
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
 
 #EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
