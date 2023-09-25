@@ -75,11 +75,17 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 #EXTINF:-1 tvg-id="planeta-movie" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="General",PlanetaTV Movies | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
-#EXTINF:-1 tvg-id="retro-plus" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="General",Retro Plus TV Señal 3 | CL
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="origencl-tv" tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/08/LOGO-ROJO_0002_LOGO-tv2-1024x552.png" group-title="General",Origen TV
+https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cine-cl" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="General",+Cine | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+
+#EXTINF:-1 tvg-id="retro-plus" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="General",Retro Plus TV Señal 3 | CL
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="old-tv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="General",Old
+https://marine2.miplay.cl/old/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
@@ -99,8 +105,17 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
+#EXTINF:-1 tvg-id="americape-tv" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="Peru",América Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1235595531&_cdn_timestamp=1695926619&_cdn_token=f4567ed911fd150f693e412f40792c9f6e42450f
+
+#EXTINF:-1 tvg-id="panamericanape-tv" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="Peru",Panamericana Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1238602403&_cdn_timestamp=1696014146&_cdn_token=34a32cef28dfaa9b75ce4269f0911ff5481eb31e
+
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Peru",PBO Digital
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+
+#EXTINF:-1 tvg-id="willaxpe-tv" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Solo-Willax-fondo-blanco-300x99-1-.png/revision/latest/scale-to-width-down/600?cb=20181030171804" group-title="Peru", Willax Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1238590955&_cdn_timestamp=1696014026&_cdn_token=c0d42616dedd5f50448017c4a56861549c6270e1
 
 #EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="Peru",QT Televisión (Cuzco)
 https://servilive.com:3753/live/qosqotimeslive.m3u8
@@ -144,16 +159,28 @@ https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bestcableperu-mc.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Cable Cumbia
 https://ca2.inka.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-ID="ESPNHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN HD
+#EXTINF:-1 tvg-ID="espnhd-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN HD 🇦🇷
+http://190.61.43.117:45000/play/a01l
+
+#EXTINF:-1 tvg-ID="espnhd2-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 HD 🇦🇷
+http://190.61.43.117:45000/play/a053
+
+#EXTINF:-1 tvg-ID="espn3hd-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Sport",ESPN 3 HD 🇦🇷
+http://190.61.43.117:45000/play/a051
+
+#EXTINF:-1 tvg-ID="espn4-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Sport",ESPN 4 🇦🇷
+http://190.61.43.117:45000/play/a06w
+
+#EXTINF:-1 tvg-ID="espnhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN HD
 http://45.166.92.22:58001/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 HD
+#EXTINF:-1 tvg-ID="espn-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 HD
 http://45.166.92.22:58001/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Sport",ESPN 3 HD
+#EXTINF:-1 tvg-ID="espn-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Sport",ESPN 3 HD
 http://45.166.92.22:58001/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-ID="ESPN-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Sport",ESPN 4 HD
+#EXTINF:-1 tvg-ID="espn-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Sport",ESPN 4 HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-ID="fox-sports" tvg-logo="https://th.bing.com/th/id/OIP.IWzN4UZLMlbvv__YxaTJegHaEb?pid=ImgDet&rs=1" group-title="Sport", FOX Sports HD 🇦🇷
@@ -165,8 +192,11 @@ http://190.61.43.117:45000/play/a01g
 #EXTINF:-1 tvg-ID="fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Sport",FOX SPORTS 3 HD
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-ID="direct-tv-sport" tvg-logo="https://th.bing.com/th/id/OIP.hsIL8F02z7zCQ4Sl01tTGQHaCi?pid=ImgDet&rs=1" group-title="Sport",DIRECTV SPORTS 🇦🇷
+#EXTINF:-1 tvg-ID="direct-tv-sport-ar" tvg-logo="https://th.bing.com/th/id/OIP.hsIL8F02z7zCQ4Sl01tTGQHaCi?pid=ImgDet&rs=1" group-title="Sport",DIRECTV SPORTS 🇦🇷
 http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
+
+#EXTINF:-1 tvg-ID="direct-tv-sport-cl" tvg-logo="https://th.bing.com/th/id/OIP.hsIL8F02z7zCQ4Sl01tTGQHaCi?pid=ImgDet&rs=1" group-title="Sport",DIRECTV SPORTS Chile 🇨🇱
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/86584
 
 #EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
