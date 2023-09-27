@@ -210,12 +210,6 @@ http://190.61.43.117:45000/play/a01g
 #EXTINF:-1 tvg-ID="fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Sport",FOX SPORTS 3 HD
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-ID="direct-tv-sport-ar" tvg-logo="https://th.bing.com/th/id/OIP.hsIL8F02z7zCQ4Sl01tTGQHaCi?pid=ImgDet&rs=1" group-title="Sport",DIRECTV SPORTS 🇦🇷
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
-
-#EXTINF:-1 tvg-ID="direct-tv-sport-cl" tvg-logo="https://th.bing.com/th/id/OIP.hsIL8F02z7zCQ4Sl01tTGQHaCi?pid=ImgDet&rs=1" group-title="Sport",DIRECTV SPORTS Chile 🇨🇱
-http://playhispano.org:8080/RolaM/TZRfjE6xGN/86584
-
 #EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
 
@@ -233,3 +227,12 @@ http://38.43.140.97:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="liga1-max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="Sport",Liga 1 Max
 http://161.132.243.192:50001/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-id="dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="Sport",DSports
+http://209.45.81.84:8000/play/a03d
+
+#EXTINF:-1 tvg-id="dsports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="Sport",DSports 2
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1644.m3u8
+
+#EXTINF:-1 tvg-id="dsports+" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="Sport",DSports +
+http://177.53.153.21:8001/play/a00i/index.m3u8
