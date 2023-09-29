@@ -51,12 +51,6 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="orbit-tv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="General", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tcm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="General",TCM
-http://177.53.153.21:8001/play/a07n/index.m3u8
-
-#EXTINF:-1 tvg-id="VZTV.pe" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="General",VZ TV
-https://live.obslivestream.com/vztv/index.m3u8
-
 #EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV 4 Películas
 https://live.seo.tv.bo/live/4SEO.m3u8
 
@@ -84,14 +78,8 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 #EXTINF:-1 tvg-ID="Warner-channel" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Warner-Bros-Logo.png" group-title="General",WARNER HD
 http://45.166.92.22:58001/play/a049/index.m3u8
 
-#EXTINF:-1 tvg-ID="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="General",Telemundo HD
-http://45.166.92.22:58001/play/a00r/index.m3u8
-
 #EXTINF:-1 tvg-ID="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="General",CINECANAL SD
 http://45.166.92.22:58001/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="General",Central TV (Chosica)
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="planeta-movie" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="General",PlanetaTV Movies | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
@@ -127,7 +115,7 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
 #EXTINF:-1 tvg-id="americape-tv" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="Peru",América Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1235595531&_cdn_timestamp=1695926619&_cdn_token=f4567ed911fd150f693e412f40792c9f6e42450f
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1245507875&_cdn_timestamp=1696223346&_cdn_token=e49bb2da6ebcc72c75073a6c2b8e9bd951af2f0c
 
 #EXTINF:-1 tvg-id="panamericanape-tv" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="Peru",Panamericana Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1238602403&_cdn_timestamp=1696014146&_cdn_token=34a32cef28dfaa9b75ce4269f0911ff5481eb31e
@@ -177,9 +165,6 @@ https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 #EXTINF:-1 tvg-id="top-latino-tv" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="Music", TOP Latino TV | PE
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Music",La Ribereña 
-https://cloudvideo.servers10.com:8081/8070/index.m3u8
-
 #EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
 
@@ -197,12 +182,6 @@ https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV 
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
-#EXTINF:-1 tvg-id="bestcableperu-m.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Cable Music
-https://ca2.inka.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="bestcableperu-mc.com.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Music",Cable Cumbia
-https://ca2.inka.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="espnhd-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN HD 🇦🇷
 http://190.61.43.117:45000/play/a01l
