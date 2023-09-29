@@ -39,9 +39,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p)
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="General", bitMe
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
@@ -69,10 +66,7 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="freetv-juntos" tvg-logo="https://cdn.m3u.cl/logo/1275_Juntos___Freetv_com.png" group-title="General", Juntos - Freetv.com | US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-id="cine-asia" tvg-logo="https://th.bing.com/th/id/OIP.DGchzQVN3Ks4zMvU-n4ifQHaEK?pid=ImgDet&rs=1" group-title="General",CGTN Español
+#EXTINF:-1 tvg-id="cine-asia" tvg-logo="https://th.bing.com/th/id/OIP.DGchzQVN3Ks4zMvU-n4ifQHaEK?pid=ImgDet&rs=1" group-title="General",Cine Asia
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kanal-d-drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png" group-title="General", Kanal D Drama | TR
