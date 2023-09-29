@@ -30,14 +30,11 @@ https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="dreiko-tv" tvg-logo="https://play-lh.googleusercontent.com/MKxancjPSbqrJIaCcndA9s6VkmYrNZC1X4SR7hDaMvJKUMd33qTN6pob2mVkS8Azd2o=w240-h480-rw" group-title="Animation",Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop
+#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeekFanpop2.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop 2
+#EXTINF:-1 tvg-id="EnerGeekFanpop2.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p)
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
