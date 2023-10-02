@@ -84,9 +84,6 @@ https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 tvg-id="mega-cine" tvg-logo="https://i.ytimg.com/vi/5iTlRMV7Dgs/maxresdefault.jpg" group-title="General",Mega Cine
 https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
 
-#EXTINF:-1 tvg-id="megacine-tv" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png" group-title="General", Mega Cine TV | DO
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
 #EXTINF:-1 tvg-id="orbit-tv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="General", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
