@@ -93,9 +93,6 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 #EXTINF:-1 tvg-id="cine-premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="General",Cine Premium
 http://179.189.222.226:8000/play/ch49
 
-#EXTINF:-1 tvg-id="classic-channel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png", Classic Channel | CL
-https://paneltv.online:1936/8046/8046/playlist.m3u8
-
 #EXTINF:-1 tvg-id="pando-tv" tvg-logo="https://pandonettvcom.files.wordpress.com/2021/02/cropped-logo-l-1-1.png?w=1024&h=256", Pando TV
 https://stmv1.cnarlatam.com/pandonet/pandonet/playlist.m3u8
 
@@ -115,10 +112,10 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
 #EXTINF:-1 tvg-id="americape-tv" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="Peru",América Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1245507875&_cdn_timestamp=1696223346&_cdn_token=e49bb2da6ebcc72c75073a6c2b8e9bd951af2f0c
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1264161531&_cdn_timestamp=1696680225&_cdn_token=d2c5e09d28c4ff86782728e538b49222ab85b3de
 
 #EXTINF:-1 tvg-id="panamericanape-tv" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="Peru",Panamericana Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1238602403&_cdn_timestamp=1696014146&_cdn_token=34a32cef28dfaa9b75ce4269f0911ff5481eb31e
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1264162019&_cdn_timestamp=1696680239&_cdn_token=5e10efb08f0270f9212605c6ccfc6cb8902e1693
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
@@ -136,7 +133,7 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1248582035&_cdn_timestamp=1696334130&_cdn_token=39967e944fe695895a47a36a054289d8973e57ec
 
 #EXTINF:-1 tvg-id="willaxpe-tv" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Solo-Willax-fondo-blanco-300x99-1-.png/revision/latest/scale-to-width-down/600?cb=20181030171804" group-title="Peru", Willax Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1238590955&_cdn_timestamp=1696014026&_cdn_token=c0d42616dedd5f50448017c4a56861549c6270e1
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1264159723&_cdn_timestamp=1696680187&_cdn_token=a7c2bb22a262158c5cc131e57048c88ac61580e0
 
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV (720p)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
