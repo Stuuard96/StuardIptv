@@ -36,17 +36,32 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFanpop2.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="General",Animal Planet
+http://179.189.222.226:16123/play/ch29
+
+#EXTINF:-1 tvg-id="history" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="General", History
+http://160.20.165.245:8000/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-id="bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="General",bitMe
 http://45.228.234.77:3340/play/bitme/index.m3u8
 
-#EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
-https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="General",A&E
+http://45.166.92.22:58001/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-id="mega-cine" tvg-logo="https://i.ytimg.com/vi/5iTlRMV7Dgs/maxresdefault.jpg" group-title="General",Mega Cine
-https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="General",AXN
+http://45.166.92.22:58001/play/a02n/index.m3u8
 
-#EXTINF:-1 tvg-id="megacine-tv" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png" group-title="General", Mega Cine TV | DO
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="General",HBO
+http://45.166.92.22:58001/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="General",HBO +
+http://45.166.92.22:58001/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-ID="Warner-channel" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Warner-Bros-Logo.png" group-title="General",WARNER HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-ID="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="General",CINECANAL SD
+http://45.166.92.22:58001/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="planetatv-pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -62,6 +77,15 @@ https://live.obslivestream.com/supercanal/index.m3u8
 
 #EXTINF:-1 tvg-id="norselva-tv" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="General",Nor Selva Televisión || Rioja
 https://live.obslivestream.com/norselvatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mega-cine" tvg-logo="https://i.ytimg.com/vi/5iTlRMV7Dgs/maxresdefault.jpg" group-title="General",Mega Cine
+https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
+
+#EXTINF:-1 tvg-id="megacine-tv" tvg-logo="https://cdn.m3u.cl/logo/1055_Mega_Cine_TV.png" group-title="General", Mega Cine TV | DO
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-id="orbit-tv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="General", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -83,21 +107,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 
 #EXTINF:-1 tvg-id="top-cine-freetv.com" tvg-logo="https://cdn.m3u.cl/logo/1273_Top_Cine___Freetv_com.png" group-title="General", Top Cine - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="General",A&E
-http://45.166.92.22:58001/play/a00p/index.m3u8
-
-#EXTINF:-1 tvg-ID="AMC" tvg-logo="https://www.pngkey.com/png/full/243-2431424_amc-hd-amc-tv.png" group-title="General",AMC
-http://45.166.92.22:58001/play/a00q/index.m3u8
-
-#EXTINF:-1 tvg-ID="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="General",AXN
-http://45.166.92.22:58001/play/a02n/index.m3u8
-
-#EXTINF:-1 tvg-ID="Warner-channel" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Warner-Bros-Logo.png" group-title="General",WARNER HD
-http://45.166.92.22:58001/play/a049/index.m3u8
-
-#EXTINF:-1 tvg-ID="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg" group-title="General",CINECANAL SD
-http://45.166.92.22:58001/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="planeta-movie" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="General",PlanetaTV Movies | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
@@ -133,7 +142,7 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
 #EXTINF:-1 tvg-id="americape-tv" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="Peru",América Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1264161531&_cdn_timestamp=1696680225&_cdn_token=d2c5e09d28c4ff86782728e538b49222ab85b3de
+http://38.43.140.97:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="panamericanape-tv" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="Peru",Panamericana Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1264162019&_cdn_timestamp=1696680239&_cdn_token=5e10efb08f0270f9212605c6ccfc6cb8902e1693
