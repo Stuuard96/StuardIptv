@@ -36,6 +36,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFanpop2.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="General",bitMe
+http://45.228.234.77:3340/play/bitme/index.m3u8
+
 #EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
@@ -48,6 +51,18 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-id="planetatv-pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 tvg-id="mayo-tv" tvg-logo="https://pbs.twimg.com/media/FmnVo8KX0AY3PZ7?format=png&name=900x900" group-title="General",Mayo Televisión || Moyobamba
+https://live.obslivestream.com/mayotv/index.m3u8
+
+#EXTINF:-1 tvg-id="vz-tv" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png" group-title="General",VZ Televisión || Moyobamba
+https://live.obslivestream.com/vztv/index.m3u8
+
+#EXTINF:-1 tvg-id="super-canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="General",Super Canal Televisión || Yurimaguas
+https://live.obslivestream.com/supercanal/index.m3u8
+
+#EXTINF:-1 tvg-id="norselva-tv" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="General",Nor Selva Televisión || Rioja
+https://live.obslivestream.com/norselvatv/index.m3u8
+
 #EXTINF:-1 tvg-id="orbit-tv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="General", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
@@ -59,6 +74,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="cine-asia" tvg-logo="https://th.bing.com/th/id/OIP.DGchzQVN3Ks4zMvU-n4ifQHaEK?pid=ImgDet&rs=1" group-title="General",Cine Asia
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tequiero-tv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo-tequierotv.png" group-title="General",Te quiero TV || Cajamarca
+https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kanal-d-drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png" group-title="General", Kanal D Drama | TR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
@@ -89,6 +107,9 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cine-cl" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="General",+Cine | CL
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+
+#EXTINF:-1 tvg-id="cine-real" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png" group-title="General",Cine Real
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 
 #EXTINF:-1 tvg-id="cine-premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="General",Cine Premium
 http://179.189.222.226:8000/play/ch49
@@ -156,11 +177,23 @@ https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/in
 #EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Music",Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
 
+#EXTINF:-1 tvg-id="music-top" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9512bacf6f14cf9e6a45dc35587fa12e.webp" group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w2124958063.m3u8
+
+#EXTINF:-1 tvg-id="urbano-tv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo-urbanotv.png" group-title="Music",Urbano TV || Cajamarca
+https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tu-canal-musical" tvg-logo="https://yt3.googleusercontent.com/AHw0GtBW1ZM9P6dsjjsU8m6oLo9d3TqIrlwk6BxyaM80ROAcpzHT8t1b9jmDb8cztk-CCp_TNP8=s88-c-k-c0x00ffffff-no-rj" group-title="Music",Tu Canal Musical
 https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 
+#EXTINF:-1 tvg-id="master-tv" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="Music",Master Televisión || Tarapoto
+https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="88-stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Music",88 Stereo
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1412956051.m3u8
+
 #EXTINF:-1 tvg-id="top-latino-tv" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="Music", TOP Latino TV | PE
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8?PlaylistM3UCL
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
