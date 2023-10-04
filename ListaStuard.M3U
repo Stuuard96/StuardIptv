@@ -138,11 +138,11 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:-1 tvg-id="atvsur.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV SUR
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="global-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="Peru",Global Televisión
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1248582035&_cdn_timestamp=1696334130&_cdn_token=39967e944fe695895a47a36a054289d8973e57ec
-
 #EXTINF:-1 tvg-id="exitosanoticias.pe/tv/envivo" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV (720p)
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rpp" tvg-logo="https://th.bing.com/th/id/OIP.GiDpJLb1b8xr2kImZjN_UQAAAA?pid=ImgDet&rs=1" group-title="Peru",RPP
+http://38.43.140.97:8000/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Peru",PBO Digital
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
@@ -225,17 +225,8 @@ http://190.61.43.117:45000/play/a051
 #EXTINF:-1 tvg-ID="espn4-ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Sport",ESPN 4 🇦🇷
 http://190.61.43.117:45000/play/a06w
 
-#EXTINF:-1 tvg-ID="espnhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN HD
-http://45.166.92.22:58001/play/a01g/index.m3u8
-
-#EXTINF:-1 tvg-ID="espn-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 HD
-http://45.166.92.22:58001/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-ID="espn-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Sport",ESPN 3 HD
-http://45.166.92.22:58001/play/a01h/index.m3u8
-
-#EXTINF:-1 tvg-ID="espn-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Sport",ESPN 4 HD
-http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:-1 tvg-ID="espn-extra" tvg-logo="https://th.bing.com/th/id/OIP.7GUT9_yRXyQlb8q88vT5cAHaFw?pid=ImgDet&rs=1" group-title="Sport",ESPN Extra HD 
+http://38.43.140.97:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-ID="fox-sports" tvg-logo="https://th.bing.com/th/id/OIP.IWzN4UZLMlbvv__YxaTJegHaEb?pid=ImgDet&rs=1" group-title="Sport", FOX Sports HD 🇦🇷
 http://190.108.85.20:9999/play/a011
@@ -247,7 +238,7 @@ http://190.61.43.117:45000/play/a01g
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
-http://45.166.92.22:58001/play/a04d/index.m3u8
+http://209.45.81.84:8000/play/a009
 
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://www.freeiconspng.com/uploads/real-madrid-logo-png-8.png" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -263,12 +254,3 @@ http://38.43.140.97:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="liga1-max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="Sport",Liga 1 Max
 http://161.132.243.192:50001/play/a03y/index.m3u8
-
-#EXTINF:-1 tvg-id="dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="Sport",DSports
-http://209.45.81.84:8000/play/a03d
-
-#EXTINF:-1 tvg-id="dsports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="Sport",DSports 2
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1644.m3u8
-
-#EXTINF:-1 tvg-id="dsports+" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="Sport",DSports +
-http://177.53.153.21:8001/play/a00i/index.m3u8
