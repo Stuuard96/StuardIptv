@@ -45,6 +45,9 @@ http://160.20.165.245:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="bitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/175px-BitMe_logo.svg.png" group-title="General",bitMe
 http://45.228.234.77:3340/play/bitme/index.m3u8
 
+#EXTINF:-1 tvg-id="neox-tv" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="General",Neox TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="General",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
 
@@ -75,7 +78,7 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="cine-asia" tvg-logo="https://th.bing.com/th/id/OIP.DGchzQVN3Ks4zMvU-n4ifQHaEK?pid=ImgDet&rs=1" group-title="General",Cine Asia
+#EXTINF:-1 tvg-id="xtrema-asia" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="General",Xtrema Asia
 https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tequiero-tv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo-tequierotv.png" group-title="General",Te quiero TV || Cajamarca
@@ -102,6 +105,9 @@ http://179.189.222.226:8000/play/ch49
 #EXTINF:-1 tvg-id="pando-tv" tvg-logo="https://pandonettvcom.files.wordpress.com/2021/02/cropped-logo-l-1-1.png?w=1024&h=256", Pando TV
 https://stmv1.cnarlatam.com/pandonet/pandonet/playlist.m3u8
 
+#EXTINF:-1 tvg-id="xtrema-accion" tvg-logo="https://i.imgur.com/z5NwizH.png", Xtrema Acción
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
 #EXTINF:-1 tvg-id="classic-tv" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="General",Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8
 
@@ -117,11 +123,11 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
-#EXTINF:-1 tvg-id="americape-tv" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="Peru",América Televisión
+#EXTINF:-1 tvg-id="americape-tv" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Peru",América Televisión
 http://38.43.140.97:8000/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-id="panamericanape-tv" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="Peru",Panamericana Televisión
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1264162019&_cdn_timestamp=1696680239&_cdn_token=5e10efb08f0270f9212605c6ccfc6cb8902e1693
+#EXTINF:-1 tvg-id="panamericanape-tv" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana Televisión
+https://cdn75.iblups.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="willaxpe-tv" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Solo-Willax-fondo-blanco-300x99-1-.png/revision/latest/scale-to-width-down/600?cb=20181030171804" group-title="Peru", Willax Televisión
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=1264159723&_cdn_timestamp=1696680187&_cdn_token=a7c2bb22a262158c5cc131e57048c88ac61580e0
@@ -168,14 +174,35 @@ https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 tvg-id="mayo-tv" tvg-logo="https://pbs.twimg.com/media/FmnVo8KX0AY3PZ7?format=png&name=900x900" group-title="Peru",Mayo Televisión || Moyobamba
 https://live.obslivestream.com/mayotv/index.m3u8
 
-#EXTINF:-1 tvg-id="vz-tv" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png" group-title="Peru",VZ Televisión || Moyobamba
+#EXTINF:-1 tvg-id="vz-tv" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="Peru",VZ Televisión
 https://live.obslivestream.com/vztv/index.m3u8
 
 #EXTINF:-1 tvg-id="super-canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Peru",Super Canal Televisión || Yurimaguas
 https://live.obslivestream.com/supercanal/index.m3u8
 
-#EXTINF:-1 tvg-id="norselva-tv" tvg-logo="https://play-lh.googleusercontent.com/w6OBzswjSQyeDBwl6z2J5pGiQjuHH3JcmLgXVxGf68WUMocekssnBW_VAZpOdMVee34=s180-rw" group-title="Peru",Nor Selva Televisión || Rioja
+#EXTINF:-1 tvg-id="norselva-tv" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Peru",NorSelva RTV
 https://live.obslivestream.com/norselvatv/index.m3u8
+
+#EXTINF:-1 tvg-id="master-tv" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="Peru",Master TV
+https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal-xtv" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="Peru",Canal XTV
+https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
+
+#EXTINF:-1 tvg-id="mega-tv-apa" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Peru",Mega TV Arequipa
+https://hls.servidor.stream/storage/megatv.m3u8
+
+#EXTINF:-1 tvg-id="cnc-cca" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="Peru",CNC Cajamarca
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+#EXTINF:-1 tvg-id="la-ribereña" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Music",La Ribereña
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+
+#EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio-tropical" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Music",Radio Rutas del Perú
 https://tv.portalexpress.es:3731/stream/play.m3u8
@@ -183,10 +210,10 @@ https://tv.portalexpress.es:3731/stream/play.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="88-stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="Music",88 Stereo
-http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1412956051.m3u8
+#EXTINF:-1 tvg-id="matices-tv" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="Music",Matices TV
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
 
-#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV
+#EXTINF:-1 tvg-id="memorias-tv" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
 
 #EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Music",Intuitiva TV
@@ -198,7 +225,7 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w2124958063.m3u8
 #EXTINF:-1 tvg-id="urbano-tv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo-urbanotv.png" group-title="Music",Urbano TV || Cajamarca
 https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
 
-#EXTINF:-1 tvg-id="top-latino-tv" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="Music", TOP Latino TV | PE
+#EXTINF:-1 tvg-id="top-latino-tv" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music", TOP Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tu-canal-musical" tvg-logo="https://yt3.googleusercontent.com/AHw0GtBW1ZM9P6dsjjsU8m6oLo9d3TqIrlwk6BxyaM80ROAcpzHT8t1b9jmDb8cztk-CCp_TNP8=s88-c-k-c0x00ffffff-no-rj" group-title="Music",Tu Canal Musical
