@@ -45,9 +45,6 @@ http://160.20.165.245:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
 http://45.228.234.77:3340/play/bitme/index.m3u8
 
-#EXTINF:-1 tvg-id="neox-tv" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="General",Neox TV
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
-
 #EXTINF:-1 tvg-id="a-e" tvg-logo="https://m3u.cl/logo/1958_A&E.png" group-title="General",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
 
@@ -60,10 +57,10 @@ http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="hbo+" tvg-logo="https://m3u.cl/logo/1398_HBO_Plus.png" group-title="General",HBO +
 http://45.166.92.22:58001/play/a03u/index.m3u8
 
-#EXTINF:-1 tvg-ID="warner-channel" tvg-logo="https://m3u.cl/logo/2136_Warner_HD.png" group-title="General",WARNER HD
+#EXTINF:-1 tvg-ID="warner-channel" tvg-logo="https://m3u.cl/logo/2136_Warner_HD.png" group-title="General",WARNER
 http://45.166.92.22:58001/play/a049/index.m3u8
 
-#EXTINF:-1 tvg-ID="cinecanal" tvg-logo="https://i.imgur.com/jwY2eKC.png" group-title="General",CINECANAL SD
+#EXTINF:-1 tvg-ID="cinecanal" tvg-logo="https://i.imgur.com/jwY2eKC.png" group-title="General",CINECANAL
 http://45.166.92.22:58001/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="mega-cine" tvg-logo="https://m3u.cl/logo/1055_Megacine_TV.png" group-title="General",Mega Cine
@@ -93,7 +90,7 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 #EXTINF:-1 tvg-id="origen-tv" tvg-logo="https://m3u.cl/logo/233107_1235_ORIGEN_TV.png" group-title="General",Origen TV
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cine-cl" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="General",+Cine | CL
+#EXTINF:-1 tvg-id="+-cine" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="General",+Cine
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 
 #EXTINF:-1 tvg-id="cine-real" tvg-logo="https://m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="General",Cine Real
@@ -117,8 +114,8 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="old-tv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="General",Old
 https://marine2.miplay.cl/old/playlist.m3u8
 
-#EXTINF:-1 tvg-id="terror-tv" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="General", Terror TV | CL
-https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="terror-tv" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="General",Terror TV
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
@@ -174,23 +171,23 @@ https://live.obslivestream.com/mayotv/index.m3u8
 #EXTINF:-1 tvg-id="vz-tv" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="Peru",VZ Televisión
 https://live.obslivestream.com/vztv/index.m3u8
 
-#EXTINF:-1 tvg-id="super-canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBbbpAhucUTGIFd_UnDjQGehvwk_loizSk7h_Oia3GXRkBhMj7WYy04cn0S9UV-63PdL4&usqp=CAU" group-title="Peru",Super Canal Televisión || Yurimaguas
-https://live.obslivestream.com/supercanal/index.m3u8
-
 #EXTINF:-1 tvg-id="norselva-tv" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Peru",NorSelva RTV
 https://live.obslivestream.com/norselvatv/index.m3u8
 
 #EXTINF:-1 tvg-id="master-tv" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="Peru",Master TV
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="canal-xtv" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="Peru",Canal XTV
-https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
-
 #EXTINF:-1 tvg-id="mega-tv-apa" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Peru",Mega TV Arequipa
 https://hls.servidor.stream/storage/megatv.m3u8
 
 #EXTINF:-1 tvg-id="cnc-cca" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="Peru",CNC Cajamarca
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+#EXTINF:-1 tvg-id="canal-xtv" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="Peru",Canal XTV
+https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
+
+#EXTINF:-1 tvg-id="neox-tv" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Music",Neox TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-id="la-ribereña" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Music",La Ribereña
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
@@ -275,3 +272,12 @@ http://38.43.140.97:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="liga1-max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="Sport",Liga 1 Max
 http://161.132.243.192:50001/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-ID="dsports" tvg-logo="https://th.bing.com/th/id/OIP.-MtewW9_AIepRmZf9GBPAwAAAA?pid=ImgDet&w=320&h=236&rs=1" group-title="Sport",DSports HD
+http://161.132.243.192:50001/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-ID="dsports2" tvg-logo="https://th.bing.com/th/id/R.200559a01c0b8cd0817e72bdd47d92a2?rik=9X32RgXqLFsilw&pid=ImgRaw&r=0" group-title="Sport",DSports 2 HD
+http://161.132.243.192:50001/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-ID="dsports+" tvg-logo="https://i.ibb.co/LxL64Rw/DSports-Plus.png" group-title="Sport",DSports + HD
+http://161.132.243.192:50001/play/a03q/index.m3u8
