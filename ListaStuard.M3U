@@ -61,11 +61,17 @@ http://45.166.92.22:58001/play/a03u/index.m3u8
 #EXTINF:-1 tvg-ID="warner-channel" tvg-logo="https://m3u.cl/logo/2136_Warner_HD.png" group-title="General",WARNER
 http://45.166.92.22:58001/play/a049/index.m3u8
 
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="cinecanal" tvg-logo="https://i.imgur.com/jwY2eKC.png" group-title="General",CINECANAL
 http://45.166.92.22:58001/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="mega-cine" tvg-logo="https://m3u.cl/logo/1055_Megacine_TV.png" group-title="General",Mega Cine
 https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Movies",Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="orbit-tv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="General",Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -85,8 +91,11 @@ https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 #EXTINF:-1 tvg-id="kanal-d-drama" tvg-logo="https://m3u.cl/logo/1425_Kanal_D_Drama.png" group-title="General",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="planeta-movie" tvg-logo="https://m3u.cl/logo/1016_PlanetaTV_Movies.png" group-title="General",PlanetaTV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+#EXTINF:-1 tvg-id="my-time-movie-mex" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="General",MyTime movie network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="planeta-movie" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="General",PlanetaTV Movies
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="origen-tv" tvg-logo="https://m3u.cl/logo/233107_1235_ORIGEN_TV.png" group-title="General",Origen TV
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
@@ -108,6 +117,9 @@ https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-id="classic+" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="General",Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-id="xtrema-retro-series" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="General",Xtrema Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
 #EXTINF:-1 tvg-id="retro-plus" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="General",Retro Plus TV Señal 3 | CL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
