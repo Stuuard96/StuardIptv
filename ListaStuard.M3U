@@ -37,13 +37,14 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://i.imgur.com/NcMBl4q.png" group-title="General",Animal Planet
-http://179.189.222.226:16123/play/ch29
+http://179.189.222.226:8000/play/ch29
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://m3u.cl/logo/1572_History.png" group-title="General",History
 http://160.20.165.245:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
 http://45.228.234.77:3340/play/bitme/index.m3u8
+http://38.44.109.41:8888/play/a00f
 
 #EXTINF:-1 tvg-id="a-e" tvg-logo="https://m3u.cl/logo/1958_A&E.png" group-title="General",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
@@ -105,7 +106,7 @@ https://stmv1.cnarlatam.com/pandonet/pandonet/playlist.m3u8
 #EXTINF:-1 tvg-id="xtrema-accion" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="General", Xtrema Acción
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-id="classic-tv" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="General",Classic +
+#EXTINF:-1 tvg-id="classic+" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="General",Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="retro-plus" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="General",Retro Plus TV Señal 3 | CL
@@ -273,11 +274,5 @@ http://38.43.140.97:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="liga1-max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="Sport",Liga 1 Max
 http://161.132.243.192:50001/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-ID="dsports" tvg-logo="https://th.bing.com/th/id/OIP.-MtewW9_AIepRmZf9GBPAwAAAA?pid=ImgDet&w=320&h=236&rs=1" group-title="Sport",DSports HD
-http://161.132.243.192:50001/play/a03o/index.m3u8
-
-#EXTINF:-1 tvg-ID="dsports2" tvg-logo="https://th.bing.com/th/id/R.200559a01c0b8cd0817e72bdd47d92a2?rik=9X32RgXqLFsilw&pid=ImgRaw&r=0" group-title="Sport",DSports 2 HD
-http://161.132.243.192:50001/play/a03p/index.m3u8
-
-#EXTINF:-1 tvg-ID="dsports+" tvg-logo="https://i.ibb.co/LxL64Rw/DSports-Plus.png" group-title="Sport",DSports + HD
-http://161.132.243.192:50001/play/a03q/index.m3u8
+#EXTINF:-1 tvg-ID="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
+http://38.43.140.97:8000/play/a00d/index.m3u8
