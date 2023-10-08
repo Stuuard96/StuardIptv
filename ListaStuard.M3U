@@ -51,30 +51,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="a-e" tvg-logo="https://m3u.cl/logo/1958_A&E.png" group-title="Entertaiment",A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
-http://38.44.109.41:8888/play/a00f
-
-#EXTINF:-1 tvg-ID="cinecanal" tvg-logo="https://i.imgur.com/jwY2eKC.png" group-title="General",CineCanal
-http://45.166.92.22:58001/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://m3u.cl/logo/602_HBO.png" group-title="General",HBO
-http://45.166.92.22:58001/play/a03s/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo+" tvg-logo="https://m3u.cl/logo/1398_HBO_Plus.png" group-title="General",HBO +
-http://45.166.92.22:58001/play/a03u/index.m3u8
-
-#EXTINF:-1 tvg-ID="warner-channel" tvg-logo="https://m3u.cl/logo/2136_Warner_HD.png" group-title="General",Warner
-http://45.166.92.22:58001/play/a049/index.m3u8
-
-#EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="General",Nex TV
-https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
-
-#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="General",Ciudad Mágica
-https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-
-#EXTINF:-1 tvg-id="orbit-tv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="General",Orbit TV | DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="bbc-drama" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Novelas",BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -186,78 +162,100 @@ https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/in
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Peru",Señal Perú TV
 https://livestream.perucast.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
+http://38.44.109.41:8888/play/a00f
 
+#EXTINF:-1 tvg-ID="cinecanal" tvg-logo="https://i.imgur.com/jwY2eKC.png" group-title="General",CineCanal
+http://45.166.92.22:58001/play/a02f/index.m3u8
 
-#EXTINF:-1 tvg-id="unitelperu.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Peru",UNITEL PERÚ
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://m3u.cl/logo/602_HBO.png" group-title="General",HBO
+http://45.166.92.22:58001/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo+" tvg-logo="https://m3u.cl/logo/1398_HBO_Plus.png" group-title="General",HBO +
+http://45.166.92.22:58001/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-ID="warner-channel" tvg-logo="https://m3u.cl/logo/2136_Warner_HD.png" group-title="General",Warner
+http://45.166.92.22:58001/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="General",Nex TV
+https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="General",Ciudad Mágica
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+
+#EXTINF:-1 tvg-id="orbit-tv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="General",Orbit TV | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="unitelperu.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",UNITEL PERÚ
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
-#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="Peru",QT Televisión (Cuzco) [Not 24/7]
+#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="General",QT Televisión (Cuzco) [Not 24/7]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 
-#EXTINF:-1 tvg-id="antarestv" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Peru",Antares Televisión [Not 24/7]
+#EXTINF:-1 tvg-id="antarestv" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="General",Antares Televisión [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="planetatv" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Peru",Planeta TV
+#EXTINF:-1 tvg-id="planetatv" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="hoynet" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="Peru",Hoynet
+#EXTINF:-1 tvg-id="hoynet" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mayo-tv" tvg-logo="https://pbs.twimg.com/media/FmnVo8KX0AY3PZ7?format=png&name=900x900" group-title="Peru",Mayo Televisión || Moyobamba
+#EXTINF:-1 tvg-id="mayo-tv" tvg-logo="https://pbs.twimg.com/media/FmnVo8KX0AY3PZ7?format=png&name=900x900" group-title="General",Mayo Televisión || Moyobamba
 https://live.obslivestream.com/mayotv/index.m3u8
 
-#EXTINF:-1 tvg-id="vz-tv" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="Peru",VZ Televisión
+#EXTINF:-1 tvg-id="vz-tv" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="General",VZ Televisión
 https://live.obslivestream.com/vztv/index.m3u8
 
-#EXTINF:-1 tvg-id="norselva-tv" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Peru",NorSelva RTV
+#EXTINF:-1 tvg-id="norselva-tv" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="General",NorSelva RTV
 https://live.obslivestream.com/norselvatv/index.m3u8
 
-#EXTINF:-1 tvg-id="master-tv" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="Peru",Master TV
+#EXTINF:-1 tvg-id="master-tv" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mega-tv-apa" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Peru",Mega TV Arequipa
+#EXTINF:-1 tvg-id="mega-tv-apa" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="General",Mega TV Arequipa
 https://hls.servidor.stream/storage/megatv.m3u8
 
-#EXTINF:-1 tvg-id="cnc-cca" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="Peru",CNC Cajamarca
+#EXTINF:-1 tvg-id="cnc-cca" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="General",CNC Cajamarca
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
-#EXTINF:-1 tvg-id="canal-xtv" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="Peru",Canal XTV
+#EXTINF:-1 tvg-id="canal-xtv" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",Canal XTV
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 
-#EXTINF:-1 tvg-id="cosmostv" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Peru",Cosmos TV
+#EXTINF:-1 tvg-id="cosmostv" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="General",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-id="lacatungatv" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Peru",LatacungaTV
+#EXTINF:-1 tvg-id="lacatungatv" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="General",LatacungaTV
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pulatv" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="Peru",Pula TV
+#EXTINF:-1 tvg-id="pulatv" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="General",Pula TV
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 
-#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="Peru",Tele2000 (Ayacucho) [Not 24/7]
+#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="General",Tele2000 (Ayacucho) [Not 24/7]
 https://servilive.com:3126/live/tele2000live.m3u8
 
-#EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="Peru",TV Pop
+#EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="General",TV Pop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Undefined",Telemax (1080p)
+#EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="General",Telemax (1080p)
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HainaVision.do" tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="Peru",Haina Vision (720p)
+#EXTINF:-1 tvg-id="HainaVision.do" tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="General",Haina Vision (720p)
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 
-#EXTINF:-1 tvg-id="SulaTV.hn" tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="Peru",
+#EXTINF:-1 tvg-id="SulaTV.hn" tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="General",
 https://sulatv1.ddns.net/hls/live/index.m3u8
 
-#EXTINF:-1 tvg-id="tv-metropolis191" tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="Peru",Televisión Metrópolis 19.1
+#EXTINF:-1 tvg-id="tv-metropolis191" tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="General",Televisión Metrópolis 19.1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv-metropolis192.hn" tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="Peru",Televisión Metrópolis 19.2
+#EXTINF:-1 tvg-id="tv-metropolis192.hn" tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="General",Televisión Metrópolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
-#EXTINF:-1 tvg-id="telecolor-yuri" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="Peru",Telecolor (Yurimaguas) [Not 24/7]
+#EXTINF:-1 tvg-id="telecolor-yuri" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor (Yurimaguas) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 tvg-id="SURTV.cl" tvg-logo="https://i.imgur.com/wDCqoor.png" group-title="Peru",Sur TV
+#EXTINF:-1 tvg-id="SURTV.cl" tvg-logo="https://i.imgur.com/wDCqoor.png" group-title="General",Sur TV
 https://paneltv.online:1936/8034/8034/playlist.m3u8
 
 #EXTINF:-1 tvg-id="radioinkatv" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="General",RadioInka (Abancay) [Not 24/7]
