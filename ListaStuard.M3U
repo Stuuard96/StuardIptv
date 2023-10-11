@@ -39,6 +39,9 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="aventurastv" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Entertaiment",Aventuras TV
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="juntos" tvg-logo="https://cdn.m3u.cl/logo/1275_Juntos___Freetv_com.png",Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+
 #EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://i.imgur.com/NcMBl4q.png" group-title="Entertaiment",Animal Planet
 http://179.189.222.226:8000/play/ch29
 
@@ -63,11 +66,17 @@ https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 #EXTINF:-1 tvg-id="kanald-drama" tvg-logo="https://m3u.cl/logo/1425_Kanal_D_Drama.png" group-title="Novelas",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Novelas",Novelísima
+https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/857c3b6d-b1bb-4cd2-8f04-f91f83c645ec:SCL/master.m3u8
+
+#EXTINF:-1 tvg-id="corazon" tvg-logo="https://i.imgur.com/gEA5dbj.jpeg" group-title="Novelas",Corazon
+https://stream.ads.ottera.tv/cl/231011ckjbi3g1sj4ctu0m8nng/1280x720_3070540_0_f.m3u8
+
 #EXTINF:-1 tvg-id="my-time-movie-mex" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Novelas",MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="a-x-n" tvg-logo="https://i.imgur.com/nmsT6rG.png" group-title="MovieSeries",AXN
-http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1 tvg-ID="cinema" tv-logo="https://i.imgur.com/sP15Oc9.png" group-title="MovieSeries",Cinema
+https://stream.ads.ottera.tv/cl/231011ckjbjn63pdfsre9ghbg0/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="MovieSeries",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -75,11 +84,14 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="mega-cine" tvg-logo="https://m3u.cl/logo/1055_Megacine_TV.png" group-title="MovieSeries",Mega Cine
 https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="MovieSeries",Top Cine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="top-cine" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="MovieSeries",Top Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tu-cine" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png",Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cine-real" tvg-logo="https://m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="MovieSeries",Cine Real
-https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="MovieSeries",SEO TV Películas
 https://live.seo.tv.bo/live/4SEO.m3u8
@@ -99,11 +111,17 @@ http://160.20.165.246:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="box-cinema" tvg-logo="https://th.bing.com/th/id/OIP.7_5MUSatLF6DENlHoNHLLAHaGW?pid=ImgDet&rs=1" group-title="MovieSeries",Box Cinema
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/RRG2IQFB0N5L2XCIXPZW/hls3/now_-1m_15s/m.m3u8
 
+#EXTINF:-1 tvg-id="todo-cine" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="MovieSeries",Todo Cine
+https://stream.ads.ottera.tv/cl/231011ckjbt81em6d00vd8q5d0/1920x1080_4403200_5_f.m3u8
+
 #EXTINF:-1 tvg-id="cine-premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="MovieSeries",Cine Premium
 http://179.189.222.226:8000/play/ch49
 
 #EXTINF:-1 tvg-id="pando-tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21a998a6fec9b6bf8a31708d1edde21e.webp" group-title="MovieSeries",Pando Net TV
 https://stmv1.cnarlatam.com/pandonet/pandonet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wutang-collection" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/849fa51674359c442c85efaeefac0aa6.webp" group-title="MovieSeries",Wu Tang Collection TV
+https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xtrema-accion" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="MovieSeries", Xtrema Acción
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
@@ -119,9 +137,6 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="old-tv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="MovieSeries",Old
 https://marine2.miplay.cl/old/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NexxoTV.do" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="MovieSeries",Nexxo TV [Not 24/7]
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 tvg-id="terror-tv" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="MovieSeries",Terror TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
@@ -231,6 +246,9 @@ https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 #EXTINF:-1 tvg-id="pulatv" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="General",Pula TV
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 
+#EXTINF:-1 tvg-id="NexxoTV.do" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="MovieSeries",Nexxo TV [Not 24/7]
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+
 #EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="General",Tele2000 (Ayacucho) [Not 24/7]
 https://servilive.com:3126/live/tele2000live.m3u8
 
@@ -255,14 +273,11 @@ https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-id="telecolor-yuri" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor (Yurimaguas) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 tvg-id="SURTV.cl" tvg-logo="https://i.imgur.com/wDCqoor.png" group-title="General",Sur TV
-https://paneltv.online:1936/8034/8034/playlist.m3u8
-
 #EXTINF:-1 tvg-id="radioinkatv" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="General",RadioInka (Abancay) [Not 24/7]
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="Hits360TV.do" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="Music",Hits 360 TV [Not 24/7]
-https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+#EXTINF:-1 tvg-id="flash" tvg-logo="https://cdn.m3u.cl/logo/1277_Flash___Freetv_com.png", Flash - Freetv.com | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="neox-tv" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="Music",Neox TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -284,9 +299,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 
 #EXTINF:-1 tvg-id="memorias-tv" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV
 https://mediacp.us:8081/8002/index.m3u8
-
-#EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="Music",Intuitiva TV
-https://video2.lhdserver.es/cableperu/live.m3u8
 
 #EXTINF:-1 tvg-id="music-top" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9512bacf6f14cf9e6a45dc35587fa12e.webp" group-title="Music",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w2124958063.m3u8
