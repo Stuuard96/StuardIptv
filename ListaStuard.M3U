@@ -69,8 +69,8 @@ https://live.seo.tv.bo/live/6SEO.m3u8
 #EXTINF:-1 tvg-id="tequiero-tv" tvg-logo="https://m3u.cl/logo/643_Quiero_TV.jpg" group-title="Novelas",Te quiero TV
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kanald-drama" tvg-logo="https://m3u.cl/logo/1425_Kanal_D_Drama.png" group-title="Novelas",Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
+#EXTINF:-1 tvg-id="kanald" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Novelas",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="my-time-movie-mex" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Novelas",MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -96,8 +96,8 @@ http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="MovieSeries",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:0 tvg-id="extrematv" tv-logo="https://th.bing.com/th/id/OIP.9QqZpukpHC6LfpXqyxzuQwHaHa?pid=ImgDet&rs=1" group-title="MovieSeries",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="cinerama" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="MovieSeries",Cinerama TV [Not 24/7]
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mega-cine" tvg-logo="https://m3u.cl/logo/1055_Megacine_TV.png" group-title="MovieSeries",Mega Cine
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -231,6 +231,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="unitelperu.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",UNITEL PERÚ
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
+#EXTINF:-1 tvg-id="extrematv" tv-logo="https://th.bing.com/th/id/OIP.9QqZpukpHC6LfpXqyxzuQwHaHa?pid=ImgDet&rs=1" group-title="General",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="telecanal-49" tvg-logo="https://telecanalperu.com/wp-content/uploads/2023/04/tele-chiki.png" group-title="General",Telecanal 49
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 
@@ -282,10 +285,7 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="General",Telemax (1080p)
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HainaVision.do" tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="General",Haina Vision (720p)
-https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
-
-#EXTINF:-1 tvg-id="SulaTV.hn" tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="General",
+#EXTINF:-1 tvg-id="SulaTV.hn" tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="General",Sula TV
 https://sulatv1.ddns.net/hls/live/index.m3u8
 
 #EXTINF:-1 tvg-id="tv-metropolis191" tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="General",Televisión Metrópolis 19.1
@@ -314,9 +314,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1p
 
 #EXTINF:-1 tvg-id="radio-atmosfera" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_122.png" group-title="Music",Radio Atmósfera 92.3 FM
 https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
-
-#EXTINF:-1 tvg-id="gamarra-ch" tvg-logo="https://yt3.ggpht.com/_5nCk-rEsNPQeXAHT_ZA6gx5D15x_QadepvUi--KmY6psR9n85GAYxyCuap4P2kDIDqOmvT5584=s88-c-k-c0x00ffffff-no-rj" group-title="Music",Gamarra Channel
-https://video2.lhdserver.es/gamarrachannel/live.m3u8
 
 #EXTINF:-1 tvg-id="la-ribereña" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Music",La Ribereña
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
@@ -350,9 +347,6 @@ https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
 
 #EXTINF:-1 tvg-id="top-latino-tv" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music", TOP Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="radiotv-oriente" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="Music",Radio Televisión Oriente
-https://vdo.grupolimalive.com:3073/live/orientetvlive.m3u8
 
 #EXTINF:-1 tvg-id="tu-canal-musical" tvg-logo="https://yt3.googleusercontent.com/AHw0GtBW1ZM9P6dsjjsU8m6oLo9d3TqIrlwk6BxyaM80ROAcpzHT8t1b9jmDb8cztk-CCp_TNP8=s88-c-k-c0x00ffffff-no-rj" group-title="Music",Tu Canal Musical
 https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
