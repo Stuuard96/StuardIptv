@@ -40,7 +40,7 @@ https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 http://160.20.165.246:8000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="seotv-2kids" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="Animation",Seo TV 2 Kids
-https://live.seo.tv.bo/live/2SEO.m3u8
+https://live.seo.tv.bo/live/SEO2.m3u8
 
 #EXTINF:-1 tvg-id="bob-esponja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="Animation",Bob Esponja TV
 http://51.159.104.29:8080/bobesponja/index.m3u8
@@ -61,10 +61,10 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas",SEO TV Novelas
-https://live.seo.tv.bo/live/3SEO.m3u8
+https://live.seo.tv.bo/live/SEO3.m3u8
 
 #EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas",SEO TV Novelas 2
-https://live.seo.tv.bo/live/6SEO.m3u8
+https://live.seo.tv.bo/live/SEO6.m3u8
 
 #EXTINF:-1 tvg-id="tequiero-tv" tvg-logo="https://m3u.cl/logo/643_Quiero_TV.jpg" group-title="Novelas",Te quiero TV
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
@@ -115,7 +115,7 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 
 #EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="MovieSeries",SEO TV Películas
-https://live.seo.tv.bo/live/4SEO.m3u8
+https://live.seo.tv.bo/live/SEO4.m3u8
 
 #EXTINF:-1 tvg-id="paramount" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png" group-title="MovieSeries",Paramount HD
 http://38.43.140.97:8000/play/a01a/index.m3u8
@@ -218,6 +218,9 @@ http://45.166.92.22:58001/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="General",Nex TV
 https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
+
+#EXTINF:-1 tvg-id="wowtv" tvg-logo="https://i.postimg.cc/9fSzX0wv/wowtv.png" group-title="General",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
