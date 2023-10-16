@@ -45,18 +45,6 @@ https://live.seo.tv.bo/live/SEO2.m3u8
 #EXTINF:-1 tvg-id="bob-esponja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="Animation",Bob Esponja TV
 http://51.159.104.29:8080/bobesponja/index.m3u8
 
-#EXTINF:-1 group-title="Animation",24/7 | ONE PUNCH MAN HD 
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/129342
-
-#EXTINF:-1 group-title="Animation",24/7 | DRAGON BALL GT HD
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/129328
-
-#EXTINF:-1 group-title="Animation",24/7 | DRAGON BALL SUPER HD
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/129326
-
-#EXTINF:-1 group-title="Animation",24/7 | GAME OF THRONES HD
-http://magmas5.com:8000/sunlink/dFIdo0UaMM/129330
-
 #EXTINF:-1 tvg-id="aventurastv" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Entertaiment",Aventuras TV
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 
