@@ -45,6 +45,18 @@ https://live.seo.tv.bo/live/SEO2.m3u8
 #EXTINF:-1 tvg-id="bob-esponja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="Animation",Bob Esponja TV
 http://51.159.104.29:8080/bobesponja/index.m3u8
 
+#EXTINF:-1 group-title="Animation",24/7 | ONE PUNCH MAN HD 
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/129342
+
+#EXTINF:-1 group-title="Animation",24/7 | DRAGON BALL GT HD
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/129328
+
+#EXTINF:-1 group-title="Animation",24/7 | DRAGON BALL SUPER HD
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/129326
+
+#EXTINF:-1 group-title="Animation",24/7 | GAME OF THRONES HD
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/129330
+
 #EXTINF:-1 tvg-id="aventurastv" tvg-logo="https://i.imgur.com/qt6g1wi.png" group-title="Entertaiment",Aventuras TV
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 
@@ -58,7 +70,7 @@ https://marine2.miplay.cl/ontour/playlist.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="bbc-drama" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Novelas",BBC Drama
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas",SEO TV Novelas
 https://live.seo.tv.bo/live/SEO3.m3u8
@@ -132,9 +144,6 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 #EXTINF:-1 tvg-id="classic+" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="MovieSeries",Classic +
 http://160.20.165.246:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-id="box-cinema" tvg-logo="https://th.bing.com/th/id/OIP.7_5MUSatLF6DENlHoNHLLAHaGW?pid=ImgDet&rs=1" group-title="MovieSeries",Box Cinema
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/RRG2IQFB0N5L2XCIXPZW/hls3/now_-1m_15s/m.m3u8
-
 #EXTINF:-1 tvg-id="cine-premium" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="MovieSeries",Cine Premium
 http://179.189.222.226:8000/play/ch49
 
@@ -174,10 +183,10 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-id="Latinahd-pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina HD
 http://38.43.140.97:8000/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-id="americape-tv" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Peru",América Televisión
+#EXTINF:-1 tvg-id="americapetv" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Peru",América Televisión
 http://38.43.140.97:8000/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-id="panamericanape-tv" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana Televisión
+#EXTINF:-1 tvg-id="panamericanapetv" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana Televisión
 https://cdn75.iblups.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
@@ -197,9 +206,6 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rpp" tvg-logo="https://i.imgur.com/5g5iqP6.png" group-title="Peru",RPP
 http://38.43.140.97:8000/play/a03g/index.m3u8
-
-#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Peru",PBO Digital
-https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="TVNoticias73.pe" tvg-logo="https://m3u.cl/logo/705_TV_Peru_Noticias.png" group-title="Peru",TV Peru
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
