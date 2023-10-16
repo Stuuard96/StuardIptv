@@ -240,7 +240,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="unitelperu.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",UNITEL PERÚ
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
-#EXTINF:-1 tvg-id="extrematv" tv-logo="https://th.bing.com/th/id/OIP.9QqZpukpHC6LfpXqyxzuQwHaHa?pid=ImgDet&rs=1" group-title="General",Extrema TV
+#EXTINF:-1 tvg-id="extrematv" tvg-logo="https://th.bing.com/th/id/OIP.9QqZpukpHC6LfpXqyxzuQwHaHa?pid=ImgDet&rs=1" group-title="General",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="telecanal-49" tvg-logo="https://telecanalperu.com/wp-content/uploads/2023/04/tele-chiki.png" group-title="General",Telecanal 49
@@ -390,7 +390,7 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
 http://209.45.81.84:8000/play/a009
 
-#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://www.freeiconspng.com/uploads/real-madrid-logo-png-8.png" group-title="Sport",Real Madrid TV
+#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://th.bing.com/th/id/OIP.gqpBlcPNLKx0OFRENAcHFgHaBy?pid=ImgDet&rs=1" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport" , La Liga Premier | Paramount+
