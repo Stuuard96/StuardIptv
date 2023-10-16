@@ -390,7 +390,7 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
 http://209.45.81.84:8000/play/a009
 
-#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://th.bing.com/th/id/OIP.gqpBlcPNLKx0OFRENAcHFgHaBy?pid=ImgDet&rs=1" group-title="Sport",Real Madrid TV
+#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport" , La Liga Premier | Paramount+
