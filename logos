@@ -19,3 +19,10 @@ tvg-logo="https://m3u.cl/logo/602_HBO.png" group-title="General",HBO
 tvg-logo="https://m3u.cl/logo/1398_HBO_Plus.png",HBO +
 tvg-logo="https://i.imgur.com/NcMBl4q.png",Animal Planet
 tvg-logo="https://i.imgur.com/vBpxX4S.png",PBO Digital
+
+ALTERNATIVE:
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina (480p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+
+#EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Sport",TV Publica [Not 24/7]
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
