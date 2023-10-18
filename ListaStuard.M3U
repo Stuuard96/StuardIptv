@@ -84,11 +84,20 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="filmextv" tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="MovieSeries",Filmex TV
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
 
+#EXTINF:-1 tvg-id="juntos" tvg-logo="https://cdn.m3u.cl/logo/1275_Juntos___Freetv_com.png" group-title="MovieSeries",Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="MovieSeries",Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="MovieSeries",Mexiquense TV
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="top-cine" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="MovieSeries",Top Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tu-cine" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png" group-title="MovieSeries",Tu Cine
+https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
+
+#EXTINF:-1 tvg-id="cine-real" tvg-logo="https://m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="MovieSeries",Cine Real
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 
 #EXTINF:-1 tvg-id="mx-classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="MovieSeries",MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
@@ -119,18 +128,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="MovieSeries",Rakuten Action Movies
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="juntos" tvg-logo="https://cdn.m3u.cl/logo/1275_Juntos___Freetv_com.png",Juntos
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-id="top-cine" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="MovieSeries",Top Cine
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tu-cine" tvg-logo="https://cdn.m3u.cl/logo/1280_Tu_Cine___Freetv_com.png" group-title="MovieSeries",Tu Cine
-https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
-
-#EXTINF:-1 tvg-id="cine-real" tvg-logo="https://m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="MovieSeries",Cine Real
-https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 
 #EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="MovieSeries",SEO TV Películas
 https://live.seo.tv.bo/live/SEO4.m3u8
@@ -293,9 +290,6 @@ https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pulatv" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="General",Pula TV
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
-
-#EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://i.imgur.com/QEMBpdS.png" group-title="General",Tele2000 (Ayacucho) [Not 24/7]
-https://servilive.com:3126/live/tele2000live.m3u8
 
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="General",TV Pop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
