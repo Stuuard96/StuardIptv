@@ -135,7 +135,7 @@ https://live.seo.tv.bo/live/SEO4.m3u8
 #EXTINF:-1 tvg-id="paramount" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png" group-title="MovieSeries",Paramount HD
 http://38.43.140.97:8000/play/a01a/index.m3u8
 
-#EXTINF:-1 tvg-id="planeta-movie" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="MovieSeries",PlanetaTV Movies
+#EXTINF:-1 tvg-id="planeta-movie" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="MovieSeries",PlanetaTV Mov
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="origen-tv" tvg-logo="https://m3u.cl/logo/233107_1235_ORIGEN_TV.png" group-title="MovieSeries",Origen TV
