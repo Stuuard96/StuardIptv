@@ -202,7 +202,10 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 http://38.43.140.97:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="americapetv" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Peru",América Televisión
-http://38.43.140.97:8000/play/a00v/index.m3u8
+http://190.102.139.242:8900/play/a0vu/index.m3u8
+
+#EXTINF:-1 tvg-id="americapetv" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Peru",América Televisión HD
+http://190.102.139.242:8900/play/a0on/index.m3u8
 
 #EXTINF:-1 tvg-id="panamericanapetv" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana Televisión
 https://cdn75.iblups.com/hls/stream.m3u8
@@ -218,6 +221,12 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 
 #EXTINF:-1 tvg-id="atvsur.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="willax" tvg-logo="https://th.bing.com/th/id/OIP.iEhtKR2LEo0sDubJU-_3kgHaB2?pid=ImgDet&rs=1" group-title="Peru",Willax
+http://190.102.139.242:8900/play/a0vr/index.m3u8
+
+#EXTINF:-1 tvg-id="canaln" tvg-logo="https://th.bing.com/th/id/OIP.p960_54BhJVRpj99p6xLFwAAAA?pid=ImgDet&rs=1" group-title="Peru",Canal N
+http://190.102.139.242:8900/play/a0te/index.m3u8
 
 #EXTINF:-1 tvg-id="exitosa-tv" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
