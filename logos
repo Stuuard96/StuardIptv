@@ -15,14 +15,21 @@ tvg-logo="https://m3u.cl/logo/1572_History.png",History
 tvg-logo="https://m3u.cl/logo/132009_BitMe.png",bitMe
 tvg-logo="https://m3u.cl/logo/1958_A&E.png",A&E
 tvg-logo="https://i.imgur.com/jwY2eKC.png",CineCanal
-tvg-logo="https://m3u.cl/logo/602_HBO.png" group-title="General",HBO
+tvg-logo="https://m3u.cl/logo/602_HBO.png",HBO
 tvg-logo="https://m3u.cl/logo/1398_HBO_Plus.png",HBO +
 tvg-logo="https://i.imgur.com/NcMBl4q.png",Animal Planet
 tvg-logo="https://i.imgur.com/vBpxX4S.png",PBO Digital
+tvg-logo="https://i.imgur.com/XGrkzN3.png",TV Publica
+tvg-logo="https://i.imgur.com/dpmmFbA.png",Caracol
+tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",América Televisión
+tvg-logo="https://i.imgur.com/RMFG5au.png",Latina
 
 ALTERNATIVE:
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina (480p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+
+#EXTINF:-1 tvg-id="americapetv" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Peru",América Televisión
+http://38.43.140.97:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Sport",TV Publica [Not 24/7]
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
