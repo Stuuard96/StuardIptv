@@ -12,6 +12,12 @@ https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="magic-kids" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
+#EXTINF:-1 tvg-id="magic-kids-ar" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png" group-title="Animation", Magic Kids | AR
+https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
+
+#EXTINF:-1 tvg-id="retro-magico" tvg-logo="https://i.imgur.com/B6Jt1oM.jpeg" group-title="Animation",Retro Mágico
+https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
+
 #EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://m3u.cl/logo/253099_Gogoplay." group-title="Animation",Gogo Play TV
 https://250weu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
@@ -33,14 +39,15 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="energeek-fanpop" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="retro-magico" tvg-logo="https://i.imgur.com/B6Jt1oM.jpeg" group-title="Animation",Retro Mágico
-https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
-
 #EXTINF:-1 tvg-id="seotv-2kids" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="Animation",Seo TV 2 Kids
 https://live.seo.tv.bo/live/SEO2.m3u8
 
 #EXTINF:-1 tvg-id="bob-esponja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="Animation",Bob Esponja TV
 http://51.159.104.29:8080/bobesponja/index.m3u8
+
+#EXTINF:-1 tvg-id="super-cam" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Animation",Super Campeones
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 tvg-id="extrematv" tvg-logo="https://th.bing.com/th/id/OIP.9QqZpukpHC6LfpXqyxzuQwHaHa?pid=ImgDet&rs=1" group-title="Entertaiment",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -69,6 +76,12 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension
 #EXTINF:-1 tvg-id="pasiones" tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Novelas",Pasiones
 http://160.20.165.246:8000/play/a00g/index.m3u8
 
+#EXTINF:-1 tvg-id="novelisima" tvg-logo="https://th.bing.com/th/id/OIP.r9tc0AOdxxaNsPZhjfO8kgHaCH?pid=ImgDet&rs=1" group-title="Novelas", Novelisima
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-64d4e82ac5d4668c9cb7b5df.m3u8?X-Plex-Session-Identifier=pgp9lhwhmcou8mbu90iuq5ex&X-Plex-Product=Plex%20Web&X-Plex-Version=4.116.1&X-Plex-Client-Identifier=36njvickmp2b95ydm4sxigkj&X-Plex-Platform=Firefox&X-Plex-Platform-Version=118.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1920x947%2C1920x1080&X-Plex-Token=WyfCuYh6ijrjbMCmHs-N&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=9b7ab6e4-c0e3-469f-820d-dcd4b98ab114
+
+#EXTINF:-1 tvg-id="sony-novelas" tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Novelas", Sony Novelas | US
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.4MHWJTkHh8_Z1dW3bVp6hAHaBy?pid=ImgDet&rs=1" group-title="Novelas", TV Azteca Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -83,9 +96,6 @@ https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kanald" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Novelas",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-id="my-time-movie-mex" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Novelas",MyTime movie network Mexico
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="filmextv" tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="MovieSeries",Filmex TV
 https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
@@ -119,9 +129,6 @@ http://45.5.119.155:8000/play/a0ik/index.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="MovieSeries",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DoctorWho.us" tvg-logo="https://i.imgur.com/naz0HAW.png" group-title="MovieSeries",Doctor Who
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="cinerama" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="MovieSeries",Cinerama TV [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
@@ -183,6 +190,12 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="oldtv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="MovieSeries",Old
 https://marine2.miplay.cl/old/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Teleclasica" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="MovieSeries",Teleclasica
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="retroxtv" tvg-logo="https://th.bing.com/th/id/OIP.lehQFyAdvgPHP4lJIVhvPQHaFe?pid=ImgDet&rs=1" group-title="MovieSeries",Retrox TV
+https://cageu.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
+
 #EXTINF:-1 tvg-id="terrortv" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="MovieSeries",Terror TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
 
@@ -231,6 +244,9 @@ http://38.44.109.41:8888/play/a00f
 #EXTINF:-1 tvg-id="la-tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="General",La Tele
 http://190.92.25.125:8000/play/a033/index.m3u8
 
+#EXTINF:-1 tvg-id="golden-plus" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="General",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="planetatv" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
@@ -239,6 +255,9 @@ http://45.166.92.22:58001/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="General",Nex TV
 https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
+
+#EXTINF:-1 tvg-id="limontv" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="General",Limón TV
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="oromartv" tvg-logo="https://oromartv.com/wp-content/uploads/2023/09/redoromarlogo.jpg" group-title="General",OROMAR TV
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
@@ -321,9 +340,6 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="radioinkatv" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="General",RadioInka (Abancay) [Not 24/7]
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="flash" tvg-logo="https://cdn.m3u.cl/logo/1277_Flash___Freetv_com.png" group-title="Music", Flash - Freetv.com | US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tvexitos" tvg-logo="https://i.ibb.co/x2Hzdqf/tv-exitos.png" group-title="Music",TV Exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
@@ -353,6 +369,9 @@ https://tv.portalexpress.es:3731/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="retro-señal-music" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | CL
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="old-musictv" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Music",Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
