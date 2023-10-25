@@ -69,6 +69,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="https://th.bing.com/th/id/R.b862739205e376913addf8da40bb1ed5?rik=pfVEhjwzxNa2HQ&pid=ImgRaw&r=0" group-title="Entertaiment",Nat Geo Wild
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
 
+#EXTINF:-1 tvg-id="xtrema-animal" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Entertaiment",Xtrema animal
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+
 #EXTINF:-1 tvg-id="pasiones" tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="Novelas",Pasiones
 http://160.20.165.246:8000/play/a00g/index.m3u8
 
