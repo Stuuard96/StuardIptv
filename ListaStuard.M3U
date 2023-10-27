@@ -324,9 +324,6 @@ https://live.obslivestream.com/mayotv/index.m3u8
 #EXTINF:-1 tvg-id="vztv" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="General",VZ Televisión
 https://live.obslivestream.com/vztv/index.m3u8
 
-#EXTINF:-1 tvg-id="norselva-tv" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="General",NorSelva RTV
-https://live.obslivestream.com/norselvatv/index.m3u8
-
 #EXTINF:-1 tvg-id="master-tv" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
