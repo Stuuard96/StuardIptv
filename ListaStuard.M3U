@@ -19,7 +19,7 @@ https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://m3u.cl/logo/253099_Gogoplay." group-title="Animation",Gogo Play TV
-https://250weu.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xtrema-anime" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animation",Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
@@ -47,6 +47,9 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 
 #EXTINF:-1 tvg-id="simsonptv" tvg-logo="https://static.wikia.nocookie.net/dei8941/images/3/35/The_Simpsons_-_Logo_%28Espa%C3%B1ol%29.png/revision/latest?cb=20210927211520&path-prefix=es" group-title="Animation",Los Simpson TV
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713.m3u8
+
+#EXTINF:-1 tvg-id="tsubasa" tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg" group-title="Animation",CAPITAN TSUBASA
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129319
 
 #EXTINF:-1 tvg-id="super-cam" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Animation",Super Campeones
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -95,6 +98,9 @@ https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Novelas",SEO TV Novelas
 https://live.seo.tv.bo/live/SEO3.m3u8
+
+#EXTINF:-1 tvg-id="novelas-es" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg" group-title="Novelas", NOVELAS ES
+https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
 
 #EXTINF:-1 tvg-id="tequiero-tv" tvg-logo="https://m3u.cl/logo/643_Quiero_TV.jpg" group-title="Novelas",Te quiero TV
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
@@ -165,7 +171,19 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="MovieSeries",SEO TV Películas
 https://live.seo.tv.bo/live/SEO4.m3u8
 
-#EXTINF:-1 tvg-id="orbittv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="MovieSeries",Orbit TV | DO
+#EXTINF:-1 tvg-id="walking-dead" tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="MovieSeries",THE WALKING DEAD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="multizonastv" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg" group-title="MoveSeries",MULTIZONAS TELEVISIÓN HD
+https://cloudvideo.servers10.com:8081/8068/rewind-3600.m3u8?DVR
+
+#EXTINF:-1 tvg-id="iutv" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg" group-title="MovieSeries",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
+#EXTINF:-1 tvg-id="telebruncatv" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg" group-title="MovieSeries",TELEBRUNCA
+https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1991786516.m3u8
+
+#EXTINF:-1 tvg-id="orbittv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="MovieSeries",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cascaratv" tvg-logo="https://th.bing.com/th/id/R.0647ce41df564491af95c0fcc4633ea9?rik=PZer%2fIk%2fm%2fJReA&pid=ImgRaw&r=0" group-title="MovieSeries",Cascara TV
@@ -287,6 +305,9 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-id="planetatv" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-id="teleoriental" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="General",TELEORIENTAL
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="solivetv" tvg-logo="http://www.m3u.cl/logo/1366_Solive_TV.png" group-title="General", Solive TV
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
