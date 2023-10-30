@@ -9,10 +9,10 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="pandamax-tv" tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="Animation",Pandamax TV | CL
 https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8
 
-#EXTINF:-1 tvg-id="magic-kids" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids
+#EXTINF:-1 tvg-id="magic-kids" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Animation",Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-id="magic-kids-ar" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png" group-title="Animation", Magic Kids | AR
+#EXTINF:-1 tvg-id="magic-kids-ar" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Animation", Magic Kids | AR
 https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
 
 #EXTINF:-1 tvg-id="retro-magico" tvg-logo="https://i.imgur.com/B6Jt1oM.jpeg" group-title="Animation",Retro Mágico
@@ -39,7 +39,10 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="energeek-fanpop" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="seotv-2kids" tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-bo.png" group-title="Animation",Seo TV 2 Kids
+#EXTINF:-1 tvg-id="networktv" tvg-logo="https://cdn.energeek.cl/imgs/canales/ACSNetwork.png" group-title="Animation",ACS Network TV
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="seotv-2kids" tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="Animation",Seo TV 2 Kids
 https://live.seo.tv.bo/live/SEO2.m3u8
 
 #EXTINF:-1 tvg-id="bob-esponja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="Animation",Bob Esponja TV
@@ -204,6 +207,9 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="oldtv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="MovieSeries",Old
 https://marine2.miplay.cl/old/playlist.m3u8
 
+#EXTINF:-1 tvg-id="mitv-clasica" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="MovieSeries",Mi TV Television Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Teleclasica" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="MovieSeries",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
@@ -288,6 +294,12 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-ID="warner-channel" tvg-logo="https://m3u.cl/logo/2136_Warner_HD.png" group-title="General",Warner
 http://45.166.92.22:58001/play/a049/index.m3u8
 
+#EXTINF:-1 tvg-id="syfy" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="General",SYFY
+https://streaming.zappix.live:19360/tbspanregional/tbspanregional.m3u8
+
+#EXTINF:-1 tvg-id="classic-ch" tvg-logo="https://i.imgur.com/N7HXvDq.png" group-title="General",Classic Channel HD
+https://paneltv.online:1936/8046/8046/playlist.m3u8
+
 #EXTINF:-1 tvg-id="cinerama" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="General",Cinerama TV [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
@@ -314,6 +326,9 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpectrumChannel.cl" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Spectrum-Logo.png" group-title="General",Spectrum Channel SMAS (720p) [Not 24/7]
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="General",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
