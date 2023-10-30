@@ -420,7 +420,7 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w2124958063.m3u8
 #EXTINF:-1 tvg-id="urbano-tv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/logo-urbanotv.png" group-title="Music",Urbano TV
 https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
 
-#EXTINF:-1 tvg-id="trace-latina" tvg-logo="https://th.bing.com/th/id/OIP.StHYEESlkCFAV6CGntxqJgHaDh?pid=ImgDet&rs=1" group-title="Musice",Trace Latina
+#EXTINF:-1 tvg-id="trace-latina" tvg-logo="https://th.bing.com/th/id/OIP.StHYEESlkCFAV6CGntxqJgHaDh?pid=ImgDet&rs=1" group-title="Music",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="top-latino-tv" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music", TOP Latino TV
