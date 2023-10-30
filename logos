@@ -39,5 +39,26 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 http://160.20.165.246:8000/play/a00x/index.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-1064932/aad49440f9/15125.m3u8
 
+#EXTINF:-1 tvg-id="mayotv" tvg-logo="https://pbs.twimg.com/media/FmnVo8KX0AY3PZ7?format=png&name=900x900" group-title="General",Mayo Televisión || Moyobamba
+https://live.obslivestream.com/mayotv/index.m3u8
+
+#EXTINF:-1 tvg-id="vztv" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="General",VZ Televisión
+https://live.obslivestream.com/vztv/index.m3u8
+
+#EXTINF:-1 tvg-id="lacatungatv" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="General",LatacungaTV
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal-xtv" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",Canal XTV
+https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
+
+#EXTINF:-1 tvg-id="mega-tv-apa" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="General",Mega TV Arequipa
+https://hls.servidor.stream/storage/megatv.m3u8
+
+#EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="General",Nex TV
+https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
+
+#EXTINF:-1 tvg-id="teleoriental" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="General",TELEORIENTAL
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.4MHWJTkHh8_Z1dW3bVp6hAHaBy?pid=ImgDet&rs=1" group-title="Novelas", TV Azteca Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
