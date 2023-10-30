@@ -54,8 +54,14 @@ https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 #EXTINF:-1 tvg-id="mega-tv-apa" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="General",Mega TV Arequipa
 https://hls.servidor.stream/storage/megatv.m3u8
 
+#EXTINF:-1 tvg-id="cascaratv" tvg-logo="https://th.bing.com/th/id/R.0647ce41df564491af95c0fcc4633ea9?rik=PZer%2fIk%2fm%2fJReA&pid=ImgRaw&r=0" group-title="MovieSeries",Cascara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="General",Nex TV
 https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
+
+#EXTINF:-1 tvg-id="radio-atmosfera" tvg-logo="https://www.planetaradios.com/content/radios_fm/pr_122.png" group-title="Music",Radio Atmósfera 92.3 FM
+https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
 
 #EXTINF:-1 tvg-id="teleoriental" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="General",TELEORIENTAL
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
