@@ -297,6 +297,12 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-id="mega-cine" tvg-logo="https://m3u.cl/logo/1055_Megacine_TV.png" group-title="General",Mega Cine
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
+#EXTINF:-1 tvg-id="tcs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-id="tvmax" tvg-logo="https://i.ibb.co/bmNMqS6/tvmax46582225533333333.png" group-title="General", TVMax
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="planetatv" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
@@ -305,9 +311,6 @@ https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="limontv" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="General",Limón TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="retroplaytv" tvg-logo="https://play-lh.googleusercontent.com/T4_7BFebh_PJCxdz0SJgUna1OvsqzW1ZDfw4TEYKqQNJVy9CcDNj5Oha9Uq5XOs7OZY=w600-h300-pc0xffffff-pd" group-title="General",Retro Play TV
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:-1 tvg-id="GDMTV.do" tvg-logo="https://i.imgur.com/sroIZuc.png" group-title="General",GDMTV 
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
@@ -368,12 +371,6 @@ https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-
-#EXTINF:-1 tvg-id="tv-metropolis191" tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="General",Televisión Metrópolis 19.1
-https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv-metropolis192.hn" tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="General",Televisión Metrópolis 19.2
-https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
 #EXTINF:-1 tvg-id="telecolor-yuri" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor (Yurimaguas) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
@@ -454,7 +451,7 @@ http://38.43.140.97:8000/play/a01o/index.m3u8
 http://38.43.140.97:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-ID="fox-sports" tvg-logo="https://th.bing.com/th/id/OIP.IWzN4UZLMlbvv__YxaTJegHaEb?pid=ImgDet&rs=1" group-title="Sport", FOX Sports HD 🇦🇷
-http://190.108.85.20:9999/play/a011
+http://190.102.139.242:8900/play/a0xp/index.m3u8
 
 #EXTINF:-1 tvg-ID="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Sport",Fox Sports 2 HD 🇦🇷
 http://190.61.43.117:45000/play/a01g
@@ -463,7 +460,7 @@ http://190.61.43.117:45000/play/a01g
 http://45.166.92.22:58001/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-ID="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/co_tyc-sports-hd_m.png" group-title="Sport",TyCSports HD
-http://209.45.81.84:8000/play/a009
+http://170.254.234.244:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -479,6 +476,9 @@ http://38.43.140.97:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="liga1-max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="Sport",Liga 1 Max
 http://190.102.139.242:8900/play/a12f/index.m3u8
+
+#EXTINF:-1 tvg-id="liga-campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Sport", M+ LIGA DE CAMPEONES 
+http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
 http://190.61.43.117:45000/play/a02v
