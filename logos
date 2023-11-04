@@ -59,6 +59,12 @@ http://190.108.85.20:9999/play/a011
 http://209.45.81.84:8000/play/a009
 http://190.102.139.242:8900/play/a0op/index.m3u8
 
+#EXTINF:-1 tvg-id="gol-peru" tvg-logo="https://3.bp.blogspot.com/-mReXjLmsakc/WPLPLrxkbUI/AAAAAAAAAfE/bDtiGW4HomYjxYtR8LBoTsdOMqU99PBxACEw/s1600/golperu.png" group-title="Sport",GOL PERU (HD)
+http://38.43.140.97:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="movistar-deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="Sport",Movistar Deportes
+http://38.43.140.97:8000/play/a00l/index.m3u8
+
 #EXTINF:-1 tvg-id="mayotv" tvg-logo="https://pbs.twimg.com/media/FmnVo8KX0AY3PZ7?format=png&name=900x900" group-title="General",Mayo Televisión || Moyobamba
 https://live.obslivestream.com/mayotv/index.m3u8
 
