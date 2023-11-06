@@ -3,50 +3,50 @@
 #EXTINF:-1 tvg-id="esports-max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="anime-station" tvg-logo="https://m3u.cl/logo/1081_AnimeStation.png" group-title="Animation",AnimeStation | AR
+#EXTINF:-1 tvg-id="anime-station" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="Animation",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pandamax-tv" tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="Animation",Pandamax TV | CL
+#EXTINF:-1 tvg-id="pandamax-tv" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="Animation",Pandamax TV
 https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8
 
-#EXTINF:-1 tvg-id="magic-kids" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Animation",Magic Kids
+#EXTINF:-1 tvg-id="magic-kids" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Animation",Magic
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-id="magic-kids-ar" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Animation", Magic Kids | AR
+#EXTINF:-1 tvg-id="magic-kids-ar" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Animation", Magic Kids 2
 https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
 
-#EXTINF:-1 tvg-id="retro-magico" tvg-logo="https://i.imgur.com/B6Jt1oM.jpeg" group-title="Animation",Retro Mágico
+#EXTINF:-1 tvg-id="retro-magico" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Animation",Retro Mágico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://m3u.cl/logo/253099_Gogoplay." group-title="Animation",Gogo Play TV
+#EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Animation",Gogo Play TV
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-1 tvg-id="xtrema-anime" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animation",Xtrema Anime
+#EXTINF:-1 tvg-id="xtrema-anime" tvg-logo="https://i.imgur.com/9EVuY65.jpg" group-title="Animation",Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 
 #EXTINF:-1 tvg-id="latino-kids" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="Animation",VariedTV | AR
+#EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="Animation",VariedTV
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dreiko-tv" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Animation",Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-id="energeek" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek
+#EXTINF:-1 tvg-id="energeek" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Animation",EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="energeek-fanpop" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Animation",EnerGeek Fanpop
+#EXTINF:-1 tvg-id="energeek-fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="Animation",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="networktv" tvg-logo="https://cdn.energeek.cl/imgs/canales/ACSNetwork.png" group-title="Animation",ACS Network TV
+#EXTINF:-1 tvg-id="networktv" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Animation",ACS Network TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="seotv-2kids" tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="Animation",Seo TV 2 Kids
 https://live.seo.tv.bo/live/SEO2.m3u8
 
-#EXTINF:-1 tvg-id="bob-esponja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="Animation",Bob Esponja TV
-http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:-1 tvg-id="maximatv" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="Animation",Maxima TV
+https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
 #EXTINF:-1 tvg-id="super-cam" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Animation",Super Campeones
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -104,6 +104,9 @@ https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kanald" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Novelas",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tve-europa" tvg-logo="https://i.imgur.com/ITx8bTj.png" group-title="Novelas",Tve Internacional Europa
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="cine-latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/150px-Cine_Latino_logo.svg.png" group-title="MovieSeries",Cine Latino
 http://45.5.119.155:8000/play/a0ik/index.m3u8
@@ -192,7 +195,7 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 #EXTINF:-1 tvg-id="wutang-collection" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/849fa51674359c442c85efaeefac0aa6.webp" group-title="MovieSeries",Wu Tang Collection TV
 https://aef5dc1975f84cf7af47123a116dd433.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_WuTangCollectionSpanish/playlist.m3u8
 
-#EXTINF:-1 tvg-id="retro-plus" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MovieSeries",Retro Plus TV Señal 3 | CL
+#EXTINF:-1 tvg-id="retro-plus" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="MovieSeries",Retro Plus TV Señal 3
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="oldtv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="MovieSeries",Old
@@ -204,8 +207,11 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="Teleclasica" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="MovieSeries",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="retroxtv" tvg-logo="https://th.bing.com/th/id/OIP.lehQFyAdvgPHP4lJIVhvPQHaFe?pid=ImgDet&rs=1" group-title="MovieSeries",Retrox TV
+#EXTINF:-1 tvg-id="retroxtv" tvg-logo="https://i.imgur.com/Cghkxbr.png" group-title="MovieSeries",Retrox TV
 https://cageu.bozztv.com/ssh101/ssh101/123456789/playlist.m3u8
+
+#EXTINF:-1 tvg-id="chilevisual" tvg-logo="https://i.imgur.com/UncMGn5.png" group-title="MovieSeries",Chilevisual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xtrema-retro-series" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="MovieSeries",Xtrema Retro Series
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
@@ -306,6 +312,9 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 #EXTINF:-1 tvg-id="planetatv" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 tvg-id="visiontv" tvg-logo="https://i.imgur.com/QdZ5MdO.png" group-title="General",Vision TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
 #EXTINF:-1 tvg-id="solivetv" tvg-logo="http://www.m3u.cl/logo/1366_Solive_TV.png" group-title="General", Solive TV
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 
@@ -315,7 +324,7 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="GDMTV.do" tvg-logo="https://i.imgur.com/sroIZuc.png" group-title="General",GDMTV 
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="gentv" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png" group-title="General",GEN TV 
+#EXTINF:-1 tvg-id="gentv" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="General",GenTV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
@@ -387,7 +396,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV 
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-id="retro-music" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Music", Retro Plus TV Señal 2 | CL
+#EXTINF:-1 tvg-id="retro-music" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Music", Retro Plus TV Señal 2
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="old-musictv" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Music",Old Music Televisión
@@ -407,6 +416,9 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvexitos" tvg-logo="https://i.ibb.co/x2Hzdqf/tv-exitos.png" group-title="Music",TV Exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
+#EXTINF:-1 tvg-id="venusmediatv" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="Music",Venus Media TV
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Music",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
