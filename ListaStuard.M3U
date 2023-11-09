@@ -432,9 +432,6 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w2124958063.m3u8
 #EXTINF:-1 tvg-id="top-latino-tv" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music", TOP Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LatinZone.us" tvg-logo="https://i.imgur.com/duEDsne.png" group-title="Music",Latin Zone TV
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-
 #EXTINF:-1 tvg-id="canal-musica" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Music",El Canal de la Musica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
@@ -474,7 +471,7 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport" , La Liga Premier | Paramount+
+#EXTINF:-1 tvg-id="liga-premier" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport" , La Liga Premier | Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
 #EXTINF:-1 tvg-id="gol-peru" tvg-logo="https://3.bp.blogspot.com/-mReXjLmsakc/WPLPLrxkbUI/AAAAAAAAAfE/bDtiGW4HomYjxYtR8LBoTsdOMqU99PBxACEw/s1600/golperu.png" group-title="Sport",GOL PERU (HD)
