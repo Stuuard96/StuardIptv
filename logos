@@ -35,10 +35,14 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americapetv" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Peru",América Televisión
 http://38.43.140.97:8000/play/a00v/index.m3u8
+http://190.102.139.242:8900/play/a0vu/index.m3u8
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="panamericanapetv" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana Televisión
 https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFn13snO4TDVVcr6l4fT7MwD5kYAqy_LN9G1GFj2R8lGJ)/dm/3/x774s7s/s/live-3.m3u8
+https://cdn75.iblups.com/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="willax" tvg-logo="https://th.bing.com/th/id/OIP.iEhtKR2LEo0sDubJU-_3kgHaB2?pid=ImgDet&rs=1" group-title="Peru",Willax
 http://190.102.139.242:8900/play/a0vr/index.m3u8
@@ -104,3 +108,6 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="cinerama" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="General",Cinerama TV [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
+http://38.44.109.41:8888/play/a00f
