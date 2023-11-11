@@ -276,14 +276,26 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="golden-premier" tvg-logo="https://th.bing.com/th/id/R.2a5b708a89f7dafb8a6d220f4696ebe7?rik=KzKUiWqkMXmmrQ&pid=ImgRaw&r=0" group-title="General",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mega-cine" tvg-logo="https://m3u.cl/logo/1055_Megacine_TV.png" group-title="General",Mega Cine
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
 #EXTINF:-1 tvg-id="bnb-digitaltv" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="General",BNB Digital TV
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal-dos" tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" group-title="General",Canal DOS
 https://marine2.miplay.cl/dos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="General",Cáscara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="neotv" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="General",Neo TV 
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="General",COCO TV 
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 tvg-id="cotobrustv" tvg-logo="https://i.paste.pics/c7d14354d2fccf75475fa6dbf0a31991.png" group-title="General",Coto Brus TV
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+
+#EXTINF:-1 tvg-id="reddigitaltv" tvg-logo="https://playmax.tv/wp-content/uploads/2023/02/red-digitatvl.png" group-title="General",Red Digital TV 
+https://live.obslivestream.com/reddigital/index.m3u8
 
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
@@ -309,9 +321,6 @@ https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 tvg-id="limontv" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="General",Limón TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GDMTV.do" tvg-logo="https://i.imgur.com/sroIZuc.png" group-title="General",GDMTV 
-https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="gentv" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="General",GenTV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
@@ -326,15 +335,6 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 
 #EXTINF:-1 tvg-id="cosmostv" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="General",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-id="master-tv" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV
-https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pulatv" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="General",Pula TV
-https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
-
-#EXTINF:-1 tvg-id="SulaTV.hn" tvg-logo="https://i.imgur.com/v90r5jS.png" group-title="General",Sula TV
-https://sulatv1.ddns.net/hls/live/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="General",TV Pop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
