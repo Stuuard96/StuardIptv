@@ -54,6 +54,9 @@ https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
 #EXTINF:-1 tvg-id="maximatv" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="Animation",Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
+#EXTINF:-1 tvg-id="canal-lms" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Animation",Canal LMS
+https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="Entertaiment",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 
@@ -258,12 +261,6 @@ https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Peru",Señal Perú TV [Not 24/7]
 https://livestream.perucast.com/low/stream.m3u8
 
-#EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tcs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
-
 #EXTINF:-1 tvg-ID="warner-channel" tvg-logo="https://m3u.cl/logo/2136_Warner_HD.png" group-title="General",Warner
 http://45.166.92.22:58001/play/a049/index.m3u8
 
@@ -276,11 +273,20 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="golden-premier" tvg-logo="https://th.bing.com/th/id/R.2a5b708a89f7dafb8a6d220f4696ebe7?rik=KzKUiWqkMXmmrQ&pid=ImgRaw&r=0" group-title="General",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+
+#EXTINF:-1 tvg-id="doblec" tvg-logo="https://th.bing.com/th/id/OIP.5zaxO6VIps8phXZON0nerQHaFA?pid=ImgDet&rs=1" group-title="General",Doble C
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTINF:-1 tvg-id="tcs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
+
+#EXTINF:-1 tvg-id="SpectrumChannel.cl" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Spectrum-Logo.png" group-title="General",Spectrum Channel SMAS (720p) [Not 24/7]
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+
 #EXTINF:-1 tvg-id="bnb-digitaltv" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="General",BNB Digital TV
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="canal-dos" tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" group-title="General",Canal DOS
-https://marine2.miplay.cl/dos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="General",Cáscara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
@@ -291,6 +297,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="General",COCO TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
+#EXTINF:-1 tvg-id="bayrestv" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="General",BayresTV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
 #EXTINF:-1 tvg-id="cotobrustv" tvg-logo="https://i.paste.pics/c7d14354d2fccf75475fa6dbf0a31991.png" group-title="General",Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
@@ -299,9 +308,6 @@ https://live.obslivestream.com/reddigital/index.m3u8
 
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="crtv" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="General",CR Televisión
-https://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="planetatv" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -324,9 +330,6 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="gentv" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="General",GenTV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SpectrumChannel.cl" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Spectrum-Logo.png" group-title="General",Spectrum Channel SMAS (720p) [Not 24/7]
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
-
 #EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="General",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
@@ -348,9 +351,6 @@ https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1 tvg-id="hoynet" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="doblec" tvg-logo="https://th.bing.com/th/id/OIP.5zaxO6VIps8phXZON0nerQHaFA?pid=ImgDet&rs=1" group-title="General",Doble C
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
 #EXTINF:-1 tvg-id="cnc-cca" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="General",CNC Cajamarca
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
@@ -363,14 +363,17 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTINF:-1 tvg-id="telecolor-yuri" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor (Yurimaguas) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 tvg-id="radioinkatv" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="General",RadioInka (Abancay) [Not 24/7]
-https://tv.portalexpress.es:3175/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Music",Radio Rutas del Perú
 https://tv.portalexpress.es:3731/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio-tropical" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV 
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
@@ -390,20 +393,11 @@ https://mediacp.us:8081/8002/index.m3u8
 #EXTINF:-1 tvg-id="recuerdos-retrotv" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="Music",Radio Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
-#EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvexitos" tvg-logo="https://i.ibb.co/x2Hzdqf/tv-exitos.png" group-title="Music",TV Exitos
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-
 #EXTINF:-1 tvg-id="venusmediatv" tvg-logo="https://i.imgur.com/quKfcIC.jpg" group-title="Music",Venus Media TV
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Music",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-id="radio-tropical" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTINF:-1 tvg-id="trace-latina" tvg-logo="https://th.bing.com/th/id/OIP.StHYEESlkCFAV6CGntxqJgHaDh?pid=ImgDet&rs=1" group-title="Music",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
@@ -416,9 +410,6 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal-musica" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Music",El Canal de la Musica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tu-canal-musical" tvg-logo="https://yt3.googleusercontent.com/AHw0GtBW1ZM9P6dsjjsU8m6oLo9d3TqIrlwk6BxyaM80ROAcpzHT8t1b9jmDb8cztk-CCp_TNP8=s88-c-k-c0x00ffffff-no-rj" group-title="Music",Tu Canal Musical
-https://video1.getstreamhosting.com:1936/8130/8130/playlist.m3u8
 
 #EXTINF:-1 tvg-id="telemusica" tvg-logo="https://image.roku.com/developer_channels/prod/826c2efdf3c093d6fef8e61063aa76e0454b018cc3d34da897e53487082d52c6.png" group-title="Music",Telemúsica
 https://canal.mediaserver.com.co/live/telemusica.m3u8
