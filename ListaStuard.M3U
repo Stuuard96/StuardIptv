@@ -84,7 +84,7 @@ https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-id="novelisima" tvg-logo="https://th.bing.com/th/id/OIP.r9tc0AOdxxaNsPZhjfO8kgHaCH?pid=ImgDet&rs=1" group-title="Novelas", Novelisima
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-64d4e82ac5d4668c9cb7b5df.m3u8?X-Plex-Session-Identifier=pgp9lhwhmcou8mbu90iuq5ex&X-Plex-Product=Plex%20Web&X-Plex-Version=4.116.1&X-Plex-Client-Identifier=36njvickmp2b95ydm4sxigkj&X-Plex-Platform=Firefox&X-Plex-Platform-Version=118.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1920x947%2C1920x1080&X-Plex-Token=WyfCuYh6ijrjbMCmHs-N&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=9b7ab6e4-c0e3-469f-820d-dcd4b98ab114
 
-#EXTINF:-1 tvg-id="sony-novelas" tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Novelas", Sony Novelas
+#EXTINF:-1 tvg-id="sony-novelas" tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Novelas",Sony Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="todo-novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="Novelas" ,Todo Novelas
@@ -119,9 +119,6 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mx-prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="MovieSeries",MX Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="filmextv" tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="MovieSeries",Filmex TV
-https://vpngratis.win:8443/live/CineMexicano/gsL71cr7Fk/20.m3u8
 
 #EXTINF:-1 tvg-id="grjngo" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20220914T041136.png" group-title="MovieSeries", Grjngo
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -185,9 +182,6 @@ https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="oldtv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="MovieSeries",Old
 https://marine2.miplay.cl/old/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mitv-clasica" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="MovieSeries",Mi TV Television Clasica
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Teleclasica" tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="MovieSeries",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
@@ -274,7 +268,10 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+http://38.44.109.41:8888/play/a00f
+
+#EXTINF:-1 tvg-id="mitv-clasica" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="MovieSeries",Mi TV Television Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 tvg-id="doblec" tvg-logo="https://th.bing.com/th/id/OIP.5zaxO6VIps8phXZON0nerQHaFA?pid=ImgDet&rs=1" group-title="General",Doble C
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
@@ -297,8 +294,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="General",COCO TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
-#EXTINF:-1 tvg-id="bayrestv" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="General",BayresTV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-id="tvcosta" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="General",TV Costa
+https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
+
+#EXTINF:-1 tvg-id="tigueritostv" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="General",Tigueritos TV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cotobrustv" tvg-logo="https://i.paste.pics/c7d14354d2fccf75475fa6dbf0a31991.png" group-title="General",Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
@@ -318,17 +318,11 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:-1 tvg-id="uniteltv" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",Unitel TV
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
-#EXTINF:-1 tvg-id="visiontv" tvg-logo="https://i.imgur.com/QdZ5MdO.png" group-title="General",Vision TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
 #EXTINF:-1 tvg-id="solivetv" tvg-logo="http://www.m3u.cl/logo/1366_Solive_TV.png" group-title="General", Solive TV
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="limontv" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="General",Limón TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="gentv" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="General",GenTV 
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="General",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
@@ -366,11 +360,11 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Music",Radio Rutas del Perú
 https://tv.portalexpress.es:3731/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="radio-tropical" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
@@ -378,10 +372,7 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="Music",Turbo Mix Radio TV 
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-id="voiceover" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="Music",VoiceOver Radio CR
-https://cloudvideo.servers10.com:8081/8198/index.m3u8
-
-#EXTINF:-1 tvg-id="retro-music" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Music", Retro Plus TV Señal 2
+#EXTINF:-1 tvg-id="retro-music" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Music",Retro Plus TV Señal 2
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="old-musictv" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Music",Old Music Televisión
@@ -399,11 +390,11 @@ https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Music",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
+#EXTINF:-1 tvg-id="voiceover" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="Music",VoiceOver Radio CR
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+
 #EXTINF:-1 tvg-id="trace-latina" tvg-logo="https://th.bing.com/th/id/OIP.StHYEESlkCFAV6CGntxqJgHaDh?pid=ImgDet&rs=1" group-title="Music",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="music-top" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9512bacf6f14cf9e6a45dc35587fa12e.webp" group-title="Music",Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w2124958063.m3u8
 
 #EXTINF:-1 tvg-id="top-latino-tv" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music", TOP Latino TV
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
@@ -444,7 +435,7 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="liga-premier" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport" , La Liga Premier | Paramount+
+#EXTINF:-1 tvg-id="liga-premier" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport" ,La Liga Premier | Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
 #EXTINF:-1 tvg-id="gol-peru" tvg-logo="https://3.bp.blogspot.com/-mReXjLmsakc/WPLPLrxkbUI/AAAAAAAAAfE/bDtiGW4HomYjxYtR8LBoTsdOMqU99PBxACEw/s1600/golperu.png" group-title="Sport",GOL PERU (HD)
@@ -452,9 +443,6 @@ http://190.102.139.242:8900/play/a0oq/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar-deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="Sport",Movistar Deportes
 http://190.102.139.242:8900/play/a0oc/index.m3u8
-
-#EXTINF:-1 tvg-id="liga1-max" tvg-logo="https://services.nunchee.com/api/2.0/assets/images/63dd234f3f6b35001fcf78bd/view/backdrop/75" group-title="Sport",Liga 1 Max
-http://190.187.154.156:8000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-ID="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
 http://190.61.43.117:45000/play/a02v
