@@ -25,6 +25,7 @@ tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",América Televisión
 tvg-logo="https://i.imgur.com/RMFG5au.png",Latina
 tvg-logo="https://i.imgur.com/87ObrJO.png",NorSelva RTV
 tvg-logo="https://i.imgur.com/k9ZJlt6.png",SYFY
+tvg-logo="https://i.imgur.com/mXpId1b.jpg",GenTV
 
 ALTERNATIVE:
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="General",Latina
@@ -109,3 +110,4 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
 http://38.44.109.41:8888/play/a00f
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
