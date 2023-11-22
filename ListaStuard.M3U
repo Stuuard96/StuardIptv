@@ -9,11 +9,8 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="pandamaxtv" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="Animation",Pandamax TV
 https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8
 
-#EXTINF:-1 tvg-id="magickids" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Animation",Magic
+#EXTINF:-1 tvg-id="magickids" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Animation",Magic kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="magickids2" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Animation", Magic Kids 2
-https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8
 
 #EXTINF:-1 tvg-id="retro-magico" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Animation",Retro Mágico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
@@ -267,26 +264,23 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
 http://38.44.109.41:8888/play/a00f
 
-#EXTINF:-1 tvg-id="mitv-clasica" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="MovieSeries",Mi TV Television Clasica
+#EXTINF:-1 tvg-id="mitv-clasica" tvg-logo="https://i.imgur.com/O5fZ5RX.png" group-title="General",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-
-#EXTINF:-1 tvg-id="doblec" tvg-logo="https://th.bing.com/th/id/OIP.5zaxO6VIps8phXZON0nerQHaFA?pid=ImgDet&rs=1" group-title="General",Doble C
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
-#EXTINF:-1 tvg-id="tcs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-id="SpectrumChannel.cl" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Spectrum-Logo.png" group-title="General",Spectrum Channel SMAS (720p) [Not 24/7]
 https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="cocotv" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="General",COCO TV 
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 tvg-id="tcs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-id="bnb-digitaltv" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="General",BNB Digital TV
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="neotv" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="General",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-id="cocotv" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="General",COCO TV 
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-id="tvcosta" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="General",TV Costa
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
