@@ -13,7 +13,7 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="retro-magico" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Animation",Retro Mágico
-https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Animation",Gogo Play TV
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
@@ -28,7 +28,7 @@ https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="Animation",VariedTV
-https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dreiko-tv" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Animation",Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
