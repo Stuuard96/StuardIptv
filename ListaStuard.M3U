@@ -267,11 +267,17 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
 http://38.44.109.41:8888/play/a00f
 
-#EXTINF:-1 tvg-id="SpectrumChannel.cl" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Spectrum-Logo.png" group-title="General",Spectrum Channel SMAS (720p) [Not 24/7]
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
+#EXTINF:-1 tvg-id="tigueritostv" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="General",Tigueritos TV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cocotv" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="General",COCO TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 tvg-id="cosmostv" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="General",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-id="SpectrumChannel.cl" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Spectrum-Logo.png" group-title="General",Spectrum Channel SMAS (720p) [Not 24/7]
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="tcs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
@@ -287,9 +293,6 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-id="tvcosta" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="General",TV Costa
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
-
-#EXTINF:-1 tvg-id="tigueritostv" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="General",Tigueritos TV
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cotobrustv" tvg-logo="https://i.paste.pics/c7d14354d2fccf75475fa6dbf0a31991.png" group-title="General",Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
@@ -312,17 +315,11 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-id="solivetv" tvg-logo="http://www.m3u.cl/logo/1366_Solive_TV.png" group-title="General", Solive TV
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="limontv" tvg-logo="https://geomedios.fcs.ucr.ac.cr/wp-content/uploads/2019/07/Limon_TV_Logo.png" group-title="General",Limón TV
-http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="General",Hechicera TV
 https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MasTV.co" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="General",Más TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-
-#EXTINF:-1 tvg-id="cosmostv" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="General",Cosmos TV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="General",TV Pop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
@@ -423,7 +420,7 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="liga-premier" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport" ,La Liga Premier | Paramount+
+#EXTINF:-1 tvg-id="liga-premier" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport",La Liga Premier | Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Sport",Claro Sports
