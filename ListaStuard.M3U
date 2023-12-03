@@ -33,6 +33,9 @@ https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="dreiko-tv" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Animation",Dreiko TV
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
+#EXTINF:-1 tvg-id="zaztv" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Animation",Zaz TV | Mexico
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
 #EXTINF:-1 tvg-id="energeek" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Animation",EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
@@ -47,12 +50,6 @@ https://live.seo.tv.bo/live/SEO_2.m3u8
 
 #EXTINF:-1 tvg-id="cloudtv" tvg-logo="https://www.iptvgratis.cl/wp-content/uploads/2022/10/cloudtvplus.png" group-title="Animation",Cloud TV Plus
 https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="maximatv" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="Animation",Maxima TV
-https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
-
-#EXTINF:-1 tvg-id="canal-lms" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Animation",Canal LMS
-https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="Entertaiment",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -146,6 +143,9 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="MovieSeries",SEO TV Películas
 https://live.seo.tv.bo/live/SEO_4.m3u8
+
+#EXTINF:-1 tvg-id="bjgtjme" tvg-logo="https://i.imgur.com/atlRdIQ.png" group-title="MovieSeries",Bjgtjme | Argentina
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="multizonastv" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg" group-title="MovieSeries",MULTIZONAS TELEVISIÓN HD
 https://cloudvideo.servers10.com:8081/8068/rewind-3600.m3u8?DVR
@@ -266,6 +266,9 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
 http://38.44.109.41:8888/play/a00f
+
+#EXTINF:-1 tvg-id="maximatv" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="General",Maxima TV
+https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
 #EXTINF:-1 tvg-id="tigueritostv" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="General",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
