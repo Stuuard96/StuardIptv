@@ -18,29 +18,29 @@ https://rpn3.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Animation",Gogo Play TV
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-1 tvg-id="animotion" tvg-logo="https://pbs.twimg.com/media/FSIH0MSXEAEjBgA?format=jpg&name=240x240" group-title="Animation",Animotion
-http://190.110.109.104:52321/play/a016/index.m3u8
-
-#EXTINF:-1 tvg-id="xtrema-anime" tvg-logo="https://i.imgur.com/9EVuY65.jpg" group-title="Animation",Xtrema Anime
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-
 #EXTINF:-1 tvg-id="latino-kids" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="Animation",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dreiko-tv" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Animation",Dreiko TV
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-id="xtrema-anime" tvg-logo="https://i.imgur.com/9EVuY65.jpg" group-title="Animation",Xtrema Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zaztv" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Animation",Zaz TV | Mexico
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+#EXTINF:-1 tvg-id="anipoptv" tvg-logo="https://i.imgur.com/PzEK6DI.png" group-title="Animation",Anipop TV
+https://wifiexpert-1.energeek.cl/energeek/anipop-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="energeek" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Animation",EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="energeek-fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="Animation",EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dreiko-tv" tvg-logo="https://i.imgur.com/gb9K6i9.png" group-title="Animation",Dreiko TV
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
+#EXTINF:-1 tvg-id="zaztv" tvg-logo="https://i.imgur.com/CMMEIq3.png" group-title="Animation",Zaz TV | Mexico
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-id="networktv" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Animation",ACS Network TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
@@ -50,6 +50,9 @@ https://live.seo.tv.bo/live/SEO_2.m3u8
 
 #EXTINF:-1 tvg-id="cloudtv" tvg-logo="https://www.iptvgratis.cl/wp-content/uploads/2022/10/cloudtvplus.png" group-title="Animation",Cloud TV Plus
 https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal-lms" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Animation",Canal LMS
+https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="Entertaiment",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -75,16 +78,16 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension
 #EXTINF:-1 tvg-id="xtrema-animal" tvg-logo="https://cdn6.aptoide.com/mundoandroid2020/15ee2631cca3f82c7b3cc2cf2bc0bba6_icon.png" group-title="Entertaiment",Xtrema animal
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="novelisima" tvg-logo="https://th.bing.com/th/id/OIP.r9tc0AOdxxaNsPZhjfO8kgHaCH?pid=ImgDet&rs=1" group-title="Novelas", Novelisima
+#EXTINF:-1 tvg-id="novelisima" tvg-logo="https://th.bing.com/th/id/OIP.r9tc0AOdxxaNsPZhjfO8kgHaCH?pid=ImgDet&rs=1" group-title="Novelas",Novelisima
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-64d4e82ac5d4668c9cb7b5df.m3u8?X-Plex-Session-Identifier=pgp9lhwhmcou8mbu90iuq5ex&X-Plex-Product=Plex%20Web&X-Plex-Version=4.116.1&X-Plex-Client-Identifier=36njvickmp2b95ydm4sxigkj&X-Plex-Platform=Firefox&X-Plex-Platform-Version=118.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Firefox&X-Plex-Device-Screen-Resolution=1920x947%2C1920x1080&X-Plex-Token=WyfCuYh6ijrjbMCmHs-N&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=9b7ab6e4-c0e3-469f-820d-dcd4b98ab114
 
 #EXTINF:-1 tvg-id="sony-novelas" tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Novelas",Sony Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-id="todo-novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="Novelas" ,Todo Novelas
+#EXTINF:-1 tvg-id="todo-novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="Novelas",Todo Novelas
 https://i.mjh.nz/SamsungTVPlus/ESBC43000013T.m3u8
 
-#EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.4MHWJTkHh8_Z1dW3bVp6hAHaBy?pid=ImgDet&rs=1" group-title="Novelas", TV Azteca Corazon
+#EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.4MHWJTkHh8_Z1dW3bVp6hAHaBy?pid=ImgDet&rs=1" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
 #EXTINF:-1 tvg-id="bbc-drama" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Novelas",BBC Drama
@@ -129,7 +132,7 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
 #EXTINF:-1 tvg-id="cine-real" tvg-logo="https://m3u.cl/logo/1272_Cine_Real___Freetv_com.png" group-title="MovieSeries",Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
 
-#EXTINF:-1 tvg-id="rakuten-topfree" tvg-logo="https://pbs.twimg.com/profile_images/1412648952134914051/38fp6fQm.jpg" group-title="MovieSeries", Rakuten Top Free
+#EXTINF:-1 tvg-id="rakuten-topfree" tvg-logo="https://th.bing.com/th/id/OIP._oKbxGnEIxQbqdr1eTfLwQHaFj?rs=1&pid=ImgDetMain" group-title="MovieSeries", Rakuten Top Free
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="MovieSeries",Rakuten Action Movies
@@ -255,17 +258,11 @@ https://livestream.perucast.com/low/stream.m3u8
 #EXTINF:-1 tvg-id="telelima" tvg-logo="https://www.telelima.pe/image/cache/catalog/latino/2-228x228.png" group-title="Peru",TeleLIMA
 https://mserver.latincable.net/TeleLimaSD/index.m3u8
 
-#EXTINF:-1 tvg-ID="warner-channel" tvg-logo="https://m3u.cl/logo/2136_Warner_HD.png" group-title="General",Warner
-http://45.166.92.22:58001/play/a049/index.m3u8
-
 #EXTINF:-1 tvg-id="golden-plus" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="General",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="golden-premier" tvg-logo="https://th.bing.com/th/id/R.2a5b708a89f7dafb8a6d220f4696ebe7?rik=KzKUiWqkMXmmrQ&pid=ImgRaw&r=0" group-title="General",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="bitme" tvg-logo="https://m3u.cl/logo/132009_BitMe.png" group-title="General",bitMe
-http://38.44.109.41:8888/play/a00f
 
 #EXTINF:-1 tvg-id="maximatv" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="General",Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
