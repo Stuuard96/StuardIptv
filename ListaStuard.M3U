@@ -421,10 +421,10 @@ http://45.166.92.22:58001/play/a01j/index.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="liga-premier" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport",La Liga Premier | Paramount+
-https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+https://i.mjh.nz/PlutoTV/162d816fcf24d280008762ee9-alt.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Sport",Claro Sports
-https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
+https://i.mjh.nz/PlutoTV/16320d2755e54db000783fd87-alt.m3u8
 
 #EXTINF:-1 tvg-id="gol-peru" tvg-logo="https://3.bp.blogspot.com/-mReXjLmsakc/WPLPLrxkbUI/AAAAAAAAAfE/bDtiGW4HomYjxYtR8LBoTsdOMqU99PBxACEw/s1600/golperu.png" group-title="Sport",GOL PERU (HD)
 http://190.102.139.242:8900/play/a0oq/index.m3u8
