@@ -51,7 +51,7 @@ https://live.seo.tv.bo/live/SEO-2.m3u8
 #EXTINF:-1 tvg-id="cloudtv" tvg-logo="https://www.iptvgratis.cl/wp-content/uploads/2022/10/cloudtvplus.png" group-title="Animation",Cloud TV Plus
 https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="canal-lms" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Animation",Canal LMS
+#EXTINF:-1 tvg-id="canal-lms" tvg-logo="https://i.imgur.com/RUuoMlL.png" group-title="Animation",Canal LMS [Not 24/7]
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="Entertaiment",Sony One Sharktank
@@ -83,9 +83,6 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-64d4e82ac5d4
 
 #EXTINF:-1 tvg-id="sony-novelas" tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Novelas",Sony Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-id="todo-novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="Novelas",Todo Novelas
-https://i.mjh.nz/SamsungTVPlus/ESBC43000013T.m3u8
 
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.4MHWJTkHh8_Z1dW3bVp6hAHaBy?pid=ImgDet&rs=1" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
@@ -168,7 +165,7 @@ https://stmv1.cnarlatam.com/pandonet/pandonet/playlist.m3u8
 #EXTINF:-1 tvg-id="planetatv-mov" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="MovieSeries",PlanetaTV Movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="origen-tv" tvg-logo="https://m3u.cl/logo/233107_1235_ORIGEN_TV.png" group-title="MovieSeries",Origen TV
+#EXTINF:-1 tvg-id="origentv" tvg-logo="https://m3u.cl/logo/233107_1235_ORIGEN_TV.png" group-title="MovieSeries",Origen TV
 https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="+cine" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="MovieSeries",+Cine
@@ -214,10 +211,10 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="Latina-pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americapetv" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Peru",América Televisión
-http://190.187.154.156:8000/play/a078/index.m3u8
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="panamericanapetv" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana Televisión
 https://cdnhd.iblups.com/hls/ptv5.m3u8
@@ -263,6 +260,9 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="golden-premier" tvg-logo="https://th.bing.com/th/id/R.2a5b708a89f7dafb8a6d220f4696ebe7?rik=KzKUiWqkMXmmrQ&pid=ImgRaw&r=0" group-title="General",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Oromar-TV-en-vivo-Online.png" group-title="General",Oromar TV (720p)
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="maximatv" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="General",Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
@@ -325,7 +325,7 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="General",Ciudad Mágica
-https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 #EXTINF:-1 tvg-id="hoynet" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
@@ -341,9 +341,6 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
 #EXTINF:-1 tvg-id="telecolor-yuri" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor (Yurimaguas) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
-
-#EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Music",Radio Rutas del Perú
-https://tv.portalexpress.es:3731/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
