@@ -235,10 +235,13 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canaln" tvg-logo="https://th.bing.com/th/id/OIP.p960_54BhJVRpj99p6xLFwAAAA?pid=ImgDet&rs=1" group-title="Peru",Canal N
-http://190.102.139.242:8900/play/a0te/index.m3u8
+http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
 
 #EXTINF:-1 tvg-id="exitosa-tv" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV
 https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Peru",PBO Digital
+https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 
 #EXTINF:-1 tvg-id="tvperu" tvg-logo="https://m3u.cl/logo/705_TV_Peru_Noticias.png" group-title="Peru",TV Peru
 https://live-zlr1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
@@ -282,6 +285,12 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="tcs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 
+#EXTINF:-1 tvg-id="bolivision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="General",Bolivisión
+https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="primavera15tv" tvg-logo="https://pbs.twimg.com/media/FWsfeoIXwAEHs4b?format=png&name=small" group-title="General",Primavera 15 TV
+https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="bnb-digitaltv" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="General",BNB Digital TV
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 
@@ -323,6 +332,9 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="General",TV Pop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mastertv" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="General",Master Televisión
+https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="General",Ciudad Mágica
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
