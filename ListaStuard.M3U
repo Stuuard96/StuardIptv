@@ -12,11 +12,17 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="magickids" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="Animation",Magic kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
+#EXTINF:-1 tvg-id="rocket-ch" tvg-logo="https://i.imgur.com/rqep0vp.png" group-title="Animation",Rocket Channel | Argentina
+https://live.autistici.org/hls/magicclub_src.m3u8
+
 #EXTINF:-1 tvg-id="retro-magico" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Animation",Retro Mágico
 https://rpn3.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Animation",Gogo Play TV
-https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Animation",Locomotion | Republica Dominican
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="latino-kids" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
@@ -44,6 +50,9 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 #EXTINF:-1 tvg-id="networktv" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Animation",ACS Network TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="estacion-retro" tvg-logo="https://i.imgur.com/bSBJ51r.png" group-title="Animation",Estacion Retro
+https://xhateaec.com:8800/hls/EstacionRetro/EstacionRetro/09aad3dd77caa0ed9af428f21870dc79/index.m3u8
 
 #EXTINF:-1 tvg-id="seotv-2kids" tvg-logo="https://i.imgur.com/Vyo10wb.png" group-title="Animation",Seo TV 2 Kids
 https://live.seo.tv.bo/live/SEO-2.m3u8
@@ -270,6 +279,12 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="maximatv" tvg-logo="https://i.imgur.com/0IMDwqA.jpg" group-title="General",Maxima TV
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
+#EXTINF:-1 tvg-id="classic-ch" tvg-logo="https://i.imgur.com/N7HXvDq.png" group-title="General",Classic Channel HD | Chile
+https://paneltv.online:1936/8046/8046/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wow-movies" tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="General",Wow Movies | Colombia
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tigueritostv" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="General",Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
@@ -326,6 +341,9 @@ https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MasTV.co" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="General",Más TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-id="canal-mas" tvg-logo="https://canalmasuruguay.com/images/snapshot2.png" group-title="General",Canal Mas | Uruguay
+https://tv.bachistreaming.com:3774/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="General",TV Pop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
