@@ -252,7 +252,7 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="tcs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 
-#EXTINF:-1 group-title="Bics Extra" tvg-logo="https://th.bing.com/th/id/R.7e575e84b58dedfd9713d14c7e6d23fa?rik=O5Qwg4TBFzqLsA&pid=ImgRaw&r=0" group-title="General", TELEMUNDO LA
+#EXTINF:-1 tvg-id="telemundo-la" tvg-logo="https://th.bing.com/th/id/R.7e575e84b58dedfd9713d14c7e6d23fa?rik=O5Qwg4TBFzqLsA&pid=ImgRaw&r=0" group-title="General",Telemundo LA
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 
 #EXTINF:-1 tvg-id="bolivision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="General",Bolivisión
