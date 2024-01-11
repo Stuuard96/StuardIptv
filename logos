@@ -28,7 +28,8 @@ tvg-logo="https://i.imgur.com/k9ZJlt6.png",SYFY
 tvg-logo="https://i.imgur.com/mXpId1b.jpg",GenTV
 tvg-logo="https://i.imgur.com/5g5iqP6.png",RPP
 tvg-logo="https://i.imgur.com/88Iyvm8.png",Radio Rutas del Perú
-
+tvg-logo="https://i.imgur.com/qt6g1wi.png",Aventuras TV
+tvg-logo="https://i.imgur.com/H4SFkx6.png",El Histonauta TV
 
 
 ALTERNATIVE:
@@ -76,9 +77,6 @@ https://live.obslivestream.com/mayotv/index.m3u8
 #EXTINF:-1 tvg-id="vztv" tvg-logo="https://i.imgur.com/2KcpOEU.png" group-title="General",VZ Televisión
 https://live.obslivestream.com/vztv/index.m3u8
 
-#EXTINF:-1 tvg-id="canal-xtv" tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="General",Canal XTV
-https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
-
 #EXTINF:-1 tvg-id="lacatungatv" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="General",LatacungaTV
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 
@@ -87,9 +85,6 @@ https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv-metropolis192.hn" tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="General",Televisión Metrópolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mega-tv-apa" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="General",Mega TV Arequipa
-https://hls.servidor.stream/storage/megatv.m3u8
 
 #EXTINF:-1 tvg-id="cascaratv" tvg-logo="https://th.bing.com/th/id/R.0647ce41df564491af95c0fcc4633ea9?rik=PZer%2fIk%2fm%2fJReA&pid=ImgRaw&r=0" group-title="MovieSeries",Cascara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
@@ -115,6 +110,3 @@ http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 
 #EXTINF:-1 tvg-id="todo-novelas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="Novelas",Todo Novelas
 https://i.mjh.nz/SamsungTVPlus/ESBC43000013T.m3u8
-
-#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="General",Ciudad Mágica
-https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
