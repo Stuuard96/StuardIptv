@@ -7,9 +7,10 @@ tvg-logo="https://i.imgur.com/B6Jt1oM.jpeg",Retro Mágico
 tvg-logo="https://m3u.cl/logo/253099_Gogoplay.",Gogo Play TV
 tvg-logo="https://i.imgur.com/yor5owS.png",Xtrema Anime
 tvg-logo="https://i.imgur.com/VEk5aJ6.png",LatinoKids
-tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png",VariedTV | AR
+tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png",VariedTV
 tvg-logo="https://i.imgur.com/gb9K6i9.png",Dreiko TV
 tvg-logo="https://i.imgur.com/AdsItgE.png",EnerGeek
+tvg-logo="https://i.imgur.com/PzEK6DI.png",Anipop TV
 tvg-logo="https://i.imgur.com/NcMBl4q.png",Animal Planet
 tvg-logo="https://m3u.cl/logo/1572_History.png",History
 tvg-logo="https://m3u.cl/logo/132009_BitMe.png",bitMe
@@ -42,17 +43,11 @@ http://38.43.140.97:8000/play/a00v/index.m3u8
 http://190.102.139.242:8900/play/a0vu/index.m3u
 https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="panamericanapetv" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana Televisión
-https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-
 #EXTINF:-1 tvg-id="willax" tvg-logo="https://th.bing.com/th/id/OIP.iEhtKR2LEo0sDubJU-_3kgHaB2?pid=ImgDet&rs=1" group-title="Peru",Willax
 http://190.102.139.242:8900/play/a0vr/index.m3u8
 
 #EXTINF:-1 tvg-id="exitosa-tv" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Sport",TV Publica [Not 24/7]
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 tvg-ID="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
 http://160.20.165.246:8000/play/a00x/index.m3u8
@@ -79,12 +74,6 @@ https://live.obslivestream.com/vztv/index.m3u8
 
 #EXTINF:-1 tvg-id="lacatungatv" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="General",LatacungaTV
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv-metropolis191" tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="General",Televisión Metrópolis 19.1
-https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv-metropolis192.hn" tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="General",Televisión Metrópolis 19.2
-https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cascaratv" tvg-logo="https://th.bing.com/th/id/R.0647ce41df564491af95c0fcc4633ea9?rik=PZer%2fIk%2fm%2fJReA&pid=ImgRaw&r=0" group-title="MovieSeries",Cascara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
