@@ -30,6 +30,15 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="Animation",VariedTV
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
+#EXTINF:-1 tvg-id="toonizaki" tvg-logo="https://i.imgur.com/MpjXzby.jpg" group-title="Animation",Toonizaki
+https://live.autistici.org/hls/toonizaki_src.m3u8
+
+#EXTINF:-1 tvg-id="estacion-retro" tvg-logo="https://i.imgur.com/bSBJ51r.png" group-title="Animation",Estacion Retro
+https://rpn3.bozztv.com/ssh101/ssh101/canalonline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eclipsetv" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/5127f1135819011.61eec5a42eeff.png" group-title="Animation",Eclipse TV
+https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
+
 #EXTINF:-1 tvg-id="energeek" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Animation",EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
@@ -45,14 +54,17 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="networktv" tvg-logo="https://i.imgur.com/oNmtnby.png" group-title="Animation",ACS Network TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 
-#EXTINF:-1 tvg-id="estacion-retro" tvg-logo="https://i.imgur.com/bSBJ51r.png" group-title="Animation",Estacion Retro
-https://rpn3.bozztv.com/ssh101/ssh101/canalonline/playlist.m3u8
-
 #EXTINF:-1 tvg-id="cloudtv" tvg-logo="https://www.iptvgratis.cl/wp-content/uploads/2022/10/cloudtvplus.png" group-title="Animation",Cloud TV Plus
 https://6362ca6f1fc28.streamlock.net:443/cloudtvplus/cloudtvplus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="24-7-tv" tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png" group-title="Animation",24-7 TV
+https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="azteca7" tvg-logo="https://i.imgur.com/rbInBME.png" group-title="Animation",Azteca 7
 https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
+
+#EXTINF:-1 tvg-id="cnn-es" tvg-logo="https://th.bing.com/th/id/OIP.jaxSmAEdJJpvJeF6AsIj6AHaHa?rs=1&pid=ImgDetMain" group-title="Entertaiment",CNN en Español
+https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="Entertaiment",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -137,6 +149,9 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 #EXTINF:-1 tvg-id="orbittv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="MovieSeries",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wow-movies" tvg-logo="https://i.imgur.com/mw8E8GQ.jpg" group-title="MovieSeries",Wow Movies
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="planetatv-mov" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="MovieSeries",PlanetaTV Movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
@@ -237,7 +252,7 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="cocotv" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="General",COCO TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
-#EXTINF:-1 tvg-id="cosmostv" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="General",Cosmos TV
+#EXTINF:-1 tvg-id="cosmostv" tvg-logo="https://cdn.m3u.cl/logo/1143_Cosmos_TV.png" group-title="General",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-id="SpectrumChannel.cl" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Spectrum-Logo.png" group-title="General",Spectrum Channel SMAS (720p) [Not 24/7]
@@ -246,20 +261,17 @@ https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="conectatetv" tvg-logo="https://i.imgur.com/HK1NEsV.png" group-title="General",Conectate TV
 https://250weu.bozztv.com/ssh101/ssh101/conectatetvpr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tcs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
-
-#EXTINF:-1 tvg-id="bolivision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="General",Bolivisión
+#EXTINF:-1 tvg-id="bolivision" tvg-logo="https://th.bing.com/th/id/OIP._tJc4BXZeL0meKzn7manmQHaHf?rs=1&pid=ImgDetMain" group-title="General",Bolivisión
 https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="telemundo" tvg-logo="https://th.bing.com/th/id/OIP.VCLfwuaOv1xGi2mePNqQOAHaGQ?rs=1&pid=ImgDetMain" group-title="General",Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="bnb-digitaltv" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="General",BNB Digital TV
 https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="neotv" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="General",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-id="gentv" tvg-logo="https://i.imgur.com/mXpId1b.jpg" group-title="General",GenTV 
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-id="tvcosta" tvg-logo="https://i.imgur.com/45Ll5LZ.jpg" group-title="General",TV Costa
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
@@ -282,9 +294,6 @@ https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 tvg-id="MasTV.co" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="General",Más TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
-#EXTINF:-1 tvg-id="canal-mas" tvg-logo="https://canalmasuruguay.com/images/snapshot2.png" group-title="General",Canal Mas | Uruguay
-https://tv.bachistreaming.com:3774/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="General",TV Pop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
@@ -296,9 +305,6 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 #EXTINF:-1 tvg-id="hoynet" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
-
-#EXTINF:-1 tvg-id="cnc-cca" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="General",CNC Cajamarca
-https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="General",Telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
@@ -372,8 +378,8 @@ http://45.166.92.22:58001/play/a02m/index.m3u8
 #EXTINF:-1 tvg-ID="fox-sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Sport",Fox Sports 2 HD 🇦🇷
 http://190.61.43.117:45000/play/a01g
 
-#EXTINF:-1 tvg-ID="fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Sport",FOX SPORTS 3 HD
-http://190.61.43.117:45000/play/a060
+#EXTINF:-1 tvg-ID="fox-sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Sport",FOX SPORTS 3
+http://167.250.222.35:16000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -382,7 +388,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Sport",Claro Sports
-https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b64f24a-b25b-11ee-a12f-e234da9d5862
 
 #EXTINF:-1 tvg-ID="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
 http://190.61.43.117:45000/play/a02v
