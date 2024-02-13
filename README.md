@@ -2,8 +2,6 @@
 
 ## Contribuciones:
 
-- [link](https://github.com/bodegaacuenta/Moyobambaastral){:target="_blank"}
-- <a href="https://github.com/bodegaacuenta/Moyobambaastral" target="_blank">Hello, world!</a>
 - https://github.com/bodegaacuenta/Moyobambaastral
 - https://github.com/jsosao
 - https://github.com/ARIEL0202
