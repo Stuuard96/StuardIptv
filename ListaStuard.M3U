@@ -18,6 +18,9 @@ https://rpn3.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Animation",Gogo Play TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 
+#EXTINF:-1 tvg-id="animash" tvg-logo="https://pbs.twimg.com/media/GBPioWYXsAAvDon?format=png&name=360x360" group-title="",Animash
+http://191.97.60.193:10000/play/a02u/index.m3u8
+
 #EXTINF:-1 tvg-id="locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Animation",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -84,6 +87,9 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="golden-premier" tvg-logo="https://th.bing.com/th/id/R.2a5b708a89f7dafb8a6d220f4696ebe7?rik=KzKUiWqkMXmmrQ&pid=ImgRaw&r=0" group-title="MovieSeries",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="golden-edge" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="MovieSeries", Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="mx-classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="MovieSeries",MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 
@@ -92,6 +98,12 @@ https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mx-prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="MovieSeries",MX Prime
 https://marine2.miplay.cl/mxprime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="de-pelicula" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" group-title="MovieSeries",De Película
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="de-pelicula+" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest/scale-to-width-down/149?cb=20220130181115&path-prefix=es" group-title="MovieSeries",De Película Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="grjngo" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20220914T041136.png" group-title="MovieSeries", Grjngo
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -254,9 +266,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="cotobrustv" tvg-logo="https://i.paste.pics/c7d14354d2fccf75475fa6dbf0a31991.png" group-title="General",Coto Brus TV
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-
-#EXTINF:-1 tvg-id="bnb-digitaltv" tvg-logo="https://play-lh.googleusercontent.com/gx5e8vjrYke4MNqP5kJANUoxqjZnYe0Bt6b-GfPrDr8cUcfeJRhiJIlQ7OMEhdrrp01W=w240-h480-rw" group-title="General",BNB Digital TV
-https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
