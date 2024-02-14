@@ -3,7 +3,6 @@
 ## Contribuciones:
 
 - https://github.com/bodegaacuenta/Moyobambaastral
-- https://github.com/ARIEL0202
 - https://github.com/BrianRVP/lista.m3u
 - https://github.com/andentv/packcanales
 - https://github.com/nreyes0477/nreyes06
