@@ -6,9 +6,6 @@
 - https://github.com/BrianRVP/lista.m3u
 - https://github.com/andentv/packcanales
 - https://github.com/nreyes0477/nreyes06
-- https://github.com/PABLOPOM
-- https://github.com/Pibyto/pibytotv.m3u
-- https://github.com/emeaplay
 - https://github.com/delmitv/lista-IPTV
 - https://github.com/EnerGeekTV/IPTVgeek
 - https://github.com/bramn6495/JUANSE.m3u
