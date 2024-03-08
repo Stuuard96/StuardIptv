@@ -19,3 +19,4 @@
 - https://tvinsur.com/
 - https://artv.watch/es/
 - https://vk.com/playlistfinder
+- https://m3u.cl/lista-iptv-top.php
