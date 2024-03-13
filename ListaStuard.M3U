@@ -24,6 +24,9 @@ http://191.97.60.193:10000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="adult-swim" tvg-logo="https://i.imgur.com/gF5cqMl.png" group-title="Animation",Adult Swim
 http://190.90.154.73:8080/play/a025/index.m3u8
 
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://th.bing.com/th/id/R.be792ba7e59994aabbce263565368771?rik=kJio6nxlQCp4lw&pid=ImgRaw&r=0" group-title="Animation",MAX Anime
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+
 #EXTINF:-1 tvg-id="animezone" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Animation",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 
@@ -31,13 +34,13 @@ http://animezonetv.net/hls/stream.m3u8
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Animation",Locomotion
-http://85.239.54.197:81/live/loco/index.m3u8
+http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="latino-kids" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="Animation",VariedTV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="estacion-retro" tvg-logo="https://i.imgur.com/bSBJ51r.png" group-title="Animation",Estacion Retro
 https://rpn3.bozztv.com/ssh101/ssh101/canalonline/playlist.m3u8
