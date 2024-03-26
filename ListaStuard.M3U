@@ -255,9 +255,6 @@ https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a4411371
 #EXTINF:-1 tvg-id="neotv" tvg-logo="https://live.neotv.mk/img/neoTv.png" group-title="General",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="cotobrustv" tvg-logo="https://th.bing.com/th/id/OIP.crmGhA3bM62BIKn-B6_0OwAAAA?rs=1&pid=ImgDetMain" group-title="General",Coto Brus TV
-https://cloudvideo.servers10.com:8081/8030/index.m3u8
-
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
 
@@ -276,7 +273,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 #EXTINF:-1 tvg-id="radio-tropical" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
-#EXTINF:-1 tvg-id="the-retroch" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="Music",The Retro Channel
+#EXTINF:-1 tvg-id="the-retroch" tvg-logo="https://th.bing.com/th/id/R.c347e5349a3f359d435a16d5bf0984be?rik=nNNWsgHAtGde%2bw&pid=ImgRaw&r=0" group-title="Music",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="old-musictv" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Music",Old Music Televisión
@@ -318,6 +315,15 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="canal-musica" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Music",El Canal de la Musica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
+#EXTINF:-1 tvg-id="espn-mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png"  group-title="Sport",ESPN mx
+http://181.78.105.146:2000/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-id="espn2-mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 mx
+http://181.78.105.146:2000/play/a063/index.m3u8
+
+#EXTINF:-1 tvg-id="espn3-mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Sport",ESPN 3 mx
+http://181.78.105.146:2000/play/a03n/index.m3u8
+
 #EXTINF:-1 tvg-ID="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN
 http://190.61.43.117:45000/play/a01l
 
@@ -344,6 +350,9 @@ http://190.61.55.186:1010/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar-dp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="Sport",Movistar Deportes
 http://190.61.55.186:1010/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tyc-sports_m.png" group-title="Sport", TyC Sports 
+http://45.179.140.242:8000/play/a0k7
 
 #EXTINF:-1 tvg-id="caracol-x" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol A
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
