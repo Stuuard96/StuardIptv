@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-id="esports-max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://artv.watch/cdn/channel/MAXAnime.ve" group-title="Animation",MAX Anime
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="Animation",MAX Anime
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 
-#EXTINF:-1 tvg-id="animestation" tvg-logo="https://animestation.net/img/logo.png" group-title="Animation",AnimeStation
+#EXTINF:-1 tvg-id="animestation" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animation",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pandamaxtv" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="Animation",Pandamax TV
@@ -27,7 +27,10 @@ http://191.97.60.193:10000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="animezone" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Animation",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="taltaltv" tvg-name="" tvg-logo="https://th.bing.com/th/id/OIP.EDVT1iGuk2IlHDZSxMQGnwHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Taltal TV
+#EXTINF:-1 tvg-id="adult-swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="Animation",Adult Swim LA
+http://38.7.223.20:8000/play/a02l
+
+#EXTINF:-1 tvg-id="taltaltv" tvg-logo="https://th.bing.com/th/id/OIP.EDVT1iGuk2IlHDZSxMQGnwHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Animation",Locomotion
@@ -37,7 +40,7 @@ http://85.239.54.197:81/live/loco_hi/index.m3u8
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://th.bing.com/th/id/R.fd4d34825799ab79e3da969e0d93c283?rik=s6hY82UJTTW4TA&pid=ImgRaw&r=0" group-title="Animation",VariedTV
-https://cloud5.streaminglivehd.com:3874/stream/play.m3u8
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-id="estacion-retro" tvg-logo="https://i.imgur.com/bSBJ51r.png" group-title="Animation",Estacion Retro
 https://rpn3.bozztv.com/ssh101/ssh101/canalonline/playlist.m3u8
@@ -219,6 +222,9 @@ http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1 tvg-id="bayrestv" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="General",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
+#EXTINF:-1 tvg-id="telecosta" tvg-logo="https://i.imgur.com/HIqqElM.png" group-title="General",Telecosta Escuintla
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
 #EXTINF:-1 tvg-id="Gentv" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/gen-tv.png" group-title="General",GenTV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
@@ -269,6 +275,9 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 
 #EXTINF:-1 tvg-id="radio-tropical" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 tvg-id="the-retroch" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="Music",The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="old-musictv" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Music",Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
