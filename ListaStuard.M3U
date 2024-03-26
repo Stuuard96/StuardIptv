@@ -378,7 +378,7 @@ http://190.61.55.186:1010/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="movistar-dp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="Sport",Movistar Deportes
 http://190.61.55.186:1010/play/a00q/index.m3u8
 
-#EXTINF:-1 tvg-id="caracol-x" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png",Caracol A
+#EXTINF:-1 tvg-id="caracol-x" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol A
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
@@ -387,7 +387,7 @@ http://190.61.43.117:45000/play/a02v
 #EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Sport",TV Publica
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46747.m3u8
 
-#EXTINF:-1 tvg-id="chv" tvg-logo="https://tvdaldia.cl/wp-content/uploads/2022/07/chv-contigo-1024x634.jpg",CHV Contigo
+#EXTINF:-1 tvg-id="chv" tvg-logo="https://tvdaldia.cl/wp-content/uploads/2022/07/chv-contigo-1024x634.jpg" group-title="Sport",CHV Contigo
 https://jireh-1-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8?dpssid=b133754686481651cebc1e1261&sid=ba5t1l1xb219432494146562815e50eb0&ndvc=0
 
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
