@@ -303,10 +303,7 @@ http://190.61.43.117:45000/play/a01g
 #EXTINF:-1 tvg-id="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tyc-sports_m.png" group-title="Sport", TyC Sports 
 http://45.179.140.242:8000/play/a0k7
 
-#EXTINF:-1 tvg-id="caracol-x" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol A
-http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
+#EXTINF:-1 tvg-id="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
 http://190.61.43.117:45000/play/a02v
 
 #EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Sport",TV Publica
