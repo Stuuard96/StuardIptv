@@ -4,7 +4,7 @@
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="Animation",MAX Anime
-https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animestation" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animation",AnimeStation
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
