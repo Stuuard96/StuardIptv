@@ -30,20 +30,17 @@ http://38.7.223.20:8000/play/a02l
 #EXTINF:-1 tvg-id="taltaltv" tvg-logo="https://th.bing.com/th/id/OIP.EDVT1iGuk2IlHDZSxMQGnwHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
+#EXTINF:-1 tvg-id="dititv" tvg-logo="https://radiotv.ar/img/l/dititv.jpg" group-title="Animation",Diti TV
+https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8
+
 #EXTINF:-1 tvg-id="locomotion" tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Animation",Locomotion
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="latino-kids" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
-#EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://th.bing.com/th/id/R.fd4d34825799ab79e3da969e0d93c283?rik=s6hY82UJTTW4TA&pid=ImgRaw&r=0" group-title="Animation",VariedTV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-
-#EXTINF:-1 tvg-id="energeek" tvg-logo="https://i.imgur.com/2HZW3E2.png" group-title="Animation",EnerGeek
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="energeek-fanpop" tvg-logo="https://th.bing.com/th/id/OIP.Yekmo5jPSxhVXRUxoHUMhAHaHa?rs=1&pid=ImgDetMain" group-title="Animation",EnerGeek Fanpop
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="Animation",VariedTV
+https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="planetatv-kids" tvg-logo="https://pbs.twimg.com/media/Frs3AxpWwAEG08o?format=png&name=240x240" group-title="Animation",Planeta Family TV Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
@@ -59,6 +56,9 @@ https://marine2.miplay.cl/ontour/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Entertaiment",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="ox-network" tvg-logo="https://cdn.m3u.cl/logo/926_Oxigeno_Network.png" group-title="Entertaiment",Oxigeno Network
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sony-novelas" tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Novelas",Sony Novelas
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
@@ -115,10 +115,7 @@ https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
   
 #EXTINF:-1 tvg-id="origentv" tvg-logo="https://m3u.cl/logo/233107_1235_ORIGEN_TV.png" group-title="MovieSeries",Origen TV
-https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="+cine" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png" group-title="MovieSeries",+Cine
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+https://tv.streaming-chile.com:8081/origentvsd/index.m3u8
 
 #EXTINF:-1 tvg-id="oldtv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="MovieSeries",Old
 https://marine2.miplay.cl/old/playlist.m3u8
@@ -130,13 +127,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="memorias-film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="MovieSeries",Memorias Film
-https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="estacion-retro" tvg-logo="https://i.imgur.com/bSBJ51r.png" group-title="MovieSeries",Estacion Retro
-https://rpn3.bozztv.com/ssh101/ssh101/canalonline/playlist.m3u8
-
-#EXTINF:-1 tvg-id="terrortv" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="MovieSeries",Terror TV
-https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
+https://stmv3.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Horrify.us" tvg-logo="https://i.imgur.com/N6H91zk.png" group-title="MovieSeries",Horrify
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
@@ -180,9 +171,6 @@ https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Peru",Señal Perú TV
 https://livestream.perucast.com/low/stream.m3u8
 
-#EXTINF:-1 tvg-id="nacionaltv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/NTVPERU_3.png" group-title="Peru",Nacional TV
-https://ott1.hdlatam.tv/live/nacionaltvlive/playlist.m3u8
-
 #EXTINF:-1 tvg-id="telelima" tvg-logo="https://www.telelima.pe/image/cache/catalog/latino/2-228x228.png" group-title="Peru",TeleLIMA
 http://38.44.237.132:2080/TeleLima/index.m3u8
 
@@ -213,9 +201,6 @@ https://marine2.miplay.cl/dos/playlist.m3u8
 #EXTINF:-1 tvg-id="planetatv" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="wtv" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",W Televisión
-https://live.obslivestream.com/wtv/index.m3u8
-
 #EXTINF:-1 tvg-id="hoynet" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
@@ -233,6 +218,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wtv" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",W Televisión
+https://live.obslivestream.com/wtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="General",Telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
@@ -285,9 +273,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-ID="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN
 http://190.61.43.117:45000/play/a01l
 
-#EXTINF:-1 tvg-ID="espn-co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN CO
-http://45.179.140.242:8000/play/a0j5
-
 #EXTINF:-1 tvg-ID="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2
 http://190.61.43.117:45000/play/a053
 
@@ -305,9 +290,6 @@ http://190.61.43.123:45000/play/a060
 
 #EXTINF:-1 tvg-ID="espn7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="Sport",ESPN 7
 http://190.61.43.117:45000/play/a01g
-
-#EXTINF:-1 tvg-id="tyc" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tyc-sports_m.png" group-title="Sport", TyC Sports 
-http://45.179.140.242:8000/play/a0k7
 
 #EXTINF:-1 tvg-id="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
 http://190.61.43.117:45000/play/a02v
