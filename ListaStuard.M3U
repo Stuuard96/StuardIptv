@@ -42,6 +42,9 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="dititv" tvg-logo="https://radiotv.ar/img/l/dititv.jpg" group-title="Animation",Diti TV
 https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8
 
+#EXTINF:-1 tvg-id="energeek" tvg-logo="https://neotv.cl/assets/img/channels/energeek-1.png" group-title="Animation",Energeek
+https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="fanpoptv" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="Animation",Fanpop TV
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
@@ -75,8 +78,8 @@ https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 tvg-id="bbc-drama" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Novelas",BBC Drama
 https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8
 
-#EXTINF:-1 tvg-id="novelas-es" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg" group-title="Novelas", NOVELAS ES
-https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Novelas",Novelisima
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
 #EXTINF:-1 tvg-id="tequiero-tv" tvg-logo="https://m3u.cl/logo/643_Quiero_TV.jpg" group-title="Novelas",Te quiero TV
 https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
@@ -122,9 +125,15 @@ https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="planetatv-mov" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="MovieSeries",PlanetaTV Movies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="+cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="MovieSeries",+cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
   
 #EXTINF:-1 tvg-id="origentv" tvg-logo="https://m3u.cl/logo/233107_1235_ORIGEN_TV.png" group-title="MovieSeries",Origen TV
 https://tv.streaming-chile.com:8081/origentvsd/index.m3u8
+
+#EXTINF:-1 tvg-id="telenorte" tvg-logo="https://neotv.cl/assets/img/channels/telenorte.png" group-title="MovieSeries",TeleNorte
+https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="oldtv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="MovieSeries",Old
 https://marine2.miplay.cl/old/playlist.m3u8
@@ -195,17 +204,26 @@ https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="bolivision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="General",Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="telemundo-in" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/telemundo.jpg" group-title="General",Telemundo Internacional
-http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+#EXTINF:-1 tvg-id="syfy" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="General",SYFY
+https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
+
+#EXTINF:-1 tvg-id="tcs+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-id="bayrestv" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="General",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-id="telecaribe" tvg-logo="https://www.anesma.com/wp-content/uploads/2020/08/telecaribe.jpg" group-title="General",Tele Caribe
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 
 #EXTINF:-1 tvg-id="telecosta" tvg-logo="https://th.bing.com/th/id/OIP.qD7fpyr0t4aIXr2FTntuqQHaE8?rs=1&pid=ImgDetMain" group-title="General",Telecosta Escuintla
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-id="soltv" tvg-logo="https://seeklogo.com/images/S/sol-tv-logo-35CB5B14B6-seeklogo.com.gif" group-title="General",Sol Tv
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-id="evatv" tvg-logo="https://neotv.cl/assets/img/channels/eva-television.png" group-title="General",Eva TV
+https://5ff3d9babae13.streamlock.net/zdznafaere/zdznafaere/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal-dos" tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" group-title="General",Canal DOS
 https://marine2.miplay.cl/dos/playlist.m3u8
@@ -231,8 +249,14 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="wtv" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",W Televisión
+#EXTINF:-1 tvg-id="wtv" tvg-logo="https://yt3.ggpht.com/ytc/ AKedOLQJYlaCX1UArt5jM5r0sYe2E46sgxqbpuudC75Qaw=s900-ck-c0x00ffffff-no-rj" group-title="General",WTV 
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wtv2" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",W Televisión
 https://live.obslivestream.com/wtv/index.m3u8
+
+#EXTINF:-1 tvg-id="nimtv" tvg-logo="https://static.wixstatic.com/media/7acae1_a52030788e08407abb6f67a51e0d5276~mv2.png" group-title="General",Nim TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="General",Telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
@@ -254,6 +278,9 @@ https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="recuerdos-retrotv" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="Music",Radio Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-id="much-music" tvg-logo="https://neotv.cl/assets/img/channels/muchmusic.png" group-title="Music",Much Music
+https://stream.kirachan.tech/memfs/2b10fb7c-f9ce-4383-ab2e-6ef143a39d2a.m3u8
 
 #EXTINF:-1 tvg-id="telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="Music",Telehit
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
@@ -281,6 +308,15 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal-musica" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Music",El Canal de la Musica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="espnx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN
+http://181.78.8.90:16123/play/ch16
+
+#EXTINF:-1 tvg-ID="espn2x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2
+http://181.78.8.90:16123/play/ch17
+
+#EXTINF:-1 tvg-ID="espn3x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Sport",ESPN 3
+http://181.78.8.90:16123/play/ch18 
 
 #EXTINF:-1 tvg-ID="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sport",ESPN
 http://190.61.43.117:45000/play/a01l
