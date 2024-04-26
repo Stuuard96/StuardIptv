@@ -204,7 +204,7 @@ https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="bolivision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="General",Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="syfy" tvg-logo="https://i.imgur.com/k9ZJlt6.png" group-title="General",SYFY
+#EXTINF:-1 tvg-id="syfy" tvg-logo="https://neotv.cl/assets/img/channels/syfy.png" group-title="General",SYFY
 https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18.m3u8
 
 #EXTINF:-1 tvg-id="tcs+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="General",TCS+
@@ -221,9 +221,6 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-id="soltv" tvg-logo="https://seeklogo.com/images/S/sol-tv-logo-35CB5B14B6-seeklogo.com.gif" group-title="General",Sol Tv
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-
-#EXTINF:-1 tvg-id="evatv" tvg-logo="https://neotv.cl/assets/img/channels/eva-television.png" group-title="General",Eva TV
-https://5ff3d9babae13.streamlock.net/zdznafaere/zdznafaere/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal-dos" tvg-logo="https://pbs.twimg.com/media/Fm4LCw_WYAESJ5v?format=png&name=small" group-title="General",Canal DOS
 https://marine2.miplay.cl/dos/playlist.m3u8
@@ -249,13 +246,13 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="unicentrotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/unicentrotv.jpeg" group-title="General",Unicentro TV
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="wtv" tvg-logo="https://yt3.ggpht.com/ytc/ AKedOLQJYlaCX1UArt5jM5r0sYe2E46sgxqbpuudC75Qaw=s900-ck-c0x00ffffff-no-rj" group-title="General",WTV 
+#EXTINF:-1 tvg-id="wtv" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",WTV 
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="wtv2" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",W Televisión
 https://live.obslivestream.com/wtv/index.m3u8
 
-#EXTINF:-1 tvg-id="nimtv" tvg-logo="https://static.wixstatic.com/media/7acae1_a52030788e08407abb6f67a51e0d5276~mv2.png" group-title="General",Nim TV
+#EXTINF:-1 tvg-id="nimtv" tvg-logo="https://th.bing.com/th/id/OIP.XJuYPbqcLPrWdG-n3vbY2QHaCe?rs=1&pid=ImgDetMain" group-title="General",Nim TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="General",Telemax
