@@ -8,7 +8,6 @@
 - https://github.com/andentv/packcanales
 - https://github.com/nreyes0477/nreyes06
 - https://github.com/delmitv/lista-IPTV
-- https://github.com/EnerGeekTV/IPTVgeek
 - https://github.com/bramn6495/JUANSE.m3u
 - https://github.com/iptv-org/iptv/tree/master/streams
 - https://github.com/luisms123/tdt
