@@ -6,17 +6,11 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="Animation",MAX Anime
 https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="animestation" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animation",AnimeStation
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="pandamaxtv" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="Animation",Pandamax TV
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 #EXTINF:-1 tvg-id="magickids" tvg-logo="https://images.clarin.com/2019/11/16/magic-kids-el-logo-del___JajU6G2__720x0__1.jpg" group-title="Animation",Magic kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="retro-magico" tvg-logo="https://th.bing.com/th/id/OIP.r6wHV9lAM2VIEvdyBSerPwHaFa?rs=1&pid=ImgDetMain" group-title="Animation",Retro Mágico
-https://rpn3.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://th.bing.com/th/id/OIP.JVmdBenXXXCMGfQorV5ohQHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Gogo Play TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
@@ -81,9 +75,6 @@ https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Novelas",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
-#EXTINF:-1 tvg-id="tequiero-tv" tvg-logo="https://m3u.cl/logo/643_Quiero_TV.jpg" group-title="Novelas",Te quiero TV
-https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="kanald" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Novelas",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
@@ -92,9 +83,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="golden-premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier.png" group-title="MovieSeries",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="moovimex" tvg-logo="https://i.imgur.com/q3PmMF9.jpg" group-title="MovieSeries",MOOVIMEX
-https://linear-564.frequency.stream:443/mt/studio/564/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mx-classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="MovieSeries",MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
@@ -113,9 +101,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="MovieSeries",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="iutv" tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg" group-title="MovieSeries",IU TV HD
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 #EXTINF:-1 tvg-id="orbittv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="MovieSeries",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -144,12 +129,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="Teleclasica" tvg-logo="https://latinartv.com/sites/default/files/logos/teleclasica.jpg" group-title="MovieSeries",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="memorias-film" tvg-logo="https://i.imgur.com/1RkqeV8.png" group-title="MovieSeries",Memorias Film
-https://stmv3.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="canal-rex" tvg-logo="https://img1.wsimg.com/isteam/ip/6f47b0e4-2e02-4ab1-8103-f541b24dfe4c/CANAL%20REX.png" group-title="MovieSeries",Canal Rex
-https://rpn3.bozztv.com/ssh101/ssh101/rexelcanal/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Horrify.us" tvg-logo="https://i.imgur.com/N6H91zk.png" group-title="MovieSeries",Horrify
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
@@ -175,7 +154,7 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="exitosa-tv" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV
-https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/index.fmp4.m3u8
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="tvperu" tvg-logo="https://m3u.cl/logo/705_TV_Peru_Noticias.png" group-title="Peru",TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
@@ -234,9 +213,6 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-id="24-7-tv" tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png" group-title="General",24-7 TV
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="azteca7" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/azteca-7-logo-png-transparent.png" group-title="General",Azteca 7
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream/609ad46a7a441137107d7a81/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&pid=mz2kolSNR1nG6e4kZ8TkblHgPrL6b96N&sid=uUA2BfAtCxRwaNMPqy5eyKEOyPMuccxW&uid=zNI3pkvVCsT2dspkoAjLNGO31OMZxWbr&es=tvazteca-live-cdn-mdstrm-com.akamaized.net&ote=1703947467082&ot=yEqCQ8lT_iw3Yf-7CajfyA&proto=https&pz=us
-
 #EXTINF:-1 tvg-id="neotv" tvg-logo="https://live.neotv.mk/img/neoTv.png" group-title="General",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
@@ -264,15 +240,6 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="old-musictv" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Music",Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="memorias-tv" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV
-https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="recuerdos-retrotv" tvg-logo="https://recuerdosretro.com/wp-content/uploads/2022/03/cropped-logo_new_web10.png" group-title="Music",Radio Recuerdos Retro TV
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-
-#EXTINF:-1 tvg-id="much-music" tvg-logo="https://neotv.cl/assets/img/channels/muchmusic.png" group-title="Music",Much Music
-https://stream.kirachan.tech/memfs/2b10fb7c-f9ce-4383-ab2e-6ef143a39d2a.m3u8
-
 #EXTINF:-1 tvg-id="telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="Music",Telehit
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 
@@ -293,9 +260,6 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="trace-latina" tvg-logo="https://th.bing.com/th/id/OIP.StHYEESlkCFAV6CGntxqJgHaDh?pid=ImgDet&rs=1" group-title="Music",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="top-latino-tv" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music", TOP Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal-musica" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Music",El Canal de la Musica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
