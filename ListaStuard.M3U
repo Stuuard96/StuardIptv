@@ -177,8 +177,8 @@ http://38.44.237.132:2080/TeleLima/index.m3u8
 #EXTINF:-1 tvg-id="cajamarcatv" tvg-logo="https://th.bing.com/th/id/OIP.rTrMq9ydI3OxTvHgpaj_EAAAAA?rs=1&pid=ImgDetMain" group-title="Peru",Cajamarca TV
 https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
 
-#EXTINF:-1 tvg-id="qttv" tvg-logo="http://tv.10dailythings.com/images/channels/PE/qt-television-cuzco-720p-not-247/normal.png" group-title="Peru",QT Televisión
-https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 tvg-id="studiotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/studiotv.png" group-title="Peru",Studio TV
+https://ott1.hdlatam.tv/live/moyobamba/StudioTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bolivision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="General",Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -216,14 +216,8 @@ https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
 #EXTINF:-1 tvg-id="neotv" tvg-logo="https://live.neotv.mk/img/neoTv.png" group-title="General",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="wtv" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",WTV 
-https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="wtv2" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",W Televisión
+#EXTINF:-1 tvg-id="wtv" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",W Televisión
 https://live.obslivestream.com/wtv/index.m3u8
-
-#EXTINF:-1 tvg-id="nimtv" tvg-logo="https://th.bing.com/th/id/OIP.XJuYPbqcLPrWdG-n3vbY2QHaCe?rs=1&pid=ImgDetMain" group-title="General",Nim TV
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="General",Telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
@@ -239,6 +233,18 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="old-musictv" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Music",Old Music Televisión
 https://marine2.miplay.cl/oldmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mimusic-rom" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Romantica-Alpha-AOriginal-e1687305324582.png" group-title="Music",Mimusica Romántica
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mimusic-salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Music",Mimusica Salsa
+http://177.234.230.226:8010/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-id="mimusic-regg" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Music",Mimusica Reggaeton
+http://177.234.230.226:8010/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="mimusica-per" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Music",Mimusica Perú
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="Music",Telehit
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
