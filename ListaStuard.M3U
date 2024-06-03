@@ -99,7 +99,7 @@ https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-id="+cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="MovieSeries",+cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
-#EXTINF:-1 tvg-id="video-club" tvg-logo="https://i.imgur.com/auWtr20.png" group-title="CINE",Video Club
+#EXTINF:-1 tvg-id="video-club" tvg-logo="https://i.imgur.com/auWtr20.png" group-title="MovieSeries",Video Club
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
   
 #EXTINF:-1 tvg-id="telenorte" tvg-logo="https://neotv.cl/assets/img/channels/telenorte.png" group-title="MovieSeries",TeleNorte
