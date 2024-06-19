@@ -21,6 +21,9 @@ https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-id="adult-swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="Animation",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
 
+#EXTINF:-1 tvg-id="aniretro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="Animation",AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+
 #EXTINF:-1 tvg-id="taltaltv" tvg-logo="https://th.bing.com/th/id/OIP.EDVT1iGuk2IlHDZSxMQGnwHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
@@ -32,6 +35,9 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fanpoptv" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="Animation",Fanpop TV
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="greekz" tvg-logo="https://cdn.m3u.cl/logo/1583_Greekz.png" group-title="Animation",Greekz
+https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
 
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="Entertaiment",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
