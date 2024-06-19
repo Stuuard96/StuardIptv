@@ -17,6 +17,4 @@
 - https://neotv.cl/
 - https://memorias.tv/
 - https://www.energeek.cl/en-vivo
-- https://tvinsur.com/
-- https://artv.watch/es/
 - https://m3u.cl/lista-iptv-top.php
