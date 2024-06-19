@@ -108,9 +108,6 @@ https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-id="telenorte" tvg-logo="https://neotv.cl/assets/img/channels/telenorte.png" group-title="MovieSeries",TeleNorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="memories-film" tvg-logo="https://memorias.tv/wp-content/uploads/2024/01/logo-MEMORIAS-FILM-png-.png" group-title="MovieSeries",Memories Film
-https://stmv3.voxtvhd.com.br/memoriasfilm/memoriasfilm/playlist.m3u8
-
 #EXTINF:-1 tvg-id="oldtv" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="MovieSeries",Old
 https://marine2.miplay.cl/old/playlist.m3u8
 
