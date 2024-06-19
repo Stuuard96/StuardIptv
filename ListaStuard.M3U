@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="esports-max" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",Esports Max
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="Animation",MAX Anime
-https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pandamaxtv" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="Animation",Pandamax TV
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
@@ -23,9 +23,6 @@ http://38.7.223.20:8000/play/a02l
 
 #EXTINF:-1 tvg-id="taltaltv" tvg-logo="https://th.bing.com/th/id/OIP.EDVT1iGuk2IlHDZSxMQGnwHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="latino-kids" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="Animation",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
@@ -144,12 +141,6 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/i
 #EXTINF:-1 tvg-id="tvperu" tvg-logo="https://m3u.cl/logo/705_TV_Peru_Noticias.png" group-title="Peru",TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
-#EXTINF:-1 tvg-id="la-tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Peru",La Tele
-http://bantel.iptvperu.tv:1935/transcoder_t1/latele_t1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="globaltv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="Peru",Global Televisión
-http://bantel.iptvperu.tv:1935/transcoder_t1/global_t1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="peruch" tvg-logo="https://pbs.twimg.com/profile_images/1385792142329647107/iBTUTc12_400x400.jpg" group-title="Peru",Peru Channel
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 
@@ -161,9 +152,6 @@ http://38.44.237.132:2080/TeleLima/index.m3u8
 
 #EXTINF:-1 tvg-id="cajamarcatv" tvg-logo="https://th.bing.com/th/id/OIP.rTrMq9ydI3OxTvHgpaj_EAAAAA?rs=1&pid=ImgDetMain" group-title="Peru",Cajamarca TV
 https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
-
-#EXTINF:-1 tvg-id="studiotv" tvg-logo="http://core1.hdlatam.tv/media/images/channel/studiotv.png" group-title="Peru",Studio TV
-https://ott1.hdlatam.tv/live/moyobamba/StudioTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bolivision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/1200?cb=20220726175333&path-prefix=es" group-title="General",Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -186,9 +174,6 @@ https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="dititv" tvg-logo="https://radiotv.ar/img/l/dititv.jpg" group-title="General",Diti TV
 https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8
 
-#EXTINF:-1 tvg-id="limtv" tvg-logo="https://i.imgur.com/QGby81g.png" group-title="General",Lim TV
-https://tv.invasivamedia.com/hls/limtv.m3u8
-
 #EXTINF:-1 tvg-id="soltv" tvg-logo="https://seeklogo.com/images/S/sol-tv-logo-35CB5B14B6-seeklogo.com.gif" group-title="General",Sol Tv
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
@@ -201,17 +186,11 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="hoynet" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cocotv" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="General",COCO TV 
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
 #EXTINF:-1 tvg-id="24-7-tv" tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png" group-title="General",24-7 TV
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="neotv" tvg-logo="https://live.neotv.mk/img/neoTv.png" group-title="General",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-id="wtv" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png" group-title="General",W Televisión
-https://live.obslivestream.com/wtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="General",Telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
@@ -224,24 +203,6 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTINF:-1 tvg-id="the-retroch" tvg-logo="https://th.bing.com/th/id/R.c347e5349a3f359d435a16d5bf0984be?rik=nNNWsgHAtGde%2bw&pid=ImgRaw&r=0" group-title="Music",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="old-musictv" tvg-logo="https://pbs.twimg.com/media/FSimCx8X0AI_8QI?format=png&name=small" group-title="Music",Old Music Televisión
-https://marine2.miplay.cl/oldmusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mimusic-rom" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Romantica-Alpha-AOriginal-e1687305324582.png" group-title="Music",Mimusica Romántica
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mimusic-salsa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Music",Mimusica Salsa
-http://177.234.230.226:8010/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-id="mimusic-regg" tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Music",Mimusica Reggaeton
-http://177.234.230.226:8010/play/a020/index.m3u8
-
-#EXTINF:-1 tvg-id="mimusica-per" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/Logo-Mimusica-Peru-Alpha-AOriginal-e1687136439515-1024x362.png" group-title="Music",Mimusica Perú
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaperu_t1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="Music",Telehit
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hits-360" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="Music",Hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
@@ -285,47 +246,11 @@ http://190.61.43.123:45000/play/a060
 #EXTINF:-1 tvg-ID="espn7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="Sport",ESPN 7
 http://190.61.43.117:45000/play/a01g
 
-#EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN | Mexico
-http://38.56.118.88:4000/play/a00j/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2 MX" tvg-name="ESPN 2 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN 2 | Mexico
-http://38.56.118.88:4000/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3 MX" tvg-name="ESPN 3 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN 3 | Mexico
-http://38.56.118.88:4000/play/a00s/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 4 MX" tvg-name="ESPN 4 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN 4 | Mexico
-http://38.56.118.88:4000/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 5 MX" tvg-name="ESPN 5 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN 5 | Mexico
-http://38.56.118.88:4000/play/a07r/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 6 MX" tvg-name="ESPN 6 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN 6 | Mexico
-http://38.56.118.88:4000/play/a07t/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 7 MX" tvg-name="ESPN 7 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN 7 | Mexico
-http://38.56.118.88:4000/play/a07s/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 7 MX" tvg-name="ESPN 7 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN PREMIUM | Mexico
-http://38.56.118.88:4000/play/a07u/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 7 MX" tvg-name="ESPN 7 MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="PLAY",ESPN EXTRA | Mexico
-http://38.56.118.88:4000/play/a028/index.m3u8
-
-#EXTINF:-1 tvg-id="caracol" tvg-logo="https://i.imgur.com/dpmmFbA.png" group-title="Sport",Caracol
-http://190.61.43.117:45000/play/a02v
-
 #EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Sport",TV Publica
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46747.m3u8
 
-#EXTINF:-1 tvg-id="chv" tvg-logo="https://tvdaldia.cl/wp-content/uploads/2022/07/chv-contigo-1024x634.jpg" group-title="Sport",CHV Contigo
-https://jireh-1-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8?dpssid=b133754686481651cebc1e1261&sid=ba5t1l1xb219432494146562815e50eb0&ndvc=0
-
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-
-#EXTINF:-1 tvg-id="liga-premier" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Sport",La Liga Premier | Paramount+
-https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="Sport",Claro Sports
 https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b64f24a-b25b-11ee-a12f-e234da9d5862
