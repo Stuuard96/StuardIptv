@@ -15,6 +15,5 @@
 - https://www.compulms.net/xml/lista.html
 - https://i.mjh.nz/PlutoTV/
 - https://neotv.cl/
-- https://memorias.tv/
 - https://www.energeek.cl/en-vivo
 - https://m3u.cl/lista-iptv-top.php
