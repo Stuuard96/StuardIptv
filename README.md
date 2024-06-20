@@ -12,7 +12,7 @@
 - https://github.com/iptv-org/iptv/tree/master/streams
 - https://github.com/luisms123/tdt
 - https://github.com/angel200881?tab=repositories
-- https://www.compulms.net/xml/lista.html
+- https://compulms.info/xml/lista.html
 - https://i.mjh.nz/PlutoTV/
 - https://neotv.cl/
 - https://www.energeek.cl/en-vivo
