@@ -39,6 +39,9 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 #EXTINF:-1 tvg-id="greekz" tvg-logo="https://cdn.m3u.cl/logo/1583_Greekz.png" group-title="Animation",Greekz
 https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
 
+#EXTINF:-1 tvg-id="monitv" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="Animation",Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="Entertaiment",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 
@@ -161,6 +164,9 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="telecosta" tvg-logo="https://th.bing.com/th/id/OIP.qD7fpyr0t4aIXr2FTntuqQHaE8?rs=1&pid=ImgDetMain" group-title="General",Telecosta Escuintla
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-id="oromartv" tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/cropped-oromartv-logo.png" group-title="General",OromarTv
+http://181.78.78.105:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="telecaribe" tvg-logo="https://www.anesma.com/wp-content/uploads/2020/08/telecaribe.jpg" group-title="General",Tele Caribe
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
