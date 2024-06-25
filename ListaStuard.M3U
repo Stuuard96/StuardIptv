@@ -21,6 +21,9 @@ https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-id="adult-swim" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="Animation",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
 
+#EXTINF:-1 tvg-id="locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="Animation",Locomotion
+http://85.239.54.197:81/live/loco_hi/index.m3u8
+
 #EXTINF:-1 tvg-id="aniretro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="Animation",AniRetro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
@@ -72,12 +75,6 @@ https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-id="kanald" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Novelas",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="golden-plus" tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="MovieSeries",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="golden-premier" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier.png" group-title="MovieSeries",Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="mx-classic" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="MovieSeries",MX Classic
 https://marine2.miplay.cl/mxclassic/playlist.m3u8
 
@@ -99,11 +96,20 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="orbittv" tvg-logo="https://cdn.m3u.cl/logo/486_Orbit_TV.png" group-title="MovieSeries",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="mundo-series" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="MovieSeries",Mundo Series
+https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
+
 #EXTINF:-1 tvg-id="wow-movies" tvg-logo="https://wallpaperaccess.com/full/1077185.jpg" group-title="MovieSeries",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="+cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="MovieSeries",+cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
+
+#EXTINF:-1 tvg-id="big-cine" tvg-logo="https://i.ibb.co/1TjfCsY/Logo-Big-Cine.png" group-title="MovieSeries",Big Cine
+https://ssh101.bozztv.com/ssh101/canalonline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ticktv" tvg-logo="https://i.ibb.co/KzyZWvx/Logo-Tick-TV.png" group-title="MovieSeries",Tick TV
+https://ssh101.bozztv.com/ssh101/ticktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="video-club" tvg-logo="https://i.imgur.com/auWtr20.png" group-title="MovieSeries",Video Club
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
@@ -180,11 +186,14 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="conectatetv" tvg-logo="https://i.imgur.com/69KTqf4.png" group-title="General",Conectate TV
 https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="cromtv" tvg-logo="https://i.ibb.co/9919tSb/logo-Crom-TV.png" group-title="General",Crom TV
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
 #EXTINF:-1 tvg-id="dititv" tvg-logo="https://radiotv.ar/img/l/dititv.jpg" group-title="General",Diti TV
 https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca7" tvg-logo="https://lh5.googleusercontent.com/-WRHSZkHIfgo/TWrFF6t7PzI/AAAAAAAAAag/OlsA7MM5d-0/s1600/Azteca+7+logo+2011.jpg" group-title="General",Azteca 7
-http://181.78.105.146:2000/play/a08z/index.m3u8
+http://45.228.234.167:8000/play/a0la/index.m3u8
 
 #EXTINF:-1 tvg-id="soltv" tvg-logo="https://seeklogo.com/images/S/sol-tv-logo-35CB5B14B6-seeklogo.com.gif" group-title="General",Sol Tv
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
@@ -269,3 +278,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u
 
 #EXTINF:-1 tvg-id="la-1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240117T032718SQUARE.png_20240117032719.png" group-title="Sport",La 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0d6vD4coSsdc8wF8umj0rjvo5bZxQ9r3TeNsyNZ4qq4PlEzOusv9eVDvlWdVi80KF9ltur1f4LfJ2xVSl93yNpgZabFunN909DWUKUpV-wgPXTiqmaqNQPMP0xNYQTCdU8o-HDTpD0qmt_6gugfVq4Aj1xjNTZBfIoahPL5xT7xFuVF6K307G6CvVJrk/s400/14.png" group-title="Sport",Canal 10 CR
+https://acceso.radiosportstv.online:3138/stream/play.m3u8
