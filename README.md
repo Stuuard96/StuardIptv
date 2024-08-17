@@ -2,7 +2,6 @@
 
 ## Contribuciones:
 
-- https://github.com/bodegaacuenta/Moyobambaastral
 - https://github.com/emeaplay/IPTV-BASIC
 - https://github.com/BrianRVP/lista.m3u
 - https://github.com/andentv/packcanales
