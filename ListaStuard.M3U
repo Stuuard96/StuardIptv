@@ -18,11 +18,23 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://th.bing.com/th/id/OIP.JVmdBenXXXCMGfQorV5ohQHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Gogo Play TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 
+#EXTINF:-1 tvg-id="onegaitv" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="Animation",Anime Onegai TV 
+https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="Animation",Locomotion
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
+#EXTINF:-1 tvg-id="toonamitv" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="Animation",Toonami
+https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animezonetv" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
+http://animezonetv.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="taltaltv" tvg-logo="https://th.bing.com/th/id/OIP.EDVT1iGuk2IlHDZSxMQGnwHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="latinokidstv" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 #EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="Animation",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
@@ -228,8 +240,14 @@ http://38.41.8.1:8000/play/a0bs
 #EXTINF:-1 tvg-ID="espn-pre" tvg-logo="https://th.bing.com/th/id/R.6723ea67f1d619e7ab1c90ff0d3a5bda?rik=3Zu5PMVnFrSd0w&pid=ImgRaw&r=0" group-title="Sport",ESPN Premium
 http://38.41.8.1:8000/play/a02z
 
+#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
 #EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Sport",TV Publica
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46747.m3u8
 
-#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="Sport" ,Chilevision Deportes
+https://jmp2.uk/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65cf60d166eec80008724e6f" tvg-id="65cf60d166eec80008724e6f" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" tvg-chno="828" group-title="Sport" ,Azteca Deportes Premium
+https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
