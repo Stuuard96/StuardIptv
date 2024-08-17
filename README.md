@@ -17,4 +17,3 @@
 - https://www.energeek.cl/en-vivo
 - https://m3u.cl/lista-iptv-top.php
 - https://github.com/30332514/0/blob/main/xyz.txt
-- https://github.com/bharing19/Moyobambaastral
