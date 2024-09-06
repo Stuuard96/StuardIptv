@@ -133,13 +133,13 @@ https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+https://d19e55ehz2il4i.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="atvmas.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ 
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+https://d1svme839xkbsn.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="atvsur.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="willax" tvg-logo="https://th.bing.com/th/id/OIP.iEhtKR2LEo0sDubJU-_3kgHaB2?pid=ImgDet&rs=1" group-title="Peru",Willax
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
