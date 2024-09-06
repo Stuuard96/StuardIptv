@@ -141,11 +141,14 @@ https://d1svme839xkbsn.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="atvsur.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV Sur
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-id="globaltv" tvg-logo="https://th.bing.com/th/id/OIP.a_8b1cY7bTe6jh0eyCgSYAHaHN?rs=1&pid=ImgDetMain" group-title="Peru",Global TV
+https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
+
 #EXTINF:-1 tvg-id="willax" tvg-logo="https://th.bing.com/th/id/OIP.iEhtKR2LEo0sDubJU-_3kgHaB2?pid=ImgDet&rs=1" group-title="Peru",Willax
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Peru",PBO Digital
-https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="exitosa-tv" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
