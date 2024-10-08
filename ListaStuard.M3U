@@ -6,9 +6,6 @@ https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="Animation",MAX Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pandamaxtv" tvg-logo="https://i.imgur.com/7EZK59J.jpg" group-title="Animation",Pandamax TV
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-
 #EXTINF:-1 tvg-name="animeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="Animation",AnimeStation
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
@@ -18,11 +15,11 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://th.bing.com/th/id/OIP.JVmdBenXXXCMGfQorV5ohQHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Gogo Play TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 
+#EXTINF:-1 tvg-id="latinokidstv" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+
 #EXTINF:-1 tvg-id="onegaitv" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="Animation",Anime Onegai TV 
 https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="Animation",Locomotion
-http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="toonamitv" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="Animation",Toonami
 https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
@@ -33,17 +30,17 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="taltaltv" tvg-logo="https://th.bing.com/th/id/OIP.EDVT1iGuk2IlHDZSxMQGnwHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Taltal TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="latinokidstv" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+#EXTINF:-1 tvg-id="AniRetro" tvg-logo="https://neotv.cl/assets/img/channels/aniretro.png" group-title="Animation", AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
-#EXTINF:-1 tvg-id="varied-tv" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="Animation",VariedTV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1 tvg-id="ZTV" tvg-logo="https://neotv.cl/assets/img/channels/ZTV.png" group-title="Animation",Z Anime
+https://mitv.zplay.cl/Ztv/index.m3u8
 
 #EXTINF:-1 tvg-id="energeek" tvg-logo="https://neotv.cl/assets/img/channels/energeek-1.png" group-title="Animation",Energeek
-https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 
 #EXTINF:-1 tvg-id="fanpoptv" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="Animation",Fanpop TV
-https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
 #EXTINF:-1 tvg-id="monitv" tvg-logo="https://i.imgur.com/BjOe1RF.jpg" group-title="Animation",Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
@@ -54,12 +51,6 @@ https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="dw-latino" tvg-logo="https://th.bing.com/th/id/OIP.w4-0o5aWcNkHF1fxYVr6aAAAAA?pid=ImgDet&rs=1" group-title="Entertaiment",DW Latinoamerica
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="ontour-ch" tvg-logo="https://pbs.twimg.com/media/FSiiFtPXIAAjZZ8?format=png&name=120x120" group-title="Entertaiment",On Tour Channel
-https://marine2.miplay.cl/ontour/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Entertaiment",CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
 #EXTINF:-1 tvg-id="ox-network" tvg-logo="https://cdn.m3u.cl/logo/926_Oxigeno_Network.png" group-title="Entertaiment",Oxigeno Network
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
@@ -68,9 +59,6 @@ https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.bynREnuCV5Cb6QrmrwLudwHaBy?rs=1&pid=ImgDetMain" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
-
-#EXTINF:-1 tvg-id="bbc-drama" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Novelas",BBC Drama
-https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_BBCDrama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Novelas",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
@@ -84,14 +72,8 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="mx-family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="MovieSeries",MX Family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
 
-#EXTINF:-1 tvg-id="mx-prime" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="MovieSeries",MX Prime
-https://marine2.miplay.cl/mxprime/playlist.m3u8
-
 #EXTINF:-1 tvg-id="grjngo" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20220914T041136.png" group-title="MovieSeries", Grjngo
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="MovieSeries",Cine Sureño
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="MovieSeries",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -105,12 +87,6 @@ https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-id="wow-movies" tvg-logo="https://wallpaperaccess.com/full/1077185.jpg" group-title="MovieSeries",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="+cine" tvg-logo="https://neotv.cl/assets/img/channels/mascine.png" group-title="MovieSeries",+cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-
-#EXTINF:-1 tvg-id="big-cine" tvg-logo="https://i.ibb.co/1TjfCsY/Logo-Big-Cine.png" group-title="MovieSeries",Big Cine
-https://ssh101.bozztv.com/ssh101/canalonline/playlist.m3u8
-
 #EXTINF:-1 tvg-id="video-club" tvg-logo="https://i.imgur.com/auWtr20.png" group-title="MovieSeries",Video Club
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
@@ -119,9 +95,6 @@ https://marine2.miplay.cl/old/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleclasica" tvg-logo="https://latinartv.com/sites/default/files/logos/teleclasica.jpg" group-title="MovieSeries",Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Horrify.us" tvg-logo="https://i.imgur.com/N6H91zk.png" group-title="MovieSeries",Horrify
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="Latina-pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
 https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8
@@ -248,9 +221,3 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Sport",TV Publica
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/46747.m3u8
-
-#EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" tvg-chno="795" group-title="Sport" ,Chilevision Deportes
-https://jmp2.uk/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-65cf60d166eec80008724e6f" tvg-id="65cf60d166eec80008724e6f" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" tvg-chno="828" group-title="Sport" ,Azteca Deportes Premium
-https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
