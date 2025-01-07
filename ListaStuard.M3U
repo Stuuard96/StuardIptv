@@ -6,23 +6,14 @@ https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="Animation",MAX Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
-#EXTINF:-1 tvg-name="animeStation" tvg-logo="https://i.imgur.com/oaa8yMT.png" group-title="Animation",AnimeStation
-https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="magickids" tvg-logo="https://images.clarin.com/2019/11/16/magic-kids-el-logo-del___JajU6G2__720x0__1.jpg" group-title="Animation",Magic kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="gogoplay-tv" tvg-logo="https://th.bing.com/th/id/OIP.JVmdBenXXXCMGfQorV5ohQHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Gogo Play TV
-https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="latinokidstv" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
-#EXTINF:-1 tvg-id="onegaitv" tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="Animation",Anime Onegai TV 
-https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="toonamitv" tvg-logo="https://i.ibb.co/KqN6PK6/Logo-Toonami.png" group-title="Animation",Toonami
-https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="adult-swim" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU87VgwvgsVvkxsZ4Lhx-AbQplLVwmdwxh2MHwjv6-cfkKLfKdxanACuFwoZiE47JeJ3Y58FK9dj69nOTMsPOLf1BiBPx7g3TwMVy24NrF0Xpff9lT_xYE5cMlgbwF_jIaG1Lh40Lw4tuamw4q_RhSVypYoVRKkWcRaOEKjnS9MkpKAI_72Qkgw-hDziH/w640-h360-rw/adultswimtvlaint.jpg" group-title="Anime",Adult Swim
+http://live.budtvlight.com:25461/streaming/clients_live.php?username=bud-4583224&password=324a549067&stream=278391&extension=ts
 
 #EXTINF:-1 tvg-id="animezonetv" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
@@ -93,6 +84,9 @@ https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-id="wow-movies" tvg-logo="https://wallpaperaccess.com/full/1077185.jpg" group-title="MovieSeries",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="fmh-movies" tvg-logo="https://th.bing.com/th/id/OIP.VJ8zEUswXUsT1IPjA9iO1wHaCT?rs=1&pid=ImgDetMain" group-title="MovieSeries",FMH Movies
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
+
 #EXTINF:-1 tvg-id="video-club" tvg-logo="https://i.imgur.com/auWtr20.png" group-title="MovieSeries",Video Club
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
@@ -112,7 +106,7 @@ https://jireh-3-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="panamericanapetv" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",Panamericana Televisión
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
 https://d19e55ehz2il4i.cloudfront.net/index.m3u8
@@ -149,6 +143,12 @@ http://38.44.237.132:2080/TeleLima/index.m3u8
 
 #EXTINF:-1 tvg-id="cajamarcatv" tvg-logo="https://th.bing.com/th/id/OIP.rTrMq9ydI3OxTvHgpaj_EAAAAA?rs=1&pid=ImgDetMain" group-title="Peru",Cajamarca TV
 https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xtv" tvg-logo="https://th.bing.com/th/id/OIP.hTe2rsGuGFFWEZtSS8mf7AHaDO?rs=1&pid=ImgDetMain" group-title="Peru",XTV
+https://live-evg25.tv360.bitel.com.pe/bitel/xtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bolivisiontv" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png" group-title="General",Bolivisión
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="bayrestv" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="General",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
