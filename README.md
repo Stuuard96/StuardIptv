@@ -14,4 +14,4 @@
 - https://i.mjh.nz/PlutoTV/
 - https://neotv.cl/
 - https://www.energeek.cl/en-vivo
-- https://github.com/30332514/0/blob/main/xyz.txt
+- https://github.com/30332514/0
