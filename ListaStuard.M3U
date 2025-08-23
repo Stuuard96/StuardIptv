@@ -93,23 +93,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/xtv/playlist.m3u8
 #EXTINF:-1 tvg-id="bolivisiontv" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png" group-title="General",Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="bayrestv" tvg-logo="https://i.imgur.com/7afuOiE.png" group-title="General",Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-#EXTINF:-1 tvg-id="conectatetv" tvg-logo="https://i.imgur.com/69KTqf4.png" group-title="General",Conectate TV
-https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="cromtv" tvg-logo="https://i.ibb.co/9919tSb/logo-Crom-TV.png" group-title="General",Crom TV
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
-#EXTINF:-1 tvg-id="soltv" tvg-logo="https://seeklogo.com/images/S/sol-tv-logo-35CB5B14B6-seeklogo.com.gif" group-title="General",Sol Tv
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-
 #EXTINF:-1 tvg-id="planetatv" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="General",Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-
-#EXTINF:-1 tvg-id="hoynet" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="General",Hoynet
-https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="neotv" tvg-logo="https://live.neotv.mk/img/neoTv.png" group-title="General",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -138,13 +126,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.
 #EXTINF:-1 tvg-id="canal-musica" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Music",El Canal de la Musica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvp" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Sport",TV Publica
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/46747.m3u8
-
 #EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Deportivos" tvg-name="FIFA+",FIFA+
+#EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Sport" tvg-name="FIFA+",FIFA+
 https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN
@@ -158,6 +143,4 @@ http://200.60.124.19:29000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Sport",ESPN 4
 http://200.60.124.19:29000/play/a04y/index.m3u8
-
-
 
