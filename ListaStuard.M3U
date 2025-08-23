@@ -3,20 +3,11 @@
 #EXTINF:-1 tvg-id="magickids" tvg-logo="https://images.clarin.com/2019/11/16/magic-kids-el-logo-del___JajU6G2__720x0__1.jpg" group-title="Animation",Magic kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-id="latinokidstv" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-
-#EXTINF:-1 tvg-id="variedtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBnMDVk15RWaRVQux_yhhYa3xUQCZSHRUdA&s" group-title="Animation",Varied TV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1 tvg-id="variedtv" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.ciNLQ57SzHJ8XKSZgzFzEAHaBP?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Animation",Varied TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animezonetv" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="taltaltv" tvg-logo="https://th.bing.com/th/id/OIP.EDVT1iGuk2IlHDZSxMQGnwHaHa?rs=1&pid=ImgDetMain" group-title="Animation",Taltal TV
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AniRetro" tvg-logo="https://neotv.cl/assets/img/channels/aniretro.png" group-title="Animation", AniRetro
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 tvg-id="ZTV" tvg-logo="https://neotv.cl/assets/img/channels/ZTV.png" group-title="Animation",Z Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
@@ -24,14 +15,14 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF:-1 tvg-id="anime-onegai" tvg-logo="https://i.postimg.cc/CLTtf0zV/anime-onegai.png" group-title="Animation",anime onegai
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kanade" tvg-logo="https://i.ytimg.com/vi/XkLIqwsC2is/maxresdefault.jpg" group-title="Animation",Kanade
-https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa_output_0.m3u8
+#EXTINF:-1 tvg-id="gokutv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="Animation",GOKU TV
+https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
-#EXTINF:-1 tvg-id="energeek" tvg-logo="https://neotv.cl/assets/img/channels/energeek-1.png" group-title="Animation",Energeek
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF:-1 tvg-id="toonamitv" tvg-logo="https://logodix.com/logo/1828849.png" group-title="Animation",TOONAMI TV
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fanpoptv" tvg-logo="https://i.imgur.com/eKGk5FD.jpg" group-title="Animation",Fanpop TV
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1 tvg-id="max-anime" tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Animation",Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="Entertaiment",Sony One Sharktank
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -194,3 +185,4 @@ http://200.60.124.19:29000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Sport",ESPN 4
 http://200.60.124.19:29000/play/a04y/index.m3u8
+
