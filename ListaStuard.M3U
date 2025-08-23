@@ -87,12 +87,6 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Peru",Señal Perú TV
 https://livestream.perucast.com/low/stream.m3u8
 
-#EXTINF:-1 tvg-id="telelima" tvg-logo="https://www.telelima.pe/image/cache/catalog/latino/2-228x228.png" group-title="Peru",TeleLIMA
-http://38.44.237.132:2080/TeleLima/index.m3u8
-
-#EXTINF:-1 tvg-id="cajamarcatv" tvg-logo="https://th.bing.com/th/id/OIP.rTrMq9ydI3OxTvHgpaj_EAAAAA?rs=1&pid=ImgDetMain" group-title="Peru",Cajamarca TV
-https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
-
 #EXTINF:-1 tvg-id="xtv" tvg-logo="https://th.bing.com/th/id/OIP.hTe2rsGuGFFWEZtSS8mf7AHaDO?rs=1&pid=ImgDetMain" group-title="Peru",XTV
 https://live-evg25.tv360.bitel.com.pe/bitel/xtv/playlist.m3u8
 
@@ -164,5 +158,6 @@ http://200.60.124.19:29000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Sport",ESPN 4
 http://200.60.124.19:29000/play/a04y/index.m3u8
+
 
 
