@@ -45,6 +45,9 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="las-estrellas-lat" tvg-logo="https://i.postimg.cc/CKFjHCgX/lasestrellas.png" group-title="Novelas",Las Estrellas Latinoamerica
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="tequierotv" tvg-logo="https://i.postimg.cc/wTNYNLbc/Te-quiero-TV.png" group-title="Novelas",Te quiero TV
+https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="grjngo" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20220914T041136.png" group-title="MovieSeries", Grjngo
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -71,6 +74,9 @@ https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="globaltv" tvg-logo="https://th.bing.com/th/id/OIP.a_8b1cY7bTe6jh0eyCgSYAHaHN?rs=1&pid=ImgDetMain" group-title="Peru",Global TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
+
+#EXTINF:-1 tvg-id="latele" tvg-logo="https://i.postimg.cc/9fnTXgR6/latele.jpg" group-title="Peru",La Tele
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 
 #EXTINF:-1 tvg-id="willax" tvg-logo="https://th.bing.com/th/id/OIP.iEhtKR2LEo0sDubJU-_3kgHaB2?pid=ImgDet&rs=1" group-title="Peru",Willax
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8
@@ -135,12 +141,38 @@ https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN
 http://200.60.124.19:29000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Sport",ESPN 2
+#EXTINF:-1 tvg-id="ESPN-AR" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN AR
+http://177.234.230.206:8011/play/a0eh
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Sport",ESPN 2
 http://200.60.124.19:29000/play/a015/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Sport",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Sport",ESPN 3
 http://200.60.124.19:29000/play/a02e/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Sport",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4-AR" tvg-logo="https://i.postimg.cc/1tyWsZRF/ESPN4.png" group-title="Sport",ESPN 4 AR
+http://177.234.230.206:8011/play/a0ad
+
+#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Sport",ESPN 5
 http://200.60.124.19:29000/play/a04y/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Sport",ESPN 5 HD CA
+http://200.229.147.142:8000/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg" group-title="Sport",ESPN 6 CA
+http://200.229.147.142:8000/play/a04v/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg" group-title="Sport",ESPN 7
+http://177.234.230.206:8011/play/a0q1
+
+#EXTINF:-1 tvg-id="ESPN-premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Sport",ESPN Premium
+http://177.234.230.206:8011/play/a0o6
+
+#EXTINF:-1 tvg-id="laliga" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:LaLiga_logo_2023.svg" group-title="Sport",LA LIGA
+http://200.229.147.142:8000/play/a03h/index.m3u8
+
+#EXTINF:-1 tvg-id="l1-max" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Sport",L1 MAX
+http://200.60.124.19:29000/play/a07k/index.m3u8
+
+
 
