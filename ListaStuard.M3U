@@ -13,10 +13,13 @@ http://animezonetv.net/hls/stream.m3u8
 https://mitv.zplay.cl/Ztv/index.m3u8
 
 #EXTINF:-1 tvg-id="anime-onegai" tvg-logo="https://i.postimg.cc/CLTtf0zV/anime-onegai.png" group-title="Animation",anime onegai
-https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/playlist.m3u8
+https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gokutv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="Animation",GOKU TV
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dbs" tvg-logo="https://i.ibb.co/0j1QjYd5/DRAGON-BALL-SUPER.png" group-title="Animation",DRAGON BALL SUPER
+https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
 
 #EXTINF:-1 tvg-id="toonamitv" tvg-logo="https://logodix.com/logo/1828849.png" group-title="Animation",TOONAMI TV
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
@@ -69,6 +72,9 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina-pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="latina-cla" tvg-logo="https://i.ibb.co/27DL43BX/LATINA-CLASICOS.png" group-title="Peru",LATINA CLASICOS
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
+
 #EXTINF:-1 tvg-id="americatv" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Peru",América TV
 https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/playlist.m3u8
 
@@ -93,9 +99,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="willax" tvg-logo="https://th.bing.com/th/id/OIP.iEhtKR2LEo0sDubJU-_3kgHaB2?pid=ImgDet&rs=1" group-title="Peru",Willax
 https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="Peru",PBO Digital
-https://live-evg20.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="exitosa-tv" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8
 
@@ -104,9 +107,6 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Peru",Señal Perú TV
 https://livestream.perucast.com/low/stream.m3u8
-
-#EXTINF:-1 tvg-id="xtv" tvg-logo="https://th.bing.com/th/id/OIP.hTe2rsGuGFFWEZtSS8mf7AHaDO?rs=1&pid=ImgDetMain" group-title="Peru",XTV
-https://live-evg25.tv360.bitel.com.pe/bitel/xtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bolivisiontv" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png" group-title="General",Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -168,10 +168,11 @@ http://200.229.147.142:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg" group-title="Sport",ESPN 6 CA
 http://200.229.147.142:8000/play/a04v/index.m3u8
 
-#EXTINF:-1 tvg-id="l1-max" tvg-logo="https://i.postimg.cc/FR0mTPmV/LIGA-1-MAX.jpg" group-title="Sport",L1 MAX
-http://200.60.124.19:29000/play/a07k/index.m3u8
+#EXTINF:-1 tvg-id="l1" tvg-logo="https://i.ibb.co/7d027zDJ/L1.png" group-title="Sport",L1
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/164826.m3u8
 
+#EXTINF:-1 tvg-id="l1max" tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Sport",L1MAX
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/159941.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="movistar-dep" tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Sport",MOVISTAR DEPORTES
+http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.m3u8
