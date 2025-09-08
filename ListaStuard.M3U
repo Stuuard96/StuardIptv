@@ -33,15 +33,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 #EXTINF:-1 tvg-id="aniretro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Animation",Ani Retro
 https://tv.arkeo.cl:19360/8000/8000.m3u8
 
-#EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="Entertaiment",Sony One Sharktank
-https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dw-latino" tvg-logo="https://th.bing.com/th/id/OIP.w4-0o5aWcNkHF1fxYVr6aAAAAA?pid=ImgDet&rs=1" group-title="Entertaiment",DW Latinoamerica
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="ox-network" tvg-logo="https://cdn.m3u.cl/logo/926_Oxigeno_Network.png" group-title="Entertaiment",Oxigeno Network
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.bynREnuCV5Cb6QrmrwLudwHaBy?rs=1&pid=ImgDetMain" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
@@ -120,6 +111,15 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="neotv" tvg-logo="https://live.neotv.mk/img/neoTv.png" group-title="General",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-id="sharktank-sony" tvg-logo="https://i.imgur.com/p8nLe91.jpeg" group-title="General",Sony One Sharktank
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dw-latino" tvg-logo="https://th.bing.com/th/id/OIP.w4-0o5aWcNkHF1fxYVr6aAAAAA?pid=ImgDet&rs=1" group-title="Gerneral",DW Latinoamerica
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="ox-network" tvg-logo="https://cdn.m3u.cl/logo/926_Oxigeno_Network.png" group-title="General",Oxigeno Network
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="karibeña" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
@@ -176,3 +176,4 @@ http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/159941.m3u8
 
 #EXTINF:-1 tvg-id="movistar-dep" tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Sport",MOVISTAR DEPORTES
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.m3u8
+
