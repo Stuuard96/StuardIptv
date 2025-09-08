@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="magickids" tvg-logo="https://images.clarin.com/2019/11/16/magic-kids-el-logo-del___JajU6G2__720x0__1.jpg" group-title="Animation",Magic kids
-https://magicstream.ddns.net:443/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="variedtv" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.ciNLQ57SzHJ8XKSZgzFzEAHaBP?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Animation",Varied TV
-https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
-
-#EXTINF:-1 tvg-id="animezonetv" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
-http://animezonetv.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="ZTV" tvg-logo="https://neotv.cl/assets/img/channels/ZTV.png" group-title="Animation",Z Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
 
@@ -32,6 +23,30 @@ https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 
 #EXTINF:-1 tvg-id="aniretro" tvg-logo="https://i.ibb.co/Np8WdpM/Logo-Ani-Retro.png" group-title="Animation",Ani Retro
 https://tv.arkeo.cl:19360/8000/8000.m3u8
+
+#EXTINF:-1 tvg-id="teleanimemania" tvg-logo="https://i.ibb.co/60Dr3Rq3/Logo-Teleanimemania-Latino-2.png" group-title="Animation",Teleanimemania Latino HD
+https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a2/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="ninjach" tvg-id="NinjaChannel" tvg-logo="https://i.ibb.co/VYXgbZB8/Logo-Ninja-Z.png" group-title="Animation",Ninja Channel HD
+https://mitv.zplay.cl/Ninja_Channel/video.m3u8
+
+#EXTINF:-1 tvg-id="dftv" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="Animation",DFTV Animacion HD
+https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="animeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animation",AnimeStation HD publico
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="Animation",Anime Vision (Opcion 2)
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 tvg-id="taltaltv-peli" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Animation",TALTALTV ANIME (peliculas) HD
+https://live20.bozztv.com/akamaissh101/ssh101/taltal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="taltaltv-seri" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Animation",TALTALTV ANIME (series) HD
+https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+
+#EXTINF:-1 tvg-id="taltaltv-city" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Animation",TALTALTV ANIME (City Pop) HD
+https://live20.bozztv.com/giatvplayout7/giatv-210394/playlist.m3u8
 
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.bynREnuCV5Cb6QrmrwLudwHaBy?rs=1&pid=ImgDetMain" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
@@ -59,6 +74,18 @@ https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
 #EXTINF:-1 tvg-id="retroplus" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="MovieSeries",Retro Plus TV 3 HD
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plenitudtv" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="MovieSeries",Plenitud TV HD
+https://live20.bozztv.com/giatvplayout7/giatv-208727/playlist.m3u8
+
+#EXTINF:-1 tvg-id="redtv" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="MovieSeries",Red TV HD 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bbc-drama" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="MovieSeries",BBC Drama HD
+https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
+
+#EXTINF:-1 tvg-id="sony-cine" tvg-logo="https://i.ibb.co/kV3GzXqn/Logo-Sony-One-Cinema.png" group-title="MovieSeries",Sony One Cinema
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Latina-pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
@@ -176,5 +203,8 @@ http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/159941.m3u8
 
 #EXTINF:-1 tvg-id="movistar-dep" tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Sport",MOVISTAR DEPORTES
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.m3u8
+
+#EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 
