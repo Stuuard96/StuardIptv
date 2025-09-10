@@ -33,7 +33,7 @@ https://mitv.zplay.cl/Ninja_Channel/video.m3u8
 #EXTINF:-1 tvg-id="dftv" tvg-logo="https://i.ibb.co/20Bvt92m/Logo-DFTV-Animacion.jpg" group-title="Animation",DFTV Animacion HD
 https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="animeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animation",AnimeStation HD publico
+#EXTINF:-1 tvg-id="animeStation" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="Animation",AnimeStation HD publico
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animevision" tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="Animation",Anime Vision (Opcion 2)
@@ -206,5 +206,6 @@ http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.m3u8
 
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
 
 
