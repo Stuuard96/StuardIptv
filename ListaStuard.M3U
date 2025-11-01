@@ -18,6 +18,12 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="digimontv" tvg-logo="https://i.ibb.co/5xcmpZs6/logodigimon.png" group-title="Animation",Digimon Latino
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 
+#EXTINF:-1 tvg-id="onepiece" tvg-logo="https://i.ibb.co/HTzB7DHQ/Logo-One-Piece-2.jpg" group-title="Animation",One Piece Pluto TV Latino
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-0 tvg-id="anime-latino" tvg-logo="https://i.ibb.co/7dX0Hd7k/Logo-Pluto-TV-Anime.png" group-title="Animation",Pluto TV Anime Latino
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="teleanimemania" tvg-logo="https://i.ibb.co/60Dr3Rq3/Logo-Teleanimemania-Latino-2.png" group-title="Animation",Teleanimemania Latino HD
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a2/mono.ts.m3u8
 
@@ -56,12 +62,6 @@ https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="retroplus" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="MovieSeries",Retro Plus TV 3 HD
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="plenitudtv" tvg-logo="https://i.ibb.co/nbprpqk/Logo-Plenitud-TV.jpg" group-title="MovieSeries",Plenitud TV HD
-https://live20.bozztv.com/giatvplayout7/giatv-208727/playlist.m3u8
-
-#EXTINF:-1 tvg-id="redtv" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="MovieSeries",Red TV HD 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bbc-drama" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="MovieSeries",BBC Drama HD
 https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
@@ -165,20 +165,26 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Sport" tvg-name="FIFA+",FIFA+
 https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN
-http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-logo="hhttps://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN Argentina
+http://199.127.63.143:8989/278765_.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://i.postimg.cc/26c8xrVF/ESPN2.png" group-title="Sport",ESPN 2
-http://200.60.124.19:29000/play/a015/index.m3u8
+#EXTINF:-1 tvg-chno="espn2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Sport",ESPN 2 Sur América
+http://38.44.109.41:8003/play/a00v/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://i.postimg.cc/LXcfVtqV/ESPN3.jpg" group-title="Sport",ESPN 3
-http://200.60.124.19:29000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Sport",ESPN 3 Sur América
+http://45.184.87.142:8000/play/a04b
 
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Sport",ESPN 5
-http://200.60.124.19:29000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-id="espn5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Sport",ESPN 5 Sur América 
+http://38.44.109.41:8003/play/a03w/index.m3u
 
-#EXTINF:-1 tvg-id="ESPN5-CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Sport",ESPN 5 HD CA
-http://200.229.147.142:8000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="espn7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Sport",ESPN 7 Sur América
+http://38.44.109.41:8003/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-id="espn-pre" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Sport",ESPN Premium Sur
+http://190.102.246.93:9005/play/a029
+
+#EXTINF:-1 tvg-id="espn-dep" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Sport",ESPN Deportes
+http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=2221&extension=ts
 
 #EXTINF:-1 tvg-id="l1" tvg-logo="https://i.ibb.co/7d027zDJ/L1.png" group-title="Sport",L1
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/164826.m3u8
@@ -194,5 +200,6 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tigo-sports" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Sport",Tigo Sports CR
 http://45.5.117.99:8000/play/a02v/index.m3u8
+
 
 
