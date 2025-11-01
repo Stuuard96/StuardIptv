@@ -51,6 +51,9 @@ https://ott1.hdlatam.tv/live/tequierotv/playlist.m3u8
 #EXTINF:-1 tvg-id="sony-novela" tvg-logo="https://i.ibb.co/Mn2K6Km/Logo-Sony-Canal-Novelas.png" group-title="Novelas",Sony Canal Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="viki" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rakuten_Viki_2022.svg/500px-Rakuten_Viki_2022.svg.png" group-title="Novelas",Rakuten Viki
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
+
 #EXTINF:-1 tvg-id="retroplus" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="MovieSeries",Retro Plus TV 3 HD
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
@@ -99,6 +102,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="willax" tvg-logo="https://th.bing.com/th/id/OIP.iEhtKR2LEo0sDubJU-_3kgHaB2?pid=ImgDet&rs=1" group-title="Peru",Willax
 https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="canal-n" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="Peru",Canal N
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/278891.m3u8
+
 #EXTINF:-1 tvg-id="exitosa-tv" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Peru",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8
 
@@ -107,6 +113,9 @@ https://livestream.perucast.com/low/stream.m3u8
 
 #EXTINF:-1 tvg-id="bolivisiontv" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png" group-title="General",Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png" group-title="General",Chilevisión
+http://170.239.207.48:4050/play/CH64
 
 #EXTINF:-1 tvg-id="cromtv" tvg-logo="https://i.ibb.co/9919tSb/logo-Crom-TV.png" group-title="General",Crom TV
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
@@ -168,7 +177,7 @@ http://200.60.124.19:29000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Sport",ESPN 5
 http://200.60.124.19:29000/play/a04y/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Sport",ESPN 5 HD CA
+#EXTINF:-1 tvg-id="ESPN5-CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Sport",ESPN 5 HD CA
 http://200.229.147.142:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="l1" tvg-logo="https://i.ibb.co/7d027zDJ/L1.png" group-title="Sport",L1
@@ -182,5 +191,8 @@ http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.m3u8
 
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tigo-sports" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Sport",Tigo Sports CR
+http://45.5.117.99:8000/play/a02v/index.m3u8
 
 
