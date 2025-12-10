@@ -39,6 +39,9 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="taltaltv-peli" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Animation",TALTALTV ANIME (peliculas) HD
 https://live20.bozztv.com/akamaissh101/ssh101/taltal/playlist.m3u8
 
+#EXTINF:-1 tvg-id="anima-kids" tvg-logo="https://pbs.twimg.com/media/GyxAkNKWYAEnOBN?format=png&name=240x240" group-title="Animation",Anima Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8
+
 #EXTINF:-1 tvg-id="az-corazon" tvg-logo="https://th.bing.com/th/id/OIP.bynREnuCV5Cb6QrmrwLudwHaBy?rs=1&pid=ImgDetMain" group-title="Novelas",TV Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
@@ -165,32 +168,23 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Sport" tvg-name="FIFA+",FIFA+
 https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="espn" tvg-logo="hhttps://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN Argentina
-http://199.127.63.143:8989/278765_.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-logo="hhttps://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN
+http://181.205.130.194:4000/play/a07j
 
-#EXTINF:-1 tvg-chno="espn2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Sport",ESPN 2 Sur América
-http://38.44.109.41:8003/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="espn-co" tvg-logo="hhttps://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN CO
+http://181.205.130.194:4000/play/a08n
 
-#EXTINF:-1 tvg-id="espn3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Sport",ESPN 3 Sur América
-http://45.184.87.142:8000/play/a04b
+#EXTINF:-1 tvg-chno="espn2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Sport",ESPN 2
+http://181.205.130.194:4000/play/a0e5
 
-#EXTINF:-1 tvg-id="espn5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="Sport",ESPN 5 Sur América 
-http://38.44.109.41:8003/play/a03w/index.m3u
+#EXTINF:-1 tvg-id="espn2-latin" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Sport",ESPN 2 LATIN
+http://181.205.130.194:4000/play/a07i
 
-#EXTINF:-1 tvg-id="espn7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="Sport",ESPN 7 Sur América
-http://38.44.109.41:8003/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="espn6" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.VTDe8QsDTVVnjEUUAa3y4gHaBZ?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Sport",ESPN 6
+http://181.205.130.194:4000/play/a07t
 
-#EXTINF:-1 tvg-id="espn-pre" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="Sport",ESPN Premium Sur
-http://190.102.246.93:9005/play/a029
-
-#EXTINF:-1 tvg-id="espn-dep" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Sport",ESPN Deportes
-http://181.78.101.241:25461/streaming/clients_live.php?username=carlosmadrid.best&password=CMadrid25$&stream=2221&extension=ts
-
-#EXTINF:-1 tvg-id="l1" tvg-logo="https://i.ibb.co/7d027zDJ/L1.png" group-title="Sport",L1
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/164826.m3u8
-
-#EXTINF:-1 tvg-id="l1max" tvg-logo="https://i.ibb.co/4RxB4Zhq/L1MAX.png" group-title="Sport",L1MAX
-http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/159941.m3u8
+#EXTINF:-1 tvg-id="espn7" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/02/espn-7-logo.svg" group-title="Sport",ESPN 7
+http://181.205.130.194:4000/play/a0eh
 
 #EXTINF:-1 tvg-id="movistar-dep" tvg-logo="https://i.ibb.co/MxdFSrYB/MOVISTARDEPORTES.png" group-title="Sport",MOVISTAR DEPORTES
 http://magmas5.com:8000/live/luisyepez25/5JUZ0UHRUZ/132289.m3u8
@@ -200,6 +194,7 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tigo-sports" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Sport",Tigo Sports CR
 http://45.5.117.99:8000/play/a02v/index.m3u8
+
 
 
 
