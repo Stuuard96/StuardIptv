@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ZTV" tvg-logo="https://neotv.cl/assets/img/channels/ZTV.png" group-title="Animation",Z Anime
-https://mitv.zplay.cl/Ztv/index.m3u8
-
 #EXTINF:-1 tvg-id="gokutv" tvg-logo="https://m.media-amazon.com/images/I/51CeYLr3qCL._AC_SL1141_.jpg" group-title="Animation",GOKU TV
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
@@ -194,6 +191,7 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tigo-sports" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Sport",Tigo Sports CR
 http://45.5.117.99:8000/play/a02v/index.m3u8
+
 
 
 
