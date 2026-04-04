@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="toonamitv" tvg-logo="https://logodix.com/logo/1828849.png" group-title="Animation",TOONAMI TV
-https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="max-anime" tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Animation",Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
@@ -35,9 +32,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="viki" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rakuten_Viki_2022.svg/500px-Rakuten_Viki_2022.svg.png" group-title="Novelas",Rakuten Viki
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
-
-#EXTINF:-1 tvg-id="novl-turkas" tvg-logo="http://img.tvcluboficial.com/atv.png" group-title="Novelas",Novelas Turcas
-http://m3u.tvcluboficial.com/Reach.Bot/p6C/1120.m3u8
 
 #EXTINF:-1 tvg-id="retroplus" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="MovieSeries",Retro Plus TV 3 HD
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
@@ -103,9 +97,6 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="teleritmo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Music",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="voiceover" tvg-logo="https://i.imgur.com/qhLnq2W.png" group-title="Music",VoiceOver Radio CR
-https://cloudvideo.servers10.com:8081/8198/index.m3u8
-
 #EXTINF:-1 tvg-id="trace-latina" tvg-logo="https://th.bing.com/th/id/OIP.StHYEESlkCFAV6CGntxqJgHaDh?pid=ImgDet&rs=1" group-title="Music",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
 
@@ -121,14 +112,8 @@ http://38.44.109.41:8003/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="espn" tvg-logo="hhttps://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN
 http://181.205.130.194:4000/play/a07j
 
-#EXTINF:-1 tvg-id="espn-co" tvg-logo="hhttps://i.postimg.cc/43x5SQWv/ESPN.jpg" group-title="Sport",ESPN CO
-http://181.205.130.194:4000/play/a08n
-
 #EXTINF:-1 tvg-chno="espn2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Sport",ESPN 2
 http://181.205.130.194:4000/play/a0e5
-
-#EXTINF:-1 tvg-id="espn2-latin" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3-mediano.png" group-title="Sport",ESPN 2 LATIN
-http://181.205.130.194:4000/play/a07i
 
 #EXTINF:-1 tvg-id="espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/250px-ESPN3_Logo.png" group-title="Sport",ESPN 3
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=3534411405&_cdn_token=85d83da943d5b336577e79d59a5d1633b7776e67
@@ -159,9 +144,4 @@ http://45.5.117.99:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="l1-max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnX2ifbGoB-nuwJBR6YX9h_YrKUm-DOV372g&s" group-title="Sport",L1MAX Peru
 http://190.117.20.37:8000/play/a08c/index.m3u8
-
-#EXTINF:-1 tvg-id="movistar-depor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png" group-title="Sport",Movistar Deportes Peru
-http://190.117.20.37:8000/play/a0ay/index.m3u8
-
-
 
