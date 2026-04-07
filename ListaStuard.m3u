@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="max-anime" tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Animation",Max Anime
+#EXTINF:-1 tvg-id="max-anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Max_Anime_Logo.png" group-title="Animation",Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="teleanimemania" tvg-logo="https://i.ibb.co/60Dr3Rq3/Logo-Teleanimemania-Latino-2.png" group-title="Animation",Teleanimemania Latino HD
@@ -39,6 +39,9 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="viki" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rakuten_Viki_2022.svg/500px-Rakuten_Viki_2022.svg.png" group-title="Novelas",Rakuten Viki
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
 
+#EXTINF:-1 tvg-id="novelisima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Novelisima_logo.png" group-title="Novelas",Novelísima
+https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
+
 #EXTINF:-1 tvg-id="retroplus" tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="MovieSeries",Retro Plus TV 3 HD
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
@@ -58,7 +61,7 @@ https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="americatv" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Peru",América TV
-https://live-evg20.tv360.bitel.com.pe/bi1hdXJo2iREl2QRnNGxtA/1775419470/bitel/America-udp/playlist.m3u8?uid=39364
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=3771053363&_cdn_token=befe228261cfd848b1890320087af743c182d6a2
 
 #EXTINF:-1 tvg-id="atv.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
@@ -84,6 +87,9 @@ https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-logo="https://i.imgur.com/1q0R6R9.png" group-title="Peru",Señal Perú TV
 https://livestream.perucast.com/low/stream.m3u8
 
+#EXTINF:-1 tvg-id="Telelima" tvg-logo="https://pbs.twimg.com/media/FwOtdL0XoAAV01H?format=png&name=small" group-title="Peru",Tele Lima
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="bolivisiontv" tvg-logo="https://3.bp.blogspot.com/-OFbQmNvw9ns/XCFQN1j9pUI/AAAAAAAAHOU/_HbtJbA4x-ADtnD5ol6JDZmTrRmZCtOSgCLcBGAs/w350-h350-p-k-no-nu/Bolivision%2Ben%2Bvivo.png" group-title="General",Bolivisión
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
@@ -105,7 +111,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="trace-latina" tvg-logo="https://th.bing.com/th/id/OIP.StHYEESlkCFAV6CGntxqJgHaDh?pid=ImgDet&rs=1" group-title="Music",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/116745iC79D86FD3EB914B8?v=v2" group-title="Sport",Real Madrid TV
+#EXTINF:-1 tvg-ID="rmtv" tvg-logo="https://tvonlinegratis.es/wp-content/uploads/2021/09/Real-Madrid-tv-logo-1.png" group-title="Sport",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Sport" tvg-name="FIFA+",FIFA+
@@ -135,11 +141,8 @@ http://189.50.210.3:8008/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="espn-premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="Sport",ESPN Premium
 http://45.238.54.67:8000/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-id="espan-depor" tvg-logo="https://newswhip.sirv.com/WP_www.newswhip.com/2018/02/Espndeportes.png" group-title="Sport",ESPN Deportes
+#EXTINF:-1 tvg-id="espn-depor" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.CztmWnR-qr1rO-92ksJTmwHaCv?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Sport",ESPN Deportes
 http://200.58.64.244:9000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-id="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSports
-http://177.10.184.193:8000/play/a0fc/index.m3u8
 
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
@@ -150,6 +153,24 @@ http://45.5.117.99:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="l1-max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnX2ifbGoB-nuwJBR6YX9h_YrKUm-DOV372g&s" group-title="Sport",L1MAX Peru
 http://190.117.20.37:8000/play/a08c/index.m3u8
 
-#EXTINF:-1 tvg-id="sky-laliga" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="SPORT",Sky Sports La Liga
+#EXTINF:-1 tvg-id="sky-laliga" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Sport",Sky Sports La Liga
 http://190.14.10.19:16000/play/a09u
+
+#EXTINF:-1 tvg-id="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSports
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES", 158 | ESPN
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=3534410893&_cdn_token=1884d58e6acae25ab3c3c096cc4b3cefd5a2bc39
+#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/250px-ESPN2_logo.svg.png" group-title="DEPORTES", 159 | ESPN 2
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=3534411101&_cdn_token=ee00dd3a3222822b3858d31e6d5f06f9d4e6ee54
+#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/250px-ESPN3_Logo.png" group-title="DEPORTES", 160 | ESPN 3
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=3534411405&_cdn_token=85d83da943d5b336577e79d59a5d1633b7776e67
+#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="DEPORTES", 161 | ESPN 4
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN4_stream_jg&_cdn_session=3534411533&_cdn_token=6756f5b914b973227dc69f3c77cadf4418d4290f
+#EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="DEPORTES", 162 | ESPN 5
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
+#EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/250px-ESPN_6_logo.svg.png" group-title="DEPORTES", 163 | ESPN 6
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN6/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN6_stream_0n&_cdn_session=3534412037&_cdn_token=838a4c3501f854001a1b2a14cd50ec8a07f2121f
+#EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/250px-ESPN_7_logo.svg.png" group-title="DEPORTES", 164 | ESPN 7
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN7/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN7_stream_hu&_cdn_session=3534412477&_cdn_token=f1651ec4d9fe391d3c2fb7239c904ce251c247fa
 
