@@ -117,12 +117,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20241022T050442SQUARE.png" group-title="Sport" tvg-name="FIFA+",FIFA+
 https://f7ef8624.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c1NwYW5pc2hfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="espnc" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Sport",ESPN Chile
-http://189.50.210.3:8008/play/a04h/index.m3u8
-
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="Sport",ESPN Argentina
-http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47111&extension=ts
-
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2-mediano.png" group-title="Sport",ESPN 2 Argentina
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47100&extension=ts
 
@@ -135,15 +129,6 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-ll-hls/live-media.m3
 #EXTINF:-1 tvg-id="espn5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="Sport",ESPN 5
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
 
-#EXTINF:-1 tvg-id="espn6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="Sport",ESPN 6 Sur América
-http://189.50.210.3:8008/play/a04c/index.m3u8
-
-#EXTINF:-1 tvg-id="espn-premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="Sport",ESPN Premium
-http://45.238.54.67:8000/play/a031/index.m3u8
-
-#EXTINF:-1 tvg-id="espn-depor" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.CztmWnR-qr1rO-92ksJTmwHaCv?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Sport",ESPN Deportes
-http://200.58.64.244:9000/play/a00i/index.m3u8
-
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
@@ -152,9 +137,6 @@ http://45.5.117.99:8000/play/a02v/index.m3u8
 
 #EXTINF:-1 tvg-id="l1-max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnX2ifbGoB-nuwJBR6YX9h_YrKUm-DOV372g&s" group-title="Sport",L1MAX Peru
 http://190.117.20.37:8000/play/a08c/index.m3u8
-
-#EXTINF:-1 tvg-id="sky-laliga" tvg-logo="https://www.bundesliga-international.com/wordpress/wp-content/uploads/2021/08/Sky_Sports_PRIMARY_RGB-1536x329.png" group-title="Sport",Sky Sports La Liga
-http://190.14.10.19:16000/play/a09u
 
 #EXTINF:-1 tvg-id="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Sport",DSports
 http://177.10.184.193:8000/play/a0fc/index.m3u8
