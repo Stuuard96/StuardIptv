@@ -132,7 +132,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-ll-hls/live-media.m3
 #EXTINF:-1 tvg-id="espn5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="Sport",ESPN 5
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
 
-#EXTINF:-1 tvg-id="espn-pre" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.kaomAVdvIQeShdMJJBTCDAHaD4?rs=1&pid=ImgDetMain&o=7&rm=3" group-tilte="Sport",ESPN Premium
+#EXTINF:-1 tvg-id="espn-pre" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.kaomAVdvIQeShdMJJBTCDAHaD4?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Sport",ESPN Premium
 http://46.225.94.157/hls/espn/index.m3u8
 
 #EXTINF:-1 tvg-id="being-extra" tvg-logo="https://i.ibb.co/JRhbWQsV/Logo-Bein-Xtra-Espanol.png" group-title="Sport",Bein Xtra Espanol HD
